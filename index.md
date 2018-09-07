@@ -52,6 +52,9 @@ constraints). You can attend any discussion section(s) you want.
 
 <h3 id="lab">Labs</h3>
 
+<h3 id="si">Supplemental Instruction</h3>
+
+
 <h3>Grading</h3>
 
 Your grade will be computed from:
