@@ -40,11 +40,17 @@ In this course, we'll ...
 
 You are enrolled in a specific lecture section and a specific lab section, and
 you cannot attend the lecture or lab for another section (due to space
-reasons). You can attend any discussion section(s) you want.
+constraints). You can attend any discussion section(s) you want.
 
 <h3 id="engage">Engagement</h3>
 
+<h3 id="exams">Exams</h3>
 
+<h3 id="pas">Programming Assignments</h3>
+
+<h3 id="exams">Exams</h3>
+
+<h3 id="lab">Labs</h3>
 
 <h3>Grading</h3>
 
