@@ -7,7 +7,7 @@ doodle: "/doodle.png"
 # Introduction to Programming in Java I
 
 <p>
-<a href="https://jpolitz.github.io">Prof Mia Minnes</a> (Instructor)
+<a href="http://cseweb.ucsd.edu/~minnes/index.html">Prof Mia Minnes</a> (Instructor)
 <a href="https://jpolitz.github.io">Prof Joe Gibbs Politz</a> (Instructor)
 </p>
 
