@@ -21,7 +21,7 @@ doodle: "/doodle.png"
 In this course, we'll ...
 
 <a id="basics">
-## Basics
+## Basics JOE
 
 - Lecture: 
 
