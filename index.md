@@ -73,10 +73,7 @@ In this course, we'll ...
 
 <a id="schedule">
 
-
 <a id="staff">
-
-<a id="grading">
 
 <a id="policies">
 
@@ -86,15 +83,11 @@ You are enrolled in a specific lecture section and a specific lab section, and
 you cannot attend the lecture or lab for another section (due to space
 constraints). You can attend any discussion section(s) you want.
 
-<h3 id="engage">Engagement</h3>
+<h3 id="engage">Engagement</h3> MIA
+<h3 id="pas">Programming Assignments</h3> MIA
 
-<h3 id="exams">Exams</h3>
-
-<h3 id="pas">Programming Assignments</h3>
-
-<h3 id="exams">Exams</h3>
-
-<h3 id="lab">Labs</h3>
+<h3 id="exams">Exams</h3> JOE
+<h3 id="lab">Labs</h3> JOE
 
 <h3 id="si">Supplemental Instruction</h3>
 
