@@ -112,7 +112,7 @@ for midterm 2, and then score a 75% on part 1 of the final, 25% on part 2, and
 
 - MAX(0.5, 0.75) * 8 = 6 points for midterm 1
 - MAX(1, 0.25) * 8 = 8 points for midterm 2
-- 0.75 * 8 + 0.25 * 8 + 100 * 0.8 = 16 points for the final exam
+- 0.75 * 8 + 0.25 * 8 + 1 * 0.8 = 16 points for the final exam
 - A total of exam points
 
 
