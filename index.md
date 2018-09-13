@@ -6,22 +6,19 @@ doodle: "/doodle.png"
 
 # Introduction to Programming in Java I
 
-<p>
-<a href="http://cseweb.ucsd.edu/~minnes/index.html">Prof Mia Minnes</a> (Instructor)
-<a href="https://jpolitz.github.io">Prof Joe Gibbs Politz</a> (Instructor)
-</p>
-
 In this course, you will learn to write, trace, and test programs; explore
 the interactions between programs and data; and use computation to answer
 questions you care about.
 
-<p>
-<a href="#basics">Basics</a> -
-<a href="#schedule">Schedule</a> -
-<a href="#staff">Staff &amp; Resources</a> -
+<a href="#basics">Basics</a>
+
+<a href="#schedule">Schedule</a>
+
+<a href="#staff">Staff</a>
+
 <a href="#policies">Policies</a>
-<a href="#materials">Materials</a> –
-</p>
+
+<a href="#materials">Materials</a>
 
 <a id="basics"></a>
 ## Basics
@@ -80,6 +77,11 @@ FILL big schedule
 
 
 <a id="staff"></a>
+
+<p>
+<a href="http://cseweb.ucsd.edu/~minnes/index.html">Prof Mia Minnes</a> (Instructor)
+<a href="https://jpolitz.github.io">Prof Joe Gibbs Politz</a> (Instructor)
+</p>
 
 <a id="policies"></a>
 ## Policies
