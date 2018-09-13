@@ -59,12 +59,12 @@ In this course, you will:
 
 - Discussion: Discussion section will often directly relate to your programming assignments.  You can attend any discussion section you like.
 
-| Discussion| Time     | Location | TA | Type |
+| Discussion| Time     | Location | Leader | Type |
 | :-------: |:--------:| :-------:| :--------: | :--------: |
-| A01       | M 5pm    | PCYNH122 | TBA     | SI |
-| A02       | M 6pm    | PCYNH122 | TBA     | SI |
-| B01       | M 7pm    | PCYNH122 | TBA     | SI |
-| B02       | M 8pm    | PCYNH122 | TBA     | SI |
+| A01       | M 5pm    | PCYNH122 | TBA     | Supplemental Instruction |
+| A02       | M 6pm    | PCYNH122 | TBA     | Supplemental Instruction |
+| B01       | M 7pm    | PCYNH122 | TBA     | Supplemental Instruction |
+| B02       | M 8pm    | PCYNH122 | TBA     | Supplemental Instruction |
 | C01       | W 6pm    | CENTR214 | TBA     | TA review | 
 | C02       | W 7pm    | CENTR214 | TBA     | TA review |
 | D01       | W 6:30pm | CENTR212 | TBA     | TA review |
