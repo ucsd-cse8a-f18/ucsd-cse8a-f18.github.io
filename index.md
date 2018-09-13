@@ -24,6 +24,7 @@ Policies
 - <a href="#lab">Labs</a>
 - <a href="#si">Supplemental Instruction</a>
 - <a href="#grading">Grading</a>
+- <a href="#detailed-outcomes">Detailed Learning Outcomes</a>
 
 <a id="basics"></a>
 ## Basics
@@ -76,11 +77,14 @@ Policies
 
 **Final exam** Wednesday 12/12/2018	7pm-9:59pm
 
+## Schedule
+
 <a id="schedule"></a>
 
 FILL big schedule
 
 
+## Staff
 <a id="staff"></a>
 
 <p>
