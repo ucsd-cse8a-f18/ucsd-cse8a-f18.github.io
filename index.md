@@ -117,6 +117,23 @@ attending two lectures and getting two answers correct on the review  quiz; etc.
 
 <h3 id="pas">Programming Assignments</h3> 
 
+Learn by doing!  Most weeks, you will be working on a programming assignment for this class.
+You will feel the intense excitement of seeing your work come alive through the computer, and 
+also the equally intense frustration of wading through error messages and tricky bugs.  Both of these
+are at the heart of what it means to be a computer scientist.  The programming assignments are designed
+to invite your creativity, problem solving skills, tenacity, and interests. When you find yourself stuck
+during your work on a programming assignment, ask for help:
+
+* Open lab hours
+
+* Instructor and TA office hours
+
+
+Remember to always read the programming assignment description carefully.  Some programming assignments will
+be **pair-programming** assignments, where you are expected to develop the algorithm and code in close collaboration 
+with a partner; others will be **individual** assignments, where you will gain confidence with your own mastery
+of the material.
+
 
 
 <h3 id="exams">Exams</h3>
@@ -161,8 +178,8 @@ policies](https://senate.ucsd.edu/operating-procedures/educational-policies/cour
 <h3 id="lab">Labs</h3>
 
 Along with the course, you are enrolled in a lab section, which meets each
-Tuesday in one of the student labs in the (newly renovated) basement of the CSE building.  
-Your will work in a group in lab.  We will assign the groups and group assignments may 
+Tuesday in one of the student labs in the (newly renovated) basement of the CSE building.
+You will work in a group in lab.  We will assign the groups and group assignments may 
 change from week to week: you are starting your journey into Computer Science and we want
 to help you meet your classmates who will be with you along the way.  All labs must be finished
 in the allotted class time.  As a group, you will create a lab report each week and your TA will review
