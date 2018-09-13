@@ -21,9 +21,9 @@ doodle: "/doodle.png"
 In this course, we'll ...
 
 <a id="basics">
-## Basics JOE
+## Basics
 
-- Lecture: Due to space constraints, you must attend the lecture in which you're enrolled.
+- Lecture: Due to space constraints, you must attend the lecture in which you're enrolled.  Expect class to be interactive; you'll work through problems in groups, compare multiple approaches to problem, and answer multiple-choice questions using iClickers (see <a href="#engage">Engagement</a> below).
 
 | Lecture | Time     | Location | Instructor |
 | :-----: |:--------:| :-------:| :--------: |
@@ -83,6 +83,7 @@ You are enrolled in a specific lecture section and a specific lab section, and
 you cannot attend the lecture or lab for another section (due to space
 constraints). You can attend any discussion section(s) you want.
 
+<a name="engage"></a>
 <h3 id="engage">Engagement</h3> <!-- MIA -->
 <h3 id="pas">Programming Assignments</h3> <!-- MIA -->
 
