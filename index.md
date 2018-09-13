@@ -98,18 +98,15 @@ earn credit for attending and participating in lecture (2 points each) and discu
 Clicker questions will be graded for participation only and not for correctness of the response. 
 Full credit for clicker points for a given day will be 
 awarded for clicking in at least 80/% of the time that day. Forgetting your clicker counts as missing a class, so please 
-remember to bring it!
-
-Do not attempt to falsify iClicker or discussion participation or review quiz submissions; this would be considered a violation of academic integrity.
+remember to bring it! _Do not attempt to falsify iClicker or discussion participation or review quiz submissions; this would be considered a violation of academic integrity._
 
 * __Weekly (P)review quiz__ Online quizzes review the week's material and preview some upcoming examples each week. You can 
 submit your answers to each quiz as many times as you like. The latest submission before 11pm on Sunday will count towards 
 your engagement score. Each weekly review quiz will be worth 6 points.  Review quizzes will stay available even after the 
 deadline; in the past, students have found working through them to be helpful when studying for exams.
-
-The review quiz must be completed independently and individually. You may refer to your class notes and slides + resources, 
+_The review quiz must be completed independently and individually. You may refer to your class notes and slides + resources, 
 but not other references. You may not share information about the review quiz with others, take the review quiz in someone 
-else's name, or ask anyone for prior knowledge about the review quiz.
+else's name, or ask anyone for prior knowledge about the review quiz._
 
 
 We encourage you to find your preferred method for staying engaged with the course.  There are lots of ways to earn
