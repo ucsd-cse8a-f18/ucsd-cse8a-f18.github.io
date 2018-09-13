@@ -23,7 +23,7 @@ In this course, we'll ...
 <a id="basics">
 ## Basics
 
-- Lecture:  Expect class to be interactive; you'll work through problems in groups, compare multiple approaches to problem, and answer multiple-choice questions using iClickers (see <a href="#engage">Engagement</a> below). Due to space constraints, you must attend the lecture in which you're enrolled. 
+- Lecture:  Expect class to be interactive; you'll work through problems in groups, compare multiple approaches to solutions, and answer multiple-choice questions using iClickers (see <a href="#engage">Engagement</a> below). Due to space constraints, you must attend the lecture in which you're enrolled. 
 
 | Lecture | Time     | Location | Instructor |
 | :-----: |:--------:| :-------:| :--------: |
@@ -128,12 +128,16 @@ during your work on a programming assignment, ask for help:
 
 * Instructor and TA office hours
 
+* Private questions to instructors on the class discussion board on Piazza
+
 
 Remember to always read the programming assignment description carefully.  Some programming assignments will
 be **pair-programming** assignments, where you are expected to develop the algorithm and code in close collaboration 
 with a partner; others will be **individual** assignments, where you will gain confidence with your own mastery
 of the material.
 
+PA0 counts towards 2% of your overall course grade, the rest of the assignments (PA1 through PA8) each count towards 5% 
+of your overall course grade.
 
 
 <h3 id="exams">Exams</h3>
@@ -193,10 +197,11 @@ it and give you feedback.
 Your grade will be computed from:
 
 <ul>
-  <li>40% programming assignments</li>
+  <li>42% programming assignments (2% for PA0, 5% for each of PA1 through PA8)</li>
   <li>40% exams (8% each for two midterms, 24% for a final exam)</li>
   <li>10% lab work (completed in lab each week)</li>
   <li>10% engagement</li>
 </ul>
 
+Yes, this adds up to 102% .
 
