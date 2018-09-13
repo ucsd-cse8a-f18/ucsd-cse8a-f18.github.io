@@ -59,16 +59,16 @@ In this course, you will:
 
 - Discussion: Discussion section will often directly relate to your programming assignments.  You can attend any discussion section you like.
 
-| Discussion| Time     | Location | TA |
-| :-------: |:--------:| :-------:| :--------: |
-| A01       | M 5pm    | PCYNH122 | TBA     |
-| A02       | M 6pm    | PCYNH122 | TBA     |
-| B01       | M 7pm    | PCYNH122 | TBA     |
-| B02       | M 8pm    | PCYNH122 | TBA     |
-| C01       | W 6pm    | CENTR214 | TBA     |
-| C02       | W 7pm    | CENTR214 | TBA     |
-| D01       | W 6:30pm | CENTR212 | TBA     |
-| D02       | W 7:30pm | CENTR212 | TBA     |
+| Discussion| Time     | Location | TA | Type |
+| :-------: |:--------:| :-------:| :--------: | :--------: |
+| A01       | M 5pm    | PCYNH122 | TBA     | SI |
+| A02       | M 6pm    | PCYNH122 | TBA     | SI |
+| B01       | M 7pm    | PCYNH122 | TBA     | SI |
+| B02       | M 8pm    | PCYNH122 | TBA     | SI |
+| C01       | W 6pm    | CENTR214 | TBA     | TA review | 
+| C02       | W 7pm    | CENTR214 | TBA     | TA review |
+| D01       | W 6:30pm | CENTR212 | TBA     | TA review |
+| D02       | W 7:30pm | CENTR212 | TBA     | TA review |
 
 
 - Lab Sessions: You will work closely in groups to experiment with class concepts and delve deeper into the material.  You must attend the lab session in which you are enrolled.
