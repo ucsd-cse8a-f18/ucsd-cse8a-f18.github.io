@@ -21,6 +21,7 @@ Policies
 - <a href="#materials">Materials</a>
 - <a href="#engage">Engagement</a>
 - <a href="#pas">Programming Assignments</a>
+- <a href="#exams">Exams</a>
 - <a href="#lab">Labs</a>
 - <a href="#si">Supplemental Instruction</a>
 - <a href="#grading">Grading</a>
@@ -114,11 +115,6 @@ will be linked to from some assignments and is always a useful reference
 while programming.
 
 
-<h3>Sections</h3>
-
-You are enrolled in a specific lecture section and a specific lab section, and
-you cannot attend the lecture or lab for another section (due to space
-constraints). You can attend any discussion section(s) you want.
 
 <a name="engage"></a>
 <h3 id="engage">Engagement</h3>
@@ -225,6 +221,8 @@ change from week to week: you are starting your journey into Computer Science an
 to help you meet your classmates who will be with you along the way.  All labs must be finished
 in the allotted class time.  As a group, you will create a lab report each week and your TA will review
 it and give you feedback.
+
+You must attend the lab section for which you are enrolled.
 
 <h3 id="si">Supplemental Instruction</h3>
 
