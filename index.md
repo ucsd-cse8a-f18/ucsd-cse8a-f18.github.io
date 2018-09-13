@@ -37,7 +37,7 @@ questions you care about.
 | C00     | MWF 9am  | CENTR119 | Minnes     |
 | D00     | MWF 2pm  | WLH2005  | Politz     |
 
-- Discussion: Discussion section will often directly relate to your programming assignments.  You can attend any discussion section you like.
+- Discussion: There are two kinds of discussion section: Supplemental Instructions will facilitate study-session group summaries of class content and practice exercises; TA review sessions will often directly relate to your programming assignments.  You can attend any discussion section you like.
 
 | Discussion| Time     | Location | Leader | Type |
 | :-------: |:--------:| :-------:| :--------: | :--------: |
