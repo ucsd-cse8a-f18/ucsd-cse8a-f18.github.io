@@ -68,7 +68,7 @@ In this course, you will:
 | C01       | W 6pm    | CENTR214 | TBA     |
 | C02       | W 7pm    | CENTR214 | TBA     |
 | D01       | W 6:30pm | CENTR212 | TBA     |
-| D02       | M 7:30pm | CENTR212 | TBA     |
+| D02       | W 7:30pm | CENTR212 | TBA     |
 
 
 - Lab Sessions: You will work closely in groups to experiment with class concepts and delve deeper into the material.  You must attend the lab session in which you are enrolled.
