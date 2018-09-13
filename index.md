@@ -16,9 +16,14 @@ questions you care about.
 
 <a href="#staff">Staff</a>
 
-<a href="#policies">Policies</a>
+Policies
 
-<a href="#materials">Materials</a>
+- <a href="#materials">Materials</a>
+- <a href="#engage">Engagement</a>
+- <a href="#pas">Programming Assignments</a>
+- <a href="#lab">Labs</a>
+- <a href="#si">Supplemental Instruction</a>
+- <a href="#grading">Grading</a>
 
 <a id="basics"></a>
 ## Basics
@@ -86,6 +91,7 @@ FILL big schedule
 <a id="policies"></a>
 ## Policies
 
+<a id="materials"></a>
 <h3>Materials</h3>
 
 There is no textbook for the course. The schedule above will link to all the
@@ -219,6 +225,7 @@ it and give you feedback.
 <h3 id="si">Supplemental Instruction</h3>
 
 
+<a id="grading"></a>
 <h3>Grading</h3>
 
 Your grade will be computed from:
