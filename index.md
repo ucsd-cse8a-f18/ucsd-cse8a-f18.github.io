@@ -104,7 +104,8 @@ remember to bring it! _Do not attempt to falsify iClicker or discussion particip
 submit your answers to each quiz as many times as you like. The latest submission before 11pm on Sunday will count towards 
 your engagement score. Each weekly review quiz will be worth 6 points.  Review quizzes will stay available even after the 
 deadline; in the past, students have found working through them to be helpful when studying for exams.
-_The review quiz must be completed independently and individually. You may refer to your class notes and slides + resources, 
+_The review quiz must be completed independently and individually. You may refer to your class notes and resources linked from 
+this website, 
 but not other references. You may not share information about the review quiz with others, take the review quiz in someone 
 else's name, or ask anyone for prior knowledge about the review quiz._
 
@@ -114,7 +115,9 @@ full credit for a week's engagement.  For example: (1) attending all lectures (f
 (2) attending two lectures and two discussion sections; or (3) answering all questions on the review quiz correctly; or (4) 
 attending two lectures and getting two answers correct on the review  quiz; etc.
 
-<h3 id="pas">Programming Assignments</h3> <!-- MIA -->
+<h3 id="pas">Programming Assignments</h3> 
+
+
 
 <h3 id="exams">Exams</h3>
 
@@ -158,7 +161,12 @@ policies](https://senate.ucsd.edu/operating-procedures/educational-policies/cour
 <h3 id="lab">Labs</h3>
 
 Along with the course, you are enrolled in a lab section, which meets each
-Tuesday.
+Tuesday in one of the student labs in the (newly renovated) basement of the CSE building.  
+Your will work in a group in lab.  We will assign the groups and group assignments may 
+change from week to week: you are starting your journey into Computer Science and we want
+to help you meet your classmates who will be with you along the way.  All labs must be finished
+in the allotted class time.  As a group, you will create a lab report each week and your TA will review
+it and give you feedback.
 
 <h3 id="si">Supplemental Instruction</h3>
 
