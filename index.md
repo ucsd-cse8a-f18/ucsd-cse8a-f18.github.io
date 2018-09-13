@@ -18,31 +18,11 @@ doodle: "/doodle.png"
 <a href="#policies">Policies</a>
 </p>
 
-In this course, you will:
+In this course, you will learn to write, trace, and test programs; explore
+the interactions between programs and data; and use computation to answer
+questions you care about.
 
-- Explore computation and data
-  - Identify what information is stored and how it is organized in a computer
-  - Manipulate and inspect data with programs
-  - Transform data into a form suitable for presentation
-  - Hypothesize results of programs and make sense of the actual outcomes
-- Use computation to answer relevant questions
-  - Identify the computational part of problems you care about
-  - Leverage commonly-used tools
-- Write, trace, and test programs
-  - Predict the output of a program by inspecting its code
-  - Gain confidence in answers by testing programs
-  - Identify and fix mistakes in existing programs
-  - Design well-organized programs using computational constructs (mostly in Java):
-    - Values
-    - Operations
-    - Variables
-    - Library methods
-    - Structured data
-    - Collections of data
-    - Method definitions
-    - Iteration
-    - Conditional evaluation
-    - External interfaces
+
 
 
 <a id="basics"></a>
@@ -96,11 +76,58 @@ In this course, you will:
 
 **Final exam** Wednesday 12/12/2018	7pm-9:59pm
 
-<a id="schedule">
+<a id="schedule"></a>
 
-<a id="staff">
+<a id="detailed-outcomes"></a>
+## Learning Outcomes
 
-<a id="policies">
+- Explore computation and data
+  - Identify what information is stored and how it is organized in a computer
+  - Manipulate and inspect data with programs
+  - Transform data into a form suitable for presentation
+  - Hypothesize results of programs and make sense of the actual outcomes
+- Use computation to answer relevant questions
+  - Identify the computational part of problems you care about
+  - Leverage commonly-used tools
+- Write, trace, and test programs
+  - Predict the output of a program by inspecting its code
+  - Gain confidence in answers by testing programs
+  - Identify and fix mistakes in existing programs
+  - Design well-organized programs using computational constructs (mostly in Java):
+    - Values
+    - Operations
+    - Variables
+    - Library methods
+    - Structured data
+    - Collections of data
+    - Method definitions
+    - Iteration
+    - Conditional evaluation
+    - External interfaces
+
+
+<a id="staff"></a>
+
+<a id="policies"></a>
+## Policies
+
+<h3>Materials</h3>
+
+There is no textbook for the course. The schedule above will link to all the
+reference material you need for the course.
+
+To get credit for lectures and discussions, you must have an iClicker. You
+can register it through [this google form FILL]. We use clickers and have you
+work on problems in lecture because there’s quite a bit of evidence that
+sitting and listening passively to lecture [probably isn’t the best way to
+teach or learn
+science](https://www.nature.com/news/why-we-are-teaching-science-wrong-and-how-to-make-it-right-1.17963).
+
+[The documentation for the Java
+language](https://docs.oracle.com/javase/10/), while not required reading,
+will be linked to from some assignments and is always a useful reference
+while programming.
+
 
 <h3>Sections</h3>
 
