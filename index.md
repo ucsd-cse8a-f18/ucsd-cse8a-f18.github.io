@@ -18,9 +18,34 @@ doodle: "/doodle.png"
 <a href="#policies">Policies</a>
 </p>
 
-In this course, we'll ...
+In this course, you will:
 
-<a id="basics">
+- Explore computation and data
+  - Identify what information is stored and how it is organized in a computer
+  - Manipulate and inspect data with programs
+  - Transform data into a form suitable for presentation
+  - Hypothesize results of programs and make sense of the actual outcomes
+- Use computation to answer relevant questions
+  - Identify the computational part of problems you care about
+  - Leverage commonly-used tools
+- Write, trace, and test programs
+  - Predict the output of a program by inspecting its code
+  - Gain confidence in answers by testing programs
+  - Identify and fix mistakes in existing programs
+  - Design well-organized programs using computational constructs (mostly in Java):
+    - Values
+    - Operations
+    - Variables
+    - Library methods
+    - Structured data
+    - Collections of data
+    - Method definitions
+    - Iteration
+    - Conditional evaluation
+    - External interfaces
+
+
+<a id="basics"></a>
 ## Basics
 
 - Lecture:  Expect class to be interactive; you'll work through problems in groups, compare multiple approaches to solutions, and answer multiple-choice questions using iClickers (see <a href="#engage">Engagement</a> below). Due to space constraints, you must attend the lecture in which you're enrolled. 
