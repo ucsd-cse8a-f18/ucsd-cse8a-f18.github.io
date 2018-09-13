@@ -11,19 +11,17 @@ doodle: "/doodle.png"
 <a href="https://jpolitz.github.io">Prof Joe Gibbs Politz</a> (Instructor)
 </p>
 
+In this course, you will learn to write, trace, and test programs; explore
+the interactions between programs and data; and use computation to answer
+questions you care about.
+
 <p>
 <a href="#basics">Basics</a> -
 <a href="#schedule">Schedule</a> -
 <a href="#staff">Staff &amp; Resources</a> -
 <a href="#policies">Policies</a>
+<a href="#materials">Materials</a> –
 </p>
-
-In this course, you will learn to write, trace, and test programs; explore
-the interactions between programs and data; and use computation to answer
-questions you care about.
-
-
-
 
 <a id="basics"></a>
 ## Basics
@@ -78,32 +76,7 @@ questions you care about.
 
 <a id="schedule"></a>
 
-<a id="detailed-outcomes"></a>
-## Learning Outcomes
-
-- Explore computation and data
-  - Identify what information is stored and how it is organized in a computer
-  - Manipulate and inspect data with programs
-  - Transform data into a form suitable for presentation
-  - Hypothesize results of programs and make sense of the actual outcomes
-- Use computation to answer relevant questions
-  - Identify the computational part of problems you care about
-  - Leverage commonly-used tools
-- Write, trace, and test programs
-  - Predict the output of a program by inspecting its code
-  - Gain confidence in answers by testing programs
-  - Identify and fix mistakes in existing programs
-  - Design well-organized programs using computational constructs (mostly in Java):
-    - Values
-    - Operations
-    - Variables
-    - Library methods
-    - Structured data
-    - Collections of data
-    - Method definitions
-    - Iteration
-    - Conditional evaluation
-    - External interfaces
+FILL big schedule
 
 
 <a id="staff"></a>
@@ -256,4 +229,31 @@ Your grade will be computed from:
 </ul>
 
 Yes, this adds up to 102% .
+
+<a id="detailed-outcomes"></a>
+### Learning Outcomes
+
+- Explore computation and data
+  - Identify what information is stored and how it is organized in a computer
+  - Manipulate and inspect data with programs
+  - Transform data into a form suitable for presentation
+  - Hypothesize results of programs and make sense of the actual outcomes
+- Use computation to answer relevant questions
+  - Identify the computational part of problems you care about
+  - Leverage commonly-used tools
+- Write, trace, and test programs
+  - Predict the output of a program by inspecting its code
+  - Gain confidence in answers by testing programs
+  - Identify and fix mistakes in existing programs
+  - Design well-organized programs using computational constructs (mostly in Java):
+    - Values
+    - Operations
+    - Variables
+    - Library methods
+    - Structured data
+    - Collections of data
+    - Method definitions
+    - Iteration
+    - Conditional evaluation
+    - External interfaces
 
