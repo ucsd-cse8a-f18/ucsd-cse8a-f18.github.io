@@ -23,7 +23,7 @@ In this course, we'll ...
 <a id="basics">
 ## Basics JOE
 
-- Lecture: 
+- Lecture: Due to space constraints, you must attend the lecture in which you're enrolled.
 
 | Lecture | Time     | Location | Instructor |
 | :-----: |:--------:| :-------:| :--------: |
@@ -32,7 +32,7 @@ In this course, we'll ...
 | C00     | MWF 9am  | CENTR119 | Minnes     |
 | D00     | MWF 2pm  | WLH2005  | Politz     |
 
-- Discussion: 
+- Discussion: Discussion section will often directly relate to your programming assignments.  You can attend any discussion section you like.
 
 | Discussion| Time     | Location | TA |
 | :-------: |:--------:| :-------:| :--------: |
@@ -46,7 +46,7 @@ In this course, we'll ...
 | D02       | M 7:30pm | CENTR212 | TBA     |
 
 
-- Lab Sessions: 
+- Lab Sessions: You will work closely in groups to experiment with class concepts and delve deeper into the material.  You must attend the lab session in which you are enrolled.
 
 | Lab section | Time     | Location | TA |
 | :---------: |:--------:| :-------:| :--------: |
