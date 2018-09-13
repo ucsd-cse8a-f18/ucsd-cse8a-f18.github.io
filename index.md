@@ -28,7 +28,7 @@ questions you care about.
 <a id="basics"></a>
 ## Basics
 
-- Lecture:  Expect class to be interactive; you'll work through problems in groups, compare multiple approaches to solutions, and answer multiple-choice questions using iClickers (see <a href="#engage">Engagement</a> below). Due to space constraints, you must attend the lecture in which you're enrolled. 
+*Lecture*  Expect class to be interactive; you'll work through problems in groups, compare multiple approaches to solutions, and answer multiple-choice questions using iClickers (see <a href="#engage">Engagement</a> below). Due to space constraints, you must attend the lecture in which you're enrolled. 
 
 | Lecture | Time     | Location | Instructor |
 | :-----: |:--------:| :-------:| :--------: |
@@ -37,7 +37,7 @@ questions you care about.
 | C00     | MWF 9am  | CENTR119 | Minnes     |
 | D00     | MWF 2pm  | WLH2005  | Politz     |
 
-- Discussion: There are two kinds of discussion section: Supplemental Instructions will facilitate study-session group summaries of class content and practice exercises; TA review sessions will often directly relate to your programming assignments.  You can attend any discussion section you like.
+*Discussion* There are two kinds of discussion section: Supplemental Instructions will facilitate study-session group summaries of class content and practice exercises; TA review sessions will often directly relate to your programming assignments.  You can attend any discussion section you like.
 
 | Discussion| Time     | Location | Leader | Type |
 | :-------: |:--------:| :-------:| :--------: | :--------: |
@@ -51,7 +51,7 @@ questions you care about.
 | D02       | W 7:30pm | CENTR212 | TBA     | TA review |
 
 
-- Lab Sessions: You will work closely in groups to experiment with class concepts and delve deeper into the material.  You must attend the lab session in which you are enrolled.
+*Lab Sessions* You will work closely in groups to experiment with class concepts and delve deeper into the material.  You must attend the lab session in which you are enrolled.
 
 | Lab section | Time     | Location | TA |
 | :---------: |:--------:| :-------:| :--------: |
@@ -68,7 +68,7 @@ questions you care about.
 | D51       | Tu 2pm | CSE B240 | TBA     |
 | D52       | Tu 3pm | CSE B240 | TBA     |
 
-- Exams: There will be two exams during the quarter, held in the evenings during Week 3 and Week 7 of the Fall quarter.  The Final exam is on Wednesday of exam week.
+*Exams* There will be two exams during the quarter, held in the evenings during Week 3 and Week 7 of the Fall quarter.  The Final exam is on Wednesday of exam week.
 
 **Exam 1** Thursday 10/18/2018	8pm-9:50pm
 
