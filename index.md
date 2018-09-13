@@ -86,7 +86,37 @@ constraints). You can attend any discussion section(s) you want.
 <h3 id="engage">Engagement</h3> MIA
 <h3 id="pas">Programming Assignments</h3> MIA
 
-<h3 id="exams">Exams</h3> JOE
+<h3 id="exams">Exams</h3>
+
+There will be three total exams in the course: two during the quarter (also
+called “midterms”) and a final exam. The midterms will be in the evening during
+the quarter. They will primarily contain content from the weeks leading up to
+them. Since the programming content is cumulative, the second exam will
+necessarily contain content from the first exam, as well.
+
+Seats will be assigned for all exam sessions and announced beforehand, and you
+must bring your school ID to the exam. All work on exams is to be done on your
+own, and you are not allowed to use any electronics or study aids during the
+exam (aside from those needed for University-approved academic accommodations).
+
+The first two exams will each be worth 8% of your final grade. The final exam
+will be worth 24% of your final grade. The final exam will have a specific
+structure – it will be broken into three parts corresponding to material from
+the first exam, the second exam, and the remainder of the course. Your grade
+for each midterm will be the *maximum* of the midterm grade and the score you
+get on the corresponding part of the final exam.
+
+For example, if you get 50% of the points for midterm 1 and 100% of the points
+for midterm 2, and then score a 75% on part 1 of the final, 25% on part 2, and
+100% on part 3, you would get:
+
+- MAX(0.5, 0.75) * 8 = 6 points for midterm 1
+- MAX(1, 0.25) * 8 = 8 points for midterm 2
+- 0.75 * 8 + 0.25 * 8 + 100 * 0.8 = 16 points for the final exam
+- A total of exam points
+
+
+
 <h3 id="lab">Labs</h3> JOE
 
 <h3 id="si">Supplemental Instruction</h3>
