@@ -23,7 +23,7 @@ In this course, we'll ...
 <a id="basics">
 ## Basics
 
-- Lecture: Due to space constraints, you must attend the lecture in which you're enrolled.  Expect class to be interactive; you'll work through problems in groups, compare multiple approaches to problem, and answer multiple-choice questions using iClickers (see <a href="#engage">Engagement</a> below).
+- Lecture:  Expect class to be interactive; you'll work through problems in groups, compare multiple approaches to problem, and answer multiple-choice questions using iClickers (see <a href="#engage">Engagement</a> below). Due to space constraints, you must attend the lecture in which you're enrolled. 
 
 | Lecture | Time     | Location | Instructor |
 | :-----: |:--------:| :-------:| :--------: |
@@ -84,7 +84,39 @@ you cannot attend the lecture or lab for another section (due to space
 constraints). You can attend any discussion section(s) you want.
 
 <a name="engage"></a>
-<h3 id="engage">Engagement</h3> <!-- MIA -->
+<h3 id="engage">Engagement</h3>
+
+We highly recommend actively participating in class, attending discussion, and completing the weekly review quizzes. Regularly
+engaging with the class in these ways counts towards the Engagement component of your overall score.
+
+This score is calculated on a weekly basis (starting in Week 1).  The maximum number of points you can earn in one week is 6.
+The lowest weekly participation score will be dropped when calculating your overall engagement average.
+
+Earn engagement points by:
+* __In class participation via iClickers__  In Weeks 1 through 10 (starting with the second lecture of the quarter), you will 
+earn credit for attending and participating in lecture (2 points each) and discussion section (1 point). 
+Clicker questions will be graded for participation only and not for correctness of the response. 
+Full credit for clicker points for a given day will be 
+awarded for clicking in at least 80/% of the time that day. Forgetting your clicker counts as missing a class, so please 
+remember to bring it!
+
+Do not attempt to falsify iClicker or discussion participation or review quiz submissions; this would be considered a violation of academic integrity.
+
+** __Weekly (P)review quiz__ Online quizzes review the week's material and preview some upcoming examples each week. You can 
+submit your answers to each quiz as many times as you like. The latest submission before 11pm on Sunday will count towards 
+your engagement score. Each weekly review quiz will be worth 6 points.  Review quizzes will stay available even after the 
+deadline; in the past, students have found working through them to be helpful when studying for exams.
+
+The review quiz must be completed independently and individually. You may refer to your class notes and slides + resources, 
+but not other references. You may not share information about the review quiz with others, take the review quiz in someone 
+else's name, or ask anyone for prior knowledge about the review quiz.
+
+
+We encourage you to find your preferred method for staying engaged with the course.  There are lots of ways to earn
+full credit for a week's engagement.  For example: (1) attending all lectures (for the section in which you're enrolled); or
+(2) attending two lectures and two discussion sections; or (3) answering all questions on the review quiz correctly; or (4) 
+attending two lectures and getting two answers correct on the review  quiz; etc.
+
 <h3 id="pas">Programming Assignments</h3> <!-- MIA -->
 
 <h3 id="exams">Exams</h3>
