@@ -147,7 +147,7 @@ Policies
 <a id="schedule"></a>
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBt6J84DZl8HwRnBlJfJ-cAW3Vi7VjI5A3X6enkdNRcDclCotOutJim--MJZj_zr9wpyLmGqXy_51t/pubhtml?gid=30684399&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="400px"
-chrome = "false"></iframe>
+chrome = false></iframe>
 
 ## Staff
 <a id="staff"></a>
