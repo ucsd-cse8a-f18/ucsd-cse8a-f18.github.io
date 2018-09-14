@@ -90,20 +90,48 @@ Policies
 
 *Lab Sessions* You will work closely in groups to experiment with class concepts and delve deeper into the material.  You must attend the lab session in which you are enrolled.
 
-| Lab section | Time     | Location | TA |
-| :---------: |:--------:| :-------:| :--------: |
-| A50       | Tu 9am  | CSE B230 | TBA     |
-| A51       | Tu 10am | CSE B230 | TBA     |
-| A52       | Tu 11am | CSE B230 | TBA     |
-| B50       | Tu 9am  | CSE B240 | TBA     |
-| B51       | Tu 10am | CSE B240 | TBA     |
-| B52       | Tu 11am | CSE B240 | TBA     |
-| C50       | Tu 1pm | CSE B230 | TBA     |
-| C51       | Tu 2pm | CSE B230 | TBA     |
-| C52       | Tu 3pm | CSE B230 | TBA     |
-| D50       | Tu 1pm | CSE B240 | TBA     |
-| D51       | Tu 2pm | CSE B240 | TBA     |
-| D52       | Tu 3pm | CSE B240 | TBA     |
+<table class="table table-striped">
+<thead>
+  <tr>
+  <th> Lab section</th><th>Time</th><th>Location</th><th>TA</th>
+  </tr>
+</thead>
+<tr>
+  <td> A50 </td><td>Tu 9am </td><td>CSE B230 </td><td>TBA</td>
+</tr>
+<tr>
+  <td> A51 </td><td>Tu 10am </td><td>CSE B230 </td><td>TBA</td>
+</tr>
+<tr>
+  <td> A52 </td><td>Tu 11am </td><td>CSE B230 </td><td>TBA</td>
+</tr>
+<tr>
+  <td> B50 </td><td>Tu 9am </td><td>CSE B240 </td><td>TBA</td>
+</tr>
+<tr>
+  <td> B51 </td><td>Tu 10am </td><td>CSE B240 </td><td>TBA</td>
+</tr>
+<tr>
+  <td> B52 </td><td>Tu 11am </td><td>CSE B240 </td><td>TBA</td>
+</tr>
+<tr>
+  <td> C50 </td><td>Tu 1pm </td><td>CSE B230 </td><td>TBA</td>
+</tr>
+<tr>
+  <td> C51 </td><td>Tu 2pm </td><td>CSE B230 </td><td>TBA</td>
+</tr>
+<tr>
+  <td> C52 </td><td>Tu 3pm </td><td>CSE B230 </td><td>TBA</td>
+</tr>
+<tr>
+  <td> D50 </td><td>Tu 1pm </td><td>CSE B240 </td><td>TBA</td>
+</tr>
+<tr>
+  <td> D51 </td><td>Tu 2pm </td><td>CSE B240 </td><td>TBA</td>
+</tr>
+<tr>
+  <td> D52 </td><td>Tu 3pm </td><td>CSE B240 </td><td>TBA</td>
+</tr>
 
 *Exams* There will be two exams during the quarter, held in the evenings during Week 3 and Week 7 of the Fall quarter.  The Final exam is on Wednesday of exam week.
 
@@ -117,7 +145,7 @@ Policies
 
 <a id="schedule"></a>
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBt6J84DZl8HwRnBlJfJ-cAW3Vi7VjI5A3X6enkdNRcDclCotOutJim--MJZj_zr9wpyLmGqXy_51t/pubhtml?gid=30684399&amp;single=true&amp;widget=true&amp;headers=false" width="100%"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBt6J84DZl8HwRnBlJfJ-cAW3Vi7VjI5A3X6enkdNRcDclCotOutJim--MJZj_zr9wpyLmGqXy_51t/pubhtml?gid=30684399&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="400px"></iframe>
 
 ## Staff
 <a id="staff"></a>
