@@ -41,16 +41,38 @@ Policies
 
 *Discussion* There are two kinds of discussion section: Supplemental Instructions will facilitate study-session group summaries of class content and practice exercises; TA review sessions will often directly relate to your programming assignments.  You can attend any discussion section you like.
 
-| Discussion| Time     | Location | Leader | Type |
-| :-------: |:--------:| :-------:| :--------: | :--------: |
-| A01       | M 5pm    | PCYNH122 | TBA     | Supplemental Instruction |
-| A02       | M 6pm    | PCYNH122 | TBA     | Supplemental Instruction |
-| B01       | M 7pm    | PCYNH122 | TBA     | Supplemental Instruction |
-| B02       | M 8pm    | PCYNH122 | TBA     | Supplemental Instruction |
-| C01       | W 6pm    | CENTR214 | TBA     | TA review | 
-| C02       | W 7pm    | CENTR214 | TBA     | TA review |
-| D01       | W 6:30pm | CENTR212 | TBA     | TA review |
-| D02       | W 7:30pm | CENTR212 | TBA     | TA review |
+<table class="table table-striped">
+<thead>
+  <tr>
+  <th> Discussion</th><th>Time</th><th>Location</th><th>Leader</th><th><Type</th>
+  </tr>
+</thead>
+<tr>
+  <td>A01 </td><td> M 5pm </td><td> PCYNH122 </td><td> TBA </td><td> Supplemental Instruction</td>
+</tr>
+<tr>
+  <td>A02 </td><td> M 6pm </td><td> PCYNH122 </td><td> TBA </td><td> Supplemental Instruction</td>
+</tr>
+<tr>
+  <td>B01 </td><td> M 7pm </td><td> PCYNH122 </td><td> TBA </td><td> Supplemental Instruction</td>
+</tr>
+<tr>
+  <td>B02 </td><td> M 8pm </td><td> PCYNH122 </td><td> TBA </td><td> Supplemental Instruction</td>
+</tr>
+<tr>
+  <td>C01 </td><td> W 6pm </td><td> CENTR214 </td><td> TBA </td><td> TA review</td>
+</tr>
+<tr>
+  <td>C02 </td><td> W 7pm </td><td> CENTR214 </td><td> TBA </td><td> TA review</td>
+</tr>
+<tr>
+  <td>D01 </td><td> W 5:30pm </td><td> CENTR212 </td><td> TBA </td><td> TA review</td>
+</tr>
+<tr>
+  <td>D02 </td><td> W 7:30pm </td><td> CENTR212 </td><td> TBA </td><td> TA review</td>
+</tr>
+</table>
+
 
 
 *Lab Sessions* You will work closely in groups to experiment with class concepts and delve deeper into the material.  You must attend the lab session in which you are enrolled.
