@@ -30,7 +30,7 @@ Policies
 <a id="basics"></a>
 ## Basics
 
-*Lecture*  Expect class to be interactive; you'll work through problems in groups, compare multiple approaches to solutions, and answer multiple-choice questions using iClickers (see <a href="#engage">Engagement</a> below). Due to space constraints, you must attend the lecture in which you're enrolled. 
+*Lecture*  Expect class to be interactive; you'll work through problems in groups, compare multiple approaches to solutions, and answer multiple-choice questions using iClickers (see <a href="#engage">Engagement</a> below). Due to space constraints, you must attend the lecture in which you're enrolled.
 
 <table class="table table-striped">
 <thead>
@@ -38,13 +38,13 @@ Policies
     <th>Lecture</th><th>Time</th><th>Location</th><th>Instructor</th>
   </tr>
 </thead>
-<tr> 
+<tr>
   <td> A00 </td><td>MWF 10am</td><td>CENTR119 </td><td>Minnes</td>
 </tr>
 <tr>
   <td>B00 </td><td>MWF 12pm </td><td>WLH2005 </td><td>Politz</td>
 </tr>
-<tr> 
+<tr>
   <td> C00 </td><td>MWF 9am</td><td>CENTR119 </td><td>Minnes</td>
 </tr>
 <tr>
@@ -146,7 +146,7 @@ Policies
 
 <a id="schedule"></a>
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBt6J84DZl8HwRnBlJfJ-cAW3Vi7VjI5A3X6enkdNRcDclCotOutJim--MJZj_zr9wpyLmGqXy_51t/pubhtml?gid=30684399&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="400px"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBt6J84DZl8HwRnBlJfJ-cAW3Vi7VjI5A3X6enkdNRcDclCotOutJim--MJZj_zr9wpyLmGqXy_51t/pubhtml?gid=30684399&amp;single=true&amp;widget=true&amp;headers=false&amp;chrome=false" width="100%" height="400px"></iframe>
 
 ## Staff
 <a id="staff"></a>
@@ -189,32 +189,32 @@ This score is calculated on a weekly basis (starting in Week 1).  The maximum nu
 The lowest weekly participation score will be dropped when calculating your overall engagement average.
 
 Earn engagement points by:
-* __In class participation via iClickers__  In Weeks 1 through 10 (starting with the second lecture of the quarter), you will 
-earn credit for attending and participating in lecture (2 points each) and discussion section (1 point). 
-Clicker questions will be graded for participation only and not for correctness of the response. 
-Full credit for clicker points for a given day will be 
-awarded for clicking in at least 80/% of the time that day. Forgetting your clicker counts as missing a class, so please 
+* __In class participation via iClickers__  In Weeks 1 through 10 (starting with the second lecture of the quarter), you will
+earn credit for attending and participating in lecture (2 points each) and discussion section (1 point).
+Clicker questions will be graded for participation only and not for correctness of the response.
+Full credit for clicker points for a given day will be
+awarded for clicking in at least 80/% of the time that day. Forgetting your clicker counts as missing a class, so please
 remember to bring it! _Do not attempt to falsify iClicker or discussion participation or review quiz submissions; this would be considered a violation of academic integrity._
 
-* __Weekly (P)review quiz__ Online quizzes review the week's material and preview some upcoming examples each week. You can 
-submit your answers to each quiz as many times as you like. The latest submission before 11pm on Sunday will count towards 
-your engagement score. Each weekly review quiz will be worth 6 points.  Review quizzes will stay available even after the 
+* __Weekly (P)review quiz__ Online quizzes review the week's material and preview some upcoming examples each week. You can
+submit your answers to each quiz as many times as you like. The latest submission before 11pm on Sunday will count towards
+your engagement score. Each weekly review quiz will be worth 6 points.  Review quizzes will stay available even after the
 deadline; in the past, students have found working through them to be helpful when studying for exams.
-_The review quiz must be completed independently and individually. You may refer to your class notes and resources linked from 
-this website, 
-but not other references. You may not share information about the review quiz with others, take the review quiz in someone 
+_The review quiz must be completed independently and individually. You may refer to your class notes and resources linked from
+this website,
+but not other references. You may not share information about the review quiz with others, take the review quiz in someone
 else's name, or ask anyone for prior knowledge about the review quiz._
 
 
 We encourage you to find your preferred method for staying engaged with the course.  There are lots of ways to earn
 full credit for a week's engagement.  For example: (1) attending all lectures (for the section in which you're enrolled); or
-(2) attending two lectures and two discussion sections; or (3) answering all questions on the review quiz correctly; or (4) 
+(2) attending two lectures and two discussion sections; or (3) answering all questions on the review quiz correctly; or (4)
 attending two lectures and getting two answers correct on the review  quiz; etc.
 
-<h3 id="pas">Programming Assignments</h3> 
+<h3 id="pas">Programming Assignments</h3>
 
 Learn by doing!  Most weeks, you will be working on a programming assignment for this class.
-You will feel the intense excitement of seeing your work come alive through the computer, and 
+You will feel the intense excitement of seeing your work come alive through the computer, and
 also the equally intense frustration of wading through error messages and tricky bugs.  Both of these
 are at the heart of what it means to be a computer scientist.  The programming assignments are designed
 to invite your creativity, problem solving skills, tenacity, and interests. When you find yourself stuck
@@ -228,11 +228,11 @@ during your work on a programming assignment, ask for help:
 
 
 Remember to always read the programming assignment description carefully.  Some programming assignments will
-be **pair-programming** assignments, where you are expected to develop the algorithm and code in close collaboration 
+be **pair-programming** assignments, where you are expected to develop the algorithm and code in close collaboration
 with a partner; others will be **individual** assignments, where you will gain confidence with your own mastery
 of the material.
 
-PA0 counts towards 2% of your overall course grade, the rest of the assignments (PA1 through PA8) each count towards 5% 
+PA0 counts towards 2% of your overall course grade, the rest of the assignments (PA1 through PA8) each count towards 5%
 of your overall course grade.
 
 
@@ -279,7 +279,7 @@ policies](https://senate.ucsd.edu/operating-procedures/educational-policies/cour
 
 Along with the course, you are enrolled in a lab section, which meets each
 Tuesday in one of the student labs in the (newly renovated) basement of the CSE building.
-You will work in a group in lab.  We will assign the groups and group assignments may 
+You will work in a group in lab.  We will assign the groups and group assignments may
 change from week to week: you are starting your journey into Computer Science and we want
 to help you meet your classmates who will be with you along the way.  All labs must be finished
 in the allotted class time.  As a group, you will create a lab report each week and your TA will review
@@ -330,4 +330,3 @@ Yes, this adds up to 102% .
     - Iteration
     - Conditional evaluation
     - External interfaces
-
