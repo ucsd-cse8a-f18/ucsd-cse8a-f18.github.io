@@ -132,6 +132,7 @@ Policies
 <tr>
   <td> D52 </td><td>Tu 3pm </td><td>CSE B240 </td><td>TBA</td>
 </tr>
+</table>
 
 *Exams* There will be two exams during the quarter, held in the evenings during Week 3 and Week 7 of the Fall quarter.  The Final exam is on Wednesday of exam week.
 
