@@ -32,19 +32,32 @@ Policies
 
 *Lecture*  Expect class to be interactive; you'll work through problems in groups, compare multiple approaches to solutions, and answer multiple-choice questions using iClickers (see <a href="#engage">Engagement</a> below). Due to space constraints, you must attend the lecture in which you're enrolled. 
 
-| Lecture | Time     | Location | Instructor |
-| :-----: |:--------:| :-------:| :--------: |
-| A00     | MWF 10am | CENTR119 | Minnes     |
-| B00     | MWF 12pm | WLH2005  | Politz     |
-| C00     | MWF 9am  | CENTR119 | Minnes     |
-| D00     | MWF 2pm  | WLH2005  | Politz     |
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>Lecture</th><th>Time</th><th>Location</th><th>Instructor</th>
+  </tr>
+</thead>
+<tr> 
+  <td> A00 </td><td>MWF 10am</td><td>CENTR119 </td><td>Minnes</td>
+</tr>
+<tr>
+  <td>B00 </td><td>MWF 12pm </td><td>WLH2005 </td><td>Politz</td>
+</tr>
+<tr> 
+  <td> C00 </td><td>MWF 9am</td><td>CENTR119 </td><td>Minnes</td>
+</tr>
+<tr>
+  <td>BD0 </td><td>MWF 2pm </td><td>WLH2005 </td><td>Politz</td>
+</tr>
+</table>
 
 *Discussion* There are two kinds of discussion section: Supplemental Instructions will facilitate study-session group summaries of class content and practice exercises; TA review sessions will often directly relate to your programming assignments.  You can attend any discussion section you like.
 
 <table class="table table-striped">
 <thead>
   <tr>
-  <th> Discussion</th><th>Time</th><th>Location</th><th>Leader</th><th><Type</th>
+  <th> Discussion</th><th>Time</th><th>Location</th><th>Leader</th><th>Type</th>
   </tr>
 </thead>
 <tr>
