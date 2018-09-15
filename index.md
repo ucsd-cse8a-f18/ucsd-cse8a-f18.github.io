@@ -79,7 +79,7 @@ Policies
   <td>C02 </td><td> W 7pm </td><td> CENTR214 </td><td> TBA </td><td> TA review</td>
 </tr>
 <tr>
-  <td>D01 </td><td> W 5:30pm </td><td> CENTR212 </td><td> TBA </td><td> TA review</td>
+  <td>D01 </td><td> W 6:30pm </td><td> CENTR212 </td><td> TBA </td><td> TA review</td>
 </tr>
 <tr>
   <td>D02 </td><td> W 7:30pm </td><td> CENTR212 </td><td> TBA </td><td> TA review</td>
