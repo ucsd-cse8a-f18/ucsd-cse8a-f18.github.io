@@ -10,15 +10,11 @@ In this course, you will learn to write, trace, and test programs; explore
 the interactions between programs and data; and use computation to answer
 questions you care about.
 
-<a href="#basics">Quick notes on Lecture, Discussion, Labs, and Exams</a> - <a href="#schedule">Schedule</a> - <a href="#staff">Staff</a>
+<a href="#basics">Quick notes on Lecture, Discussion, Labs, Programming Assignments, and Exams</a>
+<a href="#schedule">Schedule</a>
+<a href="#staff">Staff</a>
 
-Policies
-
-- <a href="#materials">Materials</a>
-- <a href="#engage">Engagement</a>
-- <a href="#pas">Programming Assignments</a>
-- <a href="#exams">Exams</a>
-- <a href="#lab">Labs</a>
+Policies: <a href="#materials">Materials</a>
 - <a href="#si">Supplemental Instruction</a>
 - <a href="#grading">Grading</a>
 - <a href="#detailed-outcomes">Detailed Learning Outcomes</a>
@@ -132,6 +128,32 @@ your Lab TA will grade  this report and give you feedback.
 </tr>
 </table>
 
+<b>Programming Assignments</b> 
+
+Learn by doing!  Most weeks, you will be working on a programming assignment for this class.
+You will feel the intense excitement of seeing your work come alive through the computer, and 
+also the equally intense frustration of wading through error messages and tricky bugs.  Both of these
+are at the heart of what it means to be a computer scientist.  The programming assignments are designed
+to invite your creativity, problem solving skills, tenacity, and interests. When you find yourself stuck
+during your work on a programming assignment, ask for help:
+
+* Open lab hours
+
+* Instructor and TA office hours
+
+* Private questions to instructors on the class discussion board on Piazza
+
+
+Remember to always read the programming assignment description carefully.  Some programming assignments will
+be **pair-programming** assignments, where you are expected to develop the algorithm and code in close collaboration 
+with a partner; others will be **individual** assignments, where you will gain confidence with your own mastery
+of the material.
+
+PA0 counts towards 2% of your overall course grade, the rest of the assignments (PA1 through PA8) each count towards 5% 
+of your overall course grade.
+
+
+
 <b>Exams</b> There will be two exams during the quarter, held in the evenings during Week 3 and Week 7 of the Fall quarter.  The Final exam is on Wednesday of exam week.  There are no makeup exams.  See <a href="#Grading">grading section</a> below for the 
 policy on missed exams.
 
@@ -209,31 +231,6 @@ We encourage you to find your preferred method for staying engaged with the cour
 full credit for a week's engagement.  For example: (1) attending all lectures (for the section in which you're enrolled); or
 (2) attending two lectures and two discussion sections; or (3) answering all questions on the review quiz correctly; or (4) 
 attending two lectures and getting two answers correct on the review  quiz; etc.
-
-<h3 id="pas">Programming Assignments</h3> 
-
-Learn by doing!  Most weeks, you will be working on a programming assignment for this class.
-You will feel the intense excitement of seeing your work come alive through the computer, and 
-also the equally intense frustration of wading through error messages and tricky bugs.  Both of these
-are at the heart of what it means to be a computer scientist.  The programming assignments are designed
-to invite your creativity, problem solving skills, tenacity, and interests. When you find yourself stuck
-during your work on a programming assignment, ask for help:
-
-* Open lab hours
-
-* Instructor and TA office hours
-
-* Private questions to instructors on the class discussion board on Piazza
-
-
-Remember to always read the programming assignment description carefully.  Some programming assignments will
-be **pair-programming** assignments, where you are expected to develop the algorithm and code in close collaboration 
-with a partner; others will be **individual** assignments, where you will gain confidence with your own mastery
-of the material.
-
-PA0 counts towards 2% of your overall course grade, the rest of the assignments (PA1 through PA8) each count towards 5% 
-of your overall course grade.
-
 
 <h3 id="exams">Exams</h3>
 
