@@ -45,10 +45,10 @@ Policies
   <td>B00 </td><td>MWF 12pm </td><td>WLH2005 </td><td>Politz</td>
 </tr>
 <tr> 
-  <td> C00 </td><td>MWF 9am</td><td>CENTR119 </td><td>Minnes</td>
+  <td>C00 </td><td>MWF 9am</td><td>CENTR119 </td><td>Minnes</td>
 </tr>
 <tr>
-  <td>BD0 </td><td>MWF 2pm </td><td>WLH2005 </td><td>Politz</td>
+  <td>D00 </td><td>MWF 2pm </td><td>WLH2005 </td><td>Politz</td>
 </tr>
 </table>
 
