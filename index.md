@@ -30,7 +30,7 @@ Policies
 <a id="basics"></a>
 ## Basics
 
-*Lecture*  Expect class to be interactive; you'll work through problems in groups, compare multiple approaches to solutions, and answer multiple-choice questions using iClickers (see <a href="#engage">Engagement</a> below). Due to space constraints, you must attend the lecture in which you're enrolled. 
+<b>Lecture</b>  Expect class to be interactive; you'll work through problems in groups, compare multiple approaches to solutions, and answer multiple-choice questions using iClickers (see <a href="#engage">Engagement</a> below). Due to space constraints, you must attend the lecture in which you're enrolled. 
 
 <table class="table table-striped">
 <thead>
@@ -52,7 +52,7 @@ Policies
 </tr>
 </table>
 
-*Discussion* There are two kinds of discussion section: Supplemental Instruction will facilitate study-session group summaries of class content and practice exercises; TA review sessions will demo tools and answer questions about the programming assignment specifications.  You can attend any discussion section(s) you like; attending discussion section counts towards your <a href="#engage">Engagement</a> with the class.
+<b>Discussion</b> There are two kinds of discussion section: Supplemental Instruction will facilitate study-session group summaries of class content and practice exercises; TA review sessions will demo tools and answer questions about the programming assignment specifications.  You can attend any discussion section(s) you like; attending discussion section counts towards your <a href="#engage">Engagement</a> with the class.
 
 <table class="table table-striped">
 <thead>
@@ -88,7 +88,7 @@ Policies
 
 
 
-*Lab Sessions* You will work closely in groups to experiment with class concepts and delve deeper into the material.  You must 
+<b>Lab Sessions</b> You will work closely in groups to experiment with class concepts and delve deeper into the material.  You must 
 attend the lab session in which you are enrolled.  You will complete a lab report in each <a href="#Labs">lab session</a>; 
 your Lab TA will grade  this report and give you feedback.
 
@@ -136,7 +136,7 @@ your Lab TA will grade  this report and give you feedback.
 </tr>
 </table>
 
-*Exams* There will be two exams during the quarter, held in the evenings during Week 3 and Week 7 of the Fall quarter.  The Final exam is on Wednesday of exam week.  There are no makeup exams.  See <a href="#Grading">grading section</a> below for the 
+<b>Exams</b> There will be two exams during the quarter, held in the evenings during Week 3 and Week 7 of the Fall quarter.  The Final exam is on Wednesday of exam week.  There are no makeup exams.  See <a href="#Grading">grading section</a> below for the 
 policy on missed exams.
 
 **Exam 1** Thursday 10/18/2018	8pm-9:50pm
@@ -307,6 +307,36 @@ Your grade will be computed from:
 
 Yes, this adds up to 102% .
 
+<a id="detailed-outcomes"></a>
+### Learning Outcomes
+
+- Explore computation and data
+  - Identify what information is stored and how it is organized in a computer
+  - Manipulate and inspect data with programs
+  - Transform data into a form suitable for presentation
+  - Hypothesize results of programs and make sense of the actual outcomes
+- Use computation to answer relevant questions
+  - Identify the computational part of problems you care about
+  - Leverage commonly-used tools
+- Write, trace, and test programs
+  - Predict the output of a program by inspecting its code
+  - Gain confidence in answers by testing programs
+  - Identify and fix mistakes in existing programs
+  - Design well-organized programs using computational constructs (mostly in Java):
+    - Values
+    - Operations
+    - Variables
+    - Library methods
+    - Structured data
+    - Collections of data
+    - Method definitions
+    - Iteration
+    - Conditional evaluation
+    - External interfaces
+
+
+
+
 <a id="research-consent"></a>
 <h3>Consent to Participate in Educational Research</h3>
 <h4>Investigating the Impact of Pedagogical Choices on University Student Learning and Engagement</h4>
@@ -370,32 +400,5 @@ You may call the Human Research Protections Program Office at 858-246-HRPP (858-
 
 <h5>Your Consent</h5>
 
-<p>If you consent to participate in this study and are at least 18 years old, no action is needed. If you DO NOT consent to participate in this study, or you choose to opt-out at any time during the quarter, please submit this form online at <a href="https://goo.gl/forms/JSBRjEmkES6W6xYc2" target="_blank">https://goo.gl/forms/JSBRjEmkES6W6xYc2</a>. Your instructor will not have access to the list of students who opted out until after grades are posted. Note that you must separately opt-out of the study for each course involved in this study.</a>
-
-<a id="detailed-outcomes"></a>
-### Learning Outcomes
-
-- Explore computation and data
-  - Identify what information is stored and how it is organized in a computer
-  - Manipulate and inspect data with programs
-  - Transform data into a form suitable for presentation
-  - Hypothesize results of programs and make sense of the actual outcomes
-- Use computation to answer relevant questions
-  - Identify the computational part of problems you care about
-  - Leverage commonly-used tools
-- Write, trace, and test programs
-  - Predict the output of a program by inspecting its code
-  - Gain confidence in answers by testing programs
-  - Identify and fix mistakes in existing programs
-  - Design well-organized programs using computational constructs (mostly in Java):
-    - Values
-    - Operations
-    - Variables
-    - Library methods
-    - Structured data
-    - Collections of data
-    - Method definitions
-    - Iteration
-    - Conditional evaluation
-    - External interfaces
+<p>If you consent to participate in this study and are at least 18 years old, no action is needed. If you DO NOT consent to participate in this study, or you choose to opt-out at any time during the quarter, please submit this form online at <a href="https://goo.gl/forms/JSBRjEmkES6W6xYc2" target="_blank">https://goo.gl/forms/JSBRjEmkES6W6xYc2</a>. Your instructor will not have access to the list of students who opted out until after grades are posted. Note that you must separately opt-out of the study for each course involved in this study.</p>
 
