@@ -10,11 +10,7 @@ In this course, you will learn to write, trace, and test programs; explore
 the interactions between programs and data; and use computation to answer
 questions you care about.
 
-<a href="#basics">Basics</a>
-
-<a href="#schedule">Schedule</a>
-
-<a href="#staff">Staff</a>
+<a href="#basics">Quick notes on Lecture, Discussion, Labs, and Exams</a> - <a href="#schedule">Schedule</a> - <a href="#staff">Staff</a>
 
 Policies
 
