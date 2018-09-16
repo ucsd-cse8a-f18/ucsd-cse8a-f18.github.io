@@ -52,7 +52,7 @@ Policies
 </tr>
 </table>
 
-*Discussion* There are two kinds of discussion section: Supplemental Instructions will facilitate study-session group summaries of class content and practice exercises; TA review sessions will often directly relate to your programming assignments.  You can attend any discussion section you like.
+*Discussion* There are two kinds of discussion section: Supplemental Instruction will facilitate study-session group summaries of class content and practice exercises; TA review sessions will demo tools and answer questions about the programming assignment specifications.  You can attend any discussion section(s) you like; attending discussion section counts towards your <a href="#engage">Engagement</a> with the class.
 
 <table class="table table-striped">
 <thead>
@@ -88,7 +88,9 @@ Policies
 
 
 
-*Lab Sessions* You will work closely in groups to experiment with class concepts and delve deeper into the material.  You must attend the lab session in which you are enrolled.
+*Lab Sessions* You will work closely in groups to experiment with class concepts and delve deeper into the material.  You must 
+attend the lab session in which you are enrolled.  You will complete a lab report in each <a href="#Labs">lab session</a>; 
+your Lab TA will grade  this report and give you feedback.
 
 <table class="table table-striped">
 <thead>
