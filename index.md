@@ -10,7 +10,7 @@ In this course, you will learn to write, trace, and test programs; explore
 the interactions between programs and data; and use computation to answer
 questions you care about.
 
-Basics: <a href="#lec">Lecture</a>, <a href="#disc">Discussion</a>, <a href="#labs">Labs</a>, <a ="#pas">Programming Assignments</a>, and <a href="#Exams">Exams</a>
+Basics: <a href="#lec">Lecture</a>, <a href="#disc">Discussion</a>, <a href="#labs">Labs</a>, <a href="#pas">Programming Assignments</a>, and <a href="#Exams">Exams</a>
 
 <a href="#schedule">Schedule</a>
 
