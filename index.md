@@ -10,7 +10,7 @@ In this course, you will learn to write, trace, and test programs; explore
 the interactions between programs and data; and use computation to answer
 questions you care about.
 
-<a href="#basics">Quick notes on Lecture, Discussion, Labs, Programming Assignments, and Exams</a>
+Basics: <a href="#lec">Lecture</a>, <a href="#disc">Discussion</a>, <a href="#labs">Labs</a>, <a ="#pas">Programming Assignments</a>, and <a href="#Exams">Exams</a>
 
 <a href="#schedule">Schedule</a>
 
@@ -20,8 +20,9 @@ Policies: <a href="#materials">Materials</a>, <a href="#si">Supplemental Instruc
 <a href="#detailed-outcomes">Detailed Learning Outcomes</a>
 
 <a id="basics"></a>
-## Basics
+## Basic Course Components
 
+<a id="lec"></a>
 <b>Lecture</b>  Expect class to be interactive; you'll work through problems in groups, compare multiple approaches to solutions, and answer multiple-choice questions using iClickers (see <a href="#engage">Engagement</a> below). Due to space constraints, you must attend the lecture in which you're enrolled. 
 
 <table class="table table-striped">
@@ -44,6 +45,7 @@ Policies: <a href="#materials">Materials</a>, <a href="#si">Supplemental Instruc
 </tr>
 </table>
 
+<a id="disc"></a>
 <b>Discussion</b> There are two kinds of discussion section: Supplemental Instruction will facilitate study-session group summaries of class content and practice exercises; TA review sessions will demo tools and answer questions about the programming assignment specifications.  You can attend any discussion section(s) you like; attending discussion section counts towards your <a href="#engage">Engagement</a> with the class.
 
 <table class="table table-striped">
@@ -79,7 +81,7 @@ Policies: <a href="#materials">Materials</a>, <a href="#si">Supplemental Instruc
 </table>
 
 
-
+<a id="labs"></a>
 <b>Lab Sessions</b> You will work closely in groups to experiment with class concepts and delve deeper into the material.  You must 
 attend the lab session in which you are enrolled.  You will complete a lab report in each <a href="#Labs">lab session</a>; 
 your Lab TA will grade  this report and give you feedback.
@@ -128,6 +130,7 @@ your Lab TA will grade  this report and give you feedback.
 </tr>
 </table>
 
+<a id="pas"></a>
 <b>Programming Assignments</b> 
 
 Learn by doing!  Most weeks, you will be working on a programming assignment for this class.
@@ -153,7 +156,7 @@ PA0 counts towards 2% of your overall course grade, the rest of the assignments 
 of your overall course grade.
 
 
-
+<a id="exams"></a>
 <b>Exams</b> There will be two exams during the quarter, held in the evenings during Week 3 and Week 7 of the Fall quarter.  The Final exam is on Wednesday of exam week.  There are no makeup exams.  See <a href="#Grading">grading section</a> below for the 
 policy on missed exams.
 
