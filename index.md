@@ -11,13 +11,13 @@ the interactions between programs and data; and use computation to answer
 questions you care about.
 
 <a href="#basics">Quick notes on Lecture, Discussion, Labs, Programming Assignments, and Exams</a>
+
 <a href="#schedule">Schedule</a>
+
 <a href="#staff">Staff</a>
 
-Policies: <a href="#materials">Materials</a>
-- <a href="#si">Supplemental Instruction</a>
-- <a href="#grading">Grading</a>
-- <a href="#detailed-outcomes">Detailed Learning Outcomes</a>
+Policies: <a href="#materials">Materials</a>, <a href="#si">Supplemental Instruction</a>, <a href="#grading">Grading</a>,
+<a href="#detailed-outcomes">Detailed Learning Outcomes</a>
 
 <a id="basics"></a>
 ## Basics
