@@ -134,7 +134,8 @@ Policies
 </tr>
 </table>
 
-*Exams* There will be two exams during the quarter, held in the evenings during Week 3 and Week 7 of the Fall quarter.  The Final exam is on Wednesday of exam week.
+*Exams* There will be two exams during the quarter, held in the evenings during Week 3 and Week 7 of the Fall quarter.  The Final exam is on Wednesday of exam week.  There are no makeup exams.  See <a href="#Grading">grading section</a> below for the 
+policy on missed exams.
 
 **Exam 1** Thursday 10/18/2018	8pm-9:50pm
 
