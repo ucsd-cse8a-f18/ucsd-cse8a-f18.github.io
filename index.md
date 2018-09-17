@@ -177,7 +177,7 @@ of your overall course grade.
 <h4>Working and getting help in the lab</h4>
 
 You have computer accounts for the labs in the CSE building.  Even if you choose to work on your programming assignments on 
-your own computer, you can work in these labs.  During open lab hours (<a href="#staff">schedule</a>), tutors, TAs, and the 
+your own computer, you can work in these labs. The type of programming assignment you are working on will determine whether you can <a href="#p:pas">collaborate with other students</a> in the lab.  However, during open lab hours (<a href="#staff">schedule</a>), tutors, TAs, and the 
 instructors will be available to help. We will work with you to get you un-stuck when you're not sure what to do next on an 
 assignment. We will be using the <a href="autograder.ucsd.edu" target="_blank">Autograder</a> system to manage to queue of 
 requests for help in lab.  To get in the queue, log into Autograder with your @ucsd.edu email and submit your question as a ticket:
