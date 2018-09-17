@@ -97,40 +97,40 @@ your Lab TA will grade  this report and give you feedback.
   </tr>
 </thead>
 <tr>
-  <td> A50 </td><td>Tu 9am </td><td>CSE B230 </td><td>TBA</td>
+  <td> A50 </td><td>Tu 9am </td><td>CSE B230 </td><td>Sophia</td>
 </tr>
 <tr>
-  <td> A51 </td><td>Tu 10am </td><td>CSE B230 </td><td>TBA</td>
+  <td> A51 </td><td>Tu 10am </td><td>CSE B230 </td><td>Sophia</td>
 </tr>
 <tr>
-  <td> A52 </td><td>Tu 11am </td><td>CSE B230 </td><td>TBA</td>
+  <td> A52 </td><td>Tu 11am </td><td>CSE B230 </td><td>Sophia</td>
 </tr>
 <tr>
-  <td> B50 </td><td>Tu 9am </td><td>CSE B240 </td><td>TBA</td>
+  <td> B50 </td><td>Tu 9am </td><td>CSE B240 </td><td>Laura</td>
 </tr>
 <tr>
-  <td> B51 </td><td>Tu 10am </td><td>CSE B240 </td><td>TBA</td>
+  <td> B51 </td><td>Tu 10am </td><td>CSE B240 </td><td>Laura</td>
 </tr>
 <tr>
-  <td> B52 </td><td>Tu 11am </td><td>CSE B240 </td><td>TBA</td>
+  <td> B52 </td><td>Tu 11am </td><td>CSE B240 </td><td>Laura</td>
 </tr>
 <tr>
-  <td> C50 </td><td>Tu 1pm </td><td>CSE B230 </td><td>TBA</td>
+  <td> C50 </td><td>Tu 1pm </td><td>CSE B230 </td><td>Sooh</td>
 </tr>
 <tr>
-  <td> C51 </td><td>Tu 2pm </td><td>CSE B230 </td><td>TBA</td>
+  <td> C51 </td><td>Tu 2pm </td><td>CSE B230 </td><td>Sooh</td>
 </tr>
 <tr>
-  <td> C52 </td><td>Tu 3pm </td><td>CSE B230 </td><td>TBA</td>
+  <td> C52 </td><td>Tu 3pm </td><td>CSE B230 </td><td>Sooh</td>
 </tr>
 <tr>
-  <td> D50 </td><td>Tu 1pm </td><td>CSE B240 </td><td>TBA</td>
+  <td> D50 </td><td>Tu 1pm </td><td>CSE B240 </td><td>Nadah</td>
 </tr>
 <tr>
-  <td> D51 </td><td>Tu 2pm </td><td>CSE B240 </td><td>TBA</td>
+  <td> D51 </td><td>Tu 2pm </td><td>CSE B240 </td><td>Nadah</td>
 </tr>
 <tr>
-  <td> D52 </td><td>Tu 3pm </td><td>CSE B240 </td><td>TBA</td>
+  <td> D52 </td><td>Tu 3pm </td><td>CSE B240 </td><td>Nadah</td>
 </tr>
 </table>
 
