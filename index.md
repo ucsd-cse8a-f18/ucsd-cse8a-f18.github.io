@@ -13,7 +13,8 @@ questions you care about.
 Basics: <a href="#lec">Lecture</a>, <a href="#disc">Discussion</a>, <a href="#labs">Labs</a>, <a href="#pas">Programming Assignments</a>, and <a href="#exams">Exams</a>. Check the <a href="#schedule">Schedule</a> for class topics, links to resources, and assignment due dates.  <a href="#staff">Course instructional team</a>.
 
 Policies: <a href="#materials">Materials</a>, <a href="#si">Supplemental Instruction</a>, <a href="#grading">Grading</a>,
-<a href="#detailed-outcomes">Detailed Learning Outcomes</a>
+<a href="#ai#">Academic Integrity</a>
+<a href="#detailed-outcomes">Detailed Learning Outcomes</a>, <a href="ucsdsupport">Additional resources</a>
 
 
 ## Schedule
@@ -299,6 +300,49 @@ Your grade will be computed from:
 
 Yes, this adds up to 102% .
 
+
+After your weighted average is calculated, letter grades will be assigned 
+based on the following grading scale:
+
+<table class="table table-striped">
+<tbody>
+<tr align="center" padding="10">
+<td>A+</td>
+<td>A</td>
+<td>A-</td>
+<td>B+</td>
+<td>B</td>
+<td>B-</td>
+<td>C+</td>
+<td>C</td>
+<td>C-</td>
+<td>D, F</td>
+</tr>
+<tr align="center">
+<td>&nbsp; >97&nbsp; </td>
+<td>&nbsp; 93-96.99 &nbsp; </td>
+<td>&nbsp; 90-92.99&nbsp; </td>
+<td>&nbsp; 87-89.99&nbsp; </td>
+<td>&nbsp; 83-86.99&nbsp; </td>
+<td>&nbsp; 80-82.99&nbsp; </td>
+<td>&nbsp; 77-79.99&nbsp; </td>
+<td>&nbsp; 73-76.99&nbsp; </td>
+<td>&nbsp; 65-72.99&nbsp; </td>
+<td>&nbsp; Below 64.99&nbsp; </td>
+</tr>
+</tbody>
+</table>
+
+We may adjust the above scale to be more lenient (depending on the overall class performance), but we guarantee that we will 
+not adjust the scale to make it harder to get a better grade.
+In addition, you must pass the final exam in order to pass the course.
+
+<a id="ai"></a>
+<h3> Academic Integrity</h3>
+
+FILL IN
+
+
 <a id="detailed-outcomes"></a>
 ### Learning Outcomes
 
@@ -325,7 +369,6 @@ Yes, this adds up to 102% .
     - Iteration
     - Conditional evaluation
     - External interfaces
-
 
 
 
@@ -394,15 +437,15 @@ You may call the Human Research Protections Program Office at 858-246-HRPP (858-
 
 <p>If you consent to participate in this study and are at least 18 years old, no action is needed. If you DO NOT consent to participate in this study, or you choose to opt-out at any time during the quarter, please submit this form online at <a href="https://goo.gl/forms/JSBRjEmkES6W6xYc2" target="_blank">https://goo.gl/forms/JSBRjEmkES6W6xYc2</a>. Your instructor will not have access to the list of students who opted out until after grades are posted. Note that you must separately opt-out of the study for each course involved in this study.</p>
 
-<a id = "idea"></a>
+<a id = "ucsdsupport"></a>
 
-##Where to go for additional support
+## Where to go for additional support
 
-###IDEA Engineering Student Center
+### IDEA Engineering Student Center
 The IDEA Engineering Student Center, located just off the lobby of Jacobs Hall, is a hub for student engagement, academic enrichment, personal/professional development, leadership, community involvement, and a respectful learning environment for all.  The Center offers a variety of programs, listed in the IDEA Center Facebook page at http://www.facebook.com/ucsdidea/ (you are welcome to Like this page!) and the Center web site at http://idea.ucsd.edu/.  The IDEA Center programs support both undergraduate students and graduate students.
 
 
-###Prevention and Reporting of Harrassment & Discrimination
+### Prevention and Reporting of Harrassment & Discrimination
 
 The Office for the Prevention of Harassment & Discrimination (OPHD) provides assistance to students, faculty, and staff 
 regarding reports of bias, harassment, and discrimination. OPHD is the UC San Diego Title IX office. Title IX of the Education 
