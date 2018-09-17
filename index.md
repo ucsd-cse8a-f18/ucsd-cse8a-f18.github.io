@@ -92,8 +92,8 @@ There are two kinds of discussion section: in Supplemental Instruction you will 
 <a id="b:labs"></a>
 <h3>Lab Sessions</h3> 
 
-You will work closely in groups to experiment with class concepts and delve deeper into the material.  You must 
-attend the lab session in which you are enrolled.  You will work in a group in lab.  We will assign the groups and group 
+You must attend the lab session in which you are enrolled.  You will work in groups in lab; 
+the groups will be assigned by the Lab TA.  Group
 assignments may 
 change from week to week: you are starting your journey into Computer Science and we want
 to help you meet your classmates who will be with you along the way.  All labs must be finished
@@ -179,17 +179,13 @@ of your overall course grade.
 You have computer accounts for the labs in the CSE building.  Even if you choose to work on your programming assignments on 
 your own computer, you can work in these labs.  During open lab hours (<a href="#staff">schedule</a>), tutors, TAs, and the 
 instructors will be available to help. We will work with you to get you un-stuck when you're not sure what to do next on an 
-assignment. The job of a tutor in lab hours is not necessarily to solve the problem you asked. The job of the tutor is to make 
-sure you have the knowledge you need to take a productive next step. That means if you ask for help because you don't know how 
-to implement the next method, you should expect that when the tutor leaves you know how to take a first step towards that 
-implementation. You might end up with an idea for simple examples to try first, or a picture that demonstrates a good 
-approach, or some other guide that isn't concrete code. The problem won't be solved, but you will be un-stuck.
+assignment. We will be using the <a href="autograder.ucsd.edu" target="_blank">Autograder</a> system to manage to queue of 
+requests for help in lab.  To get in the queue, log into Autograder with your @ucsd.edu email and submit your question as a ticket:
 
-When you ask a question on Autograder, a few guidelines:
-
-- Give a meaningful question or problem statement in your ticket. It doesn't need to be long, but it should be possible for a tutor to imagine possible situations just from the ticket, and not have to get the full story when arriving at your workstation. For tickets without meaningful questions, tutors are free to use their judgment to remove them from the queue.
+- Give a meaningful question or problem statement in your ticket.
 - Be prepared! When the tutor shows up, you should be ready to reproduce the issue you're having, have a test case that doesn't produce the right output, show them a drawing of the situation you're confused about, etc.
 
+Expect to have about 5 minutes with a tutor (or TA or instructor): you probably won't have the solution at the end of the conversation, but you should feel un-stuck and ready to try new approaches.
 
 <h4>Asking & Answering questions on Piazza</h4>
 
