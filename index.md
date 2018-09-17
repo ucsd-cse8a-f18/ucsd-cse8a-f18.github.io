@@ -10,7 +10,7 @@ In this course, you will learn to write, trace, and test programs; explore
 the interactions between programs and data; and use computation to answer
 questions you care about.
 
-Basics: <a href="#lec">Lecture</a>, <a href="#disc">Discussion</a>, <a href="#labs">Labs</a>, <a href="#pas">Programming Assignments</a>, and <a href="#exams">Exams</a>.  <a href="#schedule">Schedule</a>.  <a href="#staff">Course instructional team</a>.
+Basics: <a href="#lec">Lecture</a>, <a href="#disc">Discussion</a>, <a href="#labs">Labs</a>, <a href="#pas">Programming Assignments</a>, and <a href="#exams">Exams</a>. Check the <a href="#schedule">Schedule</a> for class topics, links to resources, and assignment due dates.  <a href="#staff">Course instructional team</a>.
 
 Policies: <a href="#materials">Materials</a>, <a href="#si">Supplemental Instruction</a>, <a href="#grading">Grading</a>,
 <a href="#detailed-outcomes">Detailed Learning Outcomes</a>
@@ -185,7 +185,7 @@ There is no textbook for the course. The schedule above will link to all the
 reference material you need for the course.
 
 To get credit for lectures and discussions, you must have an iClicker. You
-can register it through [this google form FILL]. We use clickers and have you
+can register it through [https://goo.gl/forms/0xnf9uXvrgsX7Guq2]. We use clickers and have you
 work on problems in lecture because there’s quite a bit of evidence that
 sitting and listening passively to lecture [probably isn’t the best way to
 teach or learn
@@ -209,7 +209,8 @@ The lowest weekly participation score will be dropped when calculating your over
 
 Earn engagement points by:
 * __In class participation via iClickers__  In Weeks 1 through 10 (starting with the second lecture of the quarter), you will 
-earn credit for attending and participating in lecture (2 points each) and discussion section (1 point). 
+earn credit for attending and participating in lecture (2 points each) and discussion section (1 point each, up to a maximum 
+of 2 points per week). 
 Clicker questions will be graded for participation only and not for correctness of the response. 
 Full credit for clicker points for a given day will be 
 awarded for clicking in at least 80/% of the time that day. Forgetting your clicker counts as missing a class, so please 
