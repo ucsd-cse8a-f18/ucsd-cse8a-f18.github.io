@@ -410,6 +410,13 @@ assignment can <em>replace</em> an earlier PA score. In addition, you can
 hand in the final programming assignment any time during finals week (which
 will be after its deadline in week 10) for a 20% deduction.
 
+<b>Regrades</b> Mistakes sometimes occur in grading. Once grades are posted,
+we will allow a short period for you to request a fix to your grade
+(announced along with the release of grades), with a clear argument for why a
+mistake was made. If you don't make a request in the given period, the grade
+you were initially given is final. All regrades should be made through
+Gradescope's interface.
+
 <a id="p:ai"></a>
 <h3> Academic Integrity</h3>
 
