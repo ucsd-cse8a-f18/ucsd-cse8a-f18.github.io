@@ -168,19 +168,29 @@ The point of lab hours is to get you un-stuck when you're not sure what to do ne
 
 When you ask a question on Autograder, a few guidelines:
 
-Give a meaningful question or problem statement in your ticket. It doesn't need to be long, but it should be possible for a tutor to imagine possible situations just from the ticket, and not have to get the full story when arriving at your workstation. For tickets without meaningful questions, tutors are free to use their judgment to remove them from the queue.
-Be prepared! When the tutor shows up, you should be ready to reproduce the issue you're having, have a test case that doesn't produce the right output, show them a drawing of the situation you're confused about, etc.
+- Give a meaningful question or problem statement in your ticket. It doesn't need to be long, but it should be possible for a tutor to imagine possible situations just from the ticket, and not have to get the full story when arriving at your workstation. For tickets without meaningful questions, tutors are free to use their judgment to remove them from the queue.
+- Be prepared! When the tutor shows up, you should be ready to reproduce the issue you're having, have a test case that doesn't produce the right output, show them a drawing of the situation you're confused about, etc.
+
+
 Piazza
-You can and should ask questions on Piazza. We have some guidelines and advice for doing so.
+
+Piazza is an online discussion board where we can make announcements and students can ask questions. We (the course staff) can answer your questions, as well as your classmates. We have some guidelines and advice for participating on Piazza.
+
+There are two kinds of questions you should ask on Piazza:
+
+- Private questions about programming assignments or your grade / account
+- Public questions about the content of lecture, discussion, lab, and any readings
+
+
 
 The default on our Piazza board is for questions to be private to the question asker and the instructors. We (the instructional staff) will often make private questions public if we think the answers and discussion will be useful to everyone; if we do so we'll switch the author visibility to anonymous (it turns out it's not possible to make it anonymous if the original post isn't anonymous). If you want to be anonymous when a post is publicized, please set it to anonymous initially. Note that we won't publicize obviously-private questions about grades or other sensitive topics. If you want to ask a private question that stays private, just ask us to keep it private in the body of the question.
 
 You are also welcome to ask and answer public questions! Before you do, consider:
 
-Does it contribute to a positive, constructive, and respectful forum for discussion and learning?
-Does it contain contain source code or other information that shouldn't be shared class-wide?
-Is it a question that's been asked before, that you could find via searching?
-If you make a post that violates these guidelines, we may make it private and remind you of these guidelines. Overall, our goal is to make the public content on Piazza constructive and relevant for everyone.
+- Does it contribute to a positive, constructive, and respectful forum for discussion and learning?
+- Does it contain contain source code or other information that shouldn't be shared class-wide?
+- Is it a question that's been asked before, that you could find via searching?
+- If you make a post that violates these guidelines, we may make it private and remind you of these guidelines. Overall, our goal is to make the public content on Piazza constructive and relevant for everyone.
 
 In your question, clearly indicate the problem you're having or question you need answered, and feel free to share any supporting code or screenshots that may help us understand what's going on. If it's a simple technical issue or clarification, you might get a direct answer. If it's a question about an assignment, expect to get questions back that lead you towards a better understanding, not an immediate answer that solves your problem.
 
@@ -497,4 +507,3 @@ report incidents of sexual violence and sexual harassment to OPHD. This does not
 be filed.
 
 If you find yourself in an uncomfortable situation, ask for help. 
-test
