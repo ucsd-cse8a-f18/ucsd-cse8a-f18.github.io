@@ -145,8 +145,46 @@ it and give you feedback.
 </tr>
 </table>
 
-<a id="b:pas"></a>
-<h3>Programming Assignments</h3> 
+<a id="p:materials"></a>
+<h3>Materials</h3>
+
+There is no textbook for the course. The schedule above will link to all the
+reference material you need for the course.
+
+
+
+
+FILL IN: Piazza, Gradescope, Github repo, Autograder
+
+[The documentation for the Java
+language](https://docs.oracle.com/javase/10/), while not required reading,
+will be linked to from some assignments and is always a useful reference
+while programming.
+
+
+<a id="b:exams"></a>
+<h3>Exams</h3> 
+There will be two exams during the quarter, held in the evenings during Week 3 
+(**Thursday 10/18/2018	8pm-9:50pm**) 
+and Week 7 (**Wednesday 11/14/2018	8pm-9:50pm**) of the Fall quarter.  The Final exam is on Wednesday of exam week
+(**Wednesday 12/12/2018	7pm-9:59pm**).  There are no makeup exams.  See <a href="#p:Grading">grading section</a> below for the 
+policy on missed exams.
+
+
+## Staff
+<a id="staff"></a>
+
+<p>
+<a href="http://cseweb.ucsd.edu/~minnes/index.html">Prof Mia Minnes</a> (Instructor)
+<a href="https://jpolitz.github.io">Prof Joe Gibbs Politz</a> (Instructor)
+</p>
+
+<iframe style="border: none; border-top: 1px solid gray" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBt6J84DZl8HwRnBlJfJ-cAW3Vi7VjI5A3X6enkdNRcDclCotOutJim--MJZj_zr9wpyLmGqXy_51t/pubhtml?gid=97371257&amp;single=true&amp;chrome=false;widget=false;"></iframe>
+
+
+<a id="pas"></a>
+<h2>Programming</h2> 
+
 
 Learn by doing!  Most weeks, you will be working on a programming assignment for this class.
 You will feel the intense excitement of seeing your work come alive through the computer, and 
@@ -171,7 +209,7 @@ PA0 counts towards 2% of your overall course grade, the rest of the assignments 
 of your overall course grade.
 
 
-<a id="help"></a>
+<a id="pa:help"></a>
 <h3>Getting help</h3> 
 
 <h4>Working and getting help in the lab</h4>
@@ -203,49 +241,13 @@ For public discussion, note that answers from your classmates are not official! 
 completely by accident. “My classmate said so on Piazza” is not a legitimate justification in most arguments, though they may 
 indeed lead you in helpful directions.
 
+<a name="pa:pas"></a>
+<h3>Collaboration and Sources</h3>
 
-<a id="b:exams"></a>
-<h3>Exams</h3> 
-There will be two exams during the quarter, held in the evenings during Week 3 
-(**Thursday 10/18/2018	8pm-9:50pm**) 
-and Week 7 (**Wednesday 11/14/2018	8pm-9:50pm**) of the Fall quarter.  The Final exam is on Wednesday of exam week
-(**Wednesday 12/12/2018	7pm-9:59pm**).  There are no makeup exams.  See <a href="#p:Grading">grading section</a> below for the 
-policy on missed exams.
-
-
-
-## Staff
-<a id="staff"></a>
-
-<p>
-<a href="http://cseweb.ucsd.edu/~minnes/index.html">Prof Mia Minnes</a> (Instructor)
-<a href="https://jpolitz.github.io">Prof Joe Gibbs Politz</a> (Instructor)
-</p>
-
-<iframe style="border: none; border-top: 1px solid gray" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBt6J84DZl8HwRnBlJfJ-cAW3Vi7VjI5A3X6enkdNRcDclCotOutJim--MJZj_zr9wpyLmGqXy_51t/pubhtml?gid=97371257&amp;single=true&amp;chrome=false;widget=false;"></iframe>
+FILL IN
 
 <a id="policies"></a>
 ## Policies
-
-<a id="p:materials"></a>
-<h3>Materials</h3>
-
-There is no textbook for the course. The schedule above will link to all the
-reference material you need for the course.
-
-To get credit for lectures and discussions, you must have an iClicker. You
-can register it through [https://goo.gl/forms/0xnf9uXvrgsX7Guq2]. We use clickers and have you
-work on problems in lecture because there’s quite a bit of evidence that
-sitting and listening passively to lecture [probably isn’t the best way to
-teach or learn
-science](https://www.nature.com/news/why-we-are-teaching-science-wrong-and-how-to-make-it-right-1.17963).
-
-FILL IN: Piazza, Gradescope, Github repo, Autograder
-
-[The documentation for the Java
-language](https://docs.oracle.com/javase/10/), while not required reading,
-will be linked to from some assignments and is always a useful reference
-while programming.
 
 <a name="p:community"></a>
 <h3>The CSE 8A Community</h3>
@@ -281,7 +283,13 @@ of 2 points per week).
 Clicker questions will be graded for participation only and not for correctness of the response. 
 Full credit for clicker points for a given day will be 
 awarded for clicking in at least 80/% of the time that day. Forgetting your clicker counts as missing a class, so please 
-remember to bring it! _Do not attempt to falsify iClicker or discussion participation or review quiz submissions; this would be considered a violation of academic integrity._
+remember to bring it!
+ We have you
+respond to problems in lecture because there’s quite a bit of evidence that
+sitting and listening passively [probably isn’t the best way to
+teach or learn
+science](https://www.nature.com/news/why-we-are-teaching-science-wrong-and-how-to-make-it-right-1.17963).
+ _Do not attempt to falsify iClicker or discussion participation or review quiz submissions; this would be considered a violation of academic integrity._
 
 * __Weekly (P)review quiz__ Online quizzes review the week's material and preview some upcoming examples each week. You can 
 submit your answers to each quiz as many times as you like. The latest submission before 11pm on Sunday will count towards 
@@ -298,10 +306,6 @@ full credit for a week's engagement.  For example: (1) attending all lectures (f
 (2) attending two lectures and two discussion sections; or (3) answering all questions on the review quiz correctly; or (4) 
 attending two lectures and getting two answers correct on the review  quiz; etc.
 
-<a name="p:pas"></a>
-<h3>Programming: Collaboration and Sources</h3>
-
-FILL IN
 
 <a name="p:exams"></a>
 <h3>Exams</h3>
