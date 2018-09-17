@@ -394,3 +394,30 @@ You may call the Human Research Protections Program Office at 858-246-HRPP (858-
 
 <p>If you consent to participate in this study and are at least 18 years old, no action is needed. If you DO NOT consent to participate in this study, or you choose to opt-out at any time during the quarter, please submit this form online at <a href="https://goo.gl/forms/JSBRjEmkES6W6xYc2" target="_blank">https://goo.gl/forms/JSBRjEmkES6W6xYc2</a>. Your instructor will not have access to the list of students who opted out until after grades are posted. Note that you must separately opt-out of the study for each course involved in this study.</p>
 
+<a id = "idea"></a>
+
+##Where to go for additional support
+
+###IDEA Engineering Student Center
+The IDEA Engineering Student Center, located just off the lobby of Jacobs Hall, is a hub for student engagement, academic enrichment, personal/professional development, leadership, community involvement, and a respectful learning environment for all.  The Center offers a variety of programs, listed in the IDEA Center Facebook page at http://www.facebook.com/ucsdidea/ (you are welcome to Like this page!) and the Center web site at http://idea.ucsd.edu/.  The IDEA Center programs support both undergraduate students and graduate students.
+
+
+###Prevention and Reporting of Harrassment & Discrimination
+
+The Office for the Prevention of Harassment & Discrimination (OPHD) provides assistance to students, faculty, and staff 
+regarding reports of bias, harassment, and discrimination. OPHD is the UC San Diego Title IX office. Title IX of the Education 
+Amendments of 1972 is the federal law that prohibits sex discrimination in educational institutions that are recipients of 
+federal funds. All students have the right to an educational environment that is free from harassment and discrimination.
+
+Students have options for reporting incidents of sexual violence and sexual harassment. Sexual violence includes sexual 
+assault, dating violence, domestic violence, and stalking. Information about reporting options may be obtained at OPHD at 
+(858) 534-8298, ophd@ucsd.edu or http://ophd.ucsd.edu. Students may receive confidential assistance at CARE at the Sexual 
+Assault Resource Center at (858) 534-5793, sarc@ucsd.edu or http://care.ucsd.edu or Counseling and Psychological Services 
+(CAPS) at (858) 534-3755 or http://caps.ucsd.edu.
+
+Students may feel more comfortable discussing their particular concern with a trusted employee. This may be a student affairs 
+staff member, a department Chair, a faculty member or other University official. These individuals have an obligation to 
+report incidents of sexual violence and sexual harassment to OPHD. This does not necessarily mean that a formal complaint will 
+be filed.
+
+If you find yourself in an uncomfortable situation, ask for help. 
