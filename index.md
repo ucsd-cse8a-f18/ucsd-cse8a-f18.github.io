@@ -164,9 +164,31 @@ of your overall course grade.
 <a id="help"></a>
 <b>Getting help</b> 
 
-Piazza
+The point of lab hours is to get you un-stuck when you're not sure what to do next on an assignment. The job of a tutor in lab hours is not necessarily to solve the problem you asked. The job of the tutor is to make sure you have the knowledge you need to take a productive next step. That means if you ask for help because you don't know how to implement the next method, you should expect that when the tutor leaves you know how to take a first step towards that implementation. You might end up with an idea for simple examples to try first, or a picture that demonstrates a good approach, or some other guide that isn't concrete code. The problem won't be solved, but you will be un-stuck.
 
-Lab hours + Autograder
+When you ask a question on Autograder, a few guidelines:
+
+Give a meaningful question or problem statement in your ticket. It doesn't need to be long, but it should be possible for a tutor to imagine possible situations just from the ticket, and not have to get the full story when arriving at your workstation. For tickets without meaningful questions, tutors are free to use their judgment to remove them from the queue.
+Be prepared! When the tutor shows up, you should be ready to reproduce the issue you're having, have a test case that doesn't produce the right output, show them a drawing of the situation you're confused about, etc.
+Piazza
+You can and should ask questions on Piazza. We have some guidelines and advice for doing so.
+
+The default on our Piazza board is for questions to be private to the question asker and the instructors. We (the instructional staff) will often make private questions public if we think the answers and discussion will be useful to everyone; if we do so we'll switch the author visibility to anonymous (it turns out it's not possible to make it anonymous if the original post isn't anonymous). If you want to be anonymous when a post is publicized, please set it to anonymous initially. Note that we won't publicize obviously-private questions about grades or other sensitive topics. If you want to ask a private question that stays private, just ask us to keep it private in the body of the question.
+
+You are also welcome to ask and answer public questions! Before you do, consider:
+
+Does it contribute to a positive, constructive, and respectful forum for discussion and learning?
+Does it contain contain source code or other information that shouldn't be shared class-wide?
+Is it a question that's been asked before, that you could find via searching?
+If you make a post that violates these guidelines, we may make it private and remind you of these guidelines. Overall, our goal is to make the public content on Piazza constructive and relevant for everyone.
+
+In your question, clearly indicate the problem you're having or question you need answered, and feel free to share any supporting code or screenshots that may help us understand what's going on. If it's a simple technical issue or clarification, you might get a direct answer. If it's a question about an assignment, expect to get questions back that lead you towards a better understanding, not an immediate answer that solves your problem.
+
+We will, for each assignment, aggregate together a frequently asked questions post that draws from questions we receive in office hours and via Piazza posts. If you ask a question that's already answered in that post, we'll likely just send you a link to that post. That post will be updated as new important questions and answers come in.
+
+For public discussion, note that answers from your classmates are not official. They could be downright wrong or misleading, completely by accident. “My classmate said so on Piazza” is not a legitimate justification in most arguments, though they may indeed lead you in helpful directions.
+
+Finally, a note about the pedagogic value of communication – a huge amount of modern computer science happens via collaboration, in text, online. Sites like Stack Overflow and Github hold incredible wealths of information generated through asking and answering questions. Computer science research, large system development, and cutting-edge design happens through professional, high-volume mailing lists. Practicing using Piazza professionally prepares you for these situations, so do it mindfully.
 
 
 <a id="exams"></a>
