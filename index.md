@@ -10,12 +10,14 @@ In this course, you will learn to write, trace, and test programs; explore
 the interactions between programs and data; and use computation to answer
 questions you care about.
 
-Basics: <a href="#lec">Lecture</a>, <a href="#disc">Discussion</a>, <a href="#labs">Labs</a>, <a href="#pas">Programming Assignments</a>, and <a href="#exams">Exams</a>. Check the <a href="#schedule">Schedule</a> for class topics, links to resources, and assignment due dates.  The <a href="#staff">course instructional team</a> is here to help you learn: 
-<a href="#help">ask for help and advice</a>!
+Basics: <a href="#b:lec">Lecture</a>, <a href="#b:disc">Discussion</a>, <a href="#b:labs">Labs</a>, <a href="#b:pas">Programming Assignments</a>, and <a href="#b:exams">Exams</a>. Check the <a href="#schedule">Schedule</a> for class topics, links to resources, and assignment due dates.  The <a href="#staff">course instructional team</a> is here to help you learn: 
+<a href="#b:help">ask for help and advice</a>!
 
-Policies: <a href="#">Materials</a>, <a href="#si">Supplemental Instruction</a>, <a href="#grading">Grading</a>,
-<a href="#ai#">Academic Integrity</a>
-<a href="#detailed-outcomes">Detailed Learning Outcomes</a>, <a href="ucsdsupport">Additional resources</a>
+Policies: <a href="#p:materials">Materials</a>, <a href="#p:grading">Grading</a>,
+<a href="#p:ai#">Academic Integrity</a>,
+<a href="#p:research-consent">Educational research</a>,
+<a href="#p:detailed-outcomes">Detailed learning outcomes</a>, 
+<a href="p:ucsdsupport">Additional resources</a>
 
 
 ## Schedule
@@ -27,8 +29,8 @@ Policies: <a href="#">Materials</a>, <a href="#si">Supplemental Instruction</a>,
 <a id="basics"></a>
 ## Basic Course Components
 
-<a id="lec"></a>
-<h3>Lecture</h3>  Expect class to be interactive; you'll work through problems in groups, compare multiple approaches to solutions, and answer multiple-choice questions using iClickers (see <a href="#engage">Engagement</a> below). Due to space constraints, you must attend the lecture in which you're enrolled. 
+<a id="b:lec"></a>
+<h3>Lecture</h3>  Expect class to be interactive; you'll work through problems in groups, compare multiple approaches to solutions, and answer multiple-choice questions using iClickers (see <a href="#p:engage">Engagement</a> below). Due to space constraints, you must attend the lecture in which you're enrolled. 
 
 <table class="table table-striped">
 <thead>
@@ -50,9 +52,9 @@ Policies: <a href="#">Materials</a>, <a href="#si">Supplemental Instruction</a>,
 </tr>
 </table>
 
-<a id="disc"></a>
+<a id="b:disc"></a>
 <h3>Discussion</h3> 
-There are two kinds of discussion section: in Supplemental Instruction you will work in small groups, practicing course content with extra exercises and activities; TA review sessions will demo tools and answer questions about the programming assignment specifications.  You can attend any discussion section(s) you like; attending discussion section counts towards your <a href="#engage">Engagement</a> with the class.
+There are two kinds of discussion section: in Supplemental Instruction you will work in small groups, practicing course content with extra exercises and activities; TA review sessions will demo tools and answer questions about the programming assignment specifications.  You can attend any discussion section(s) you like; attending discussion section counts towards your <a href="#p:engage">Engagement</a> with the class.
 
 <table class="table table-striped">
 <thead>
@@ -87,12 +89,17 @@ There are two kinds of discussion section: in Supplemental Instruction you will 
 </table>
 
 
-<a id="labs"></a>
+<a id="b:labs"></a>
 <h3>Lab Sessions</h3> 
 
 You will work closely in groups to experiment with class concepts and delve deeper into the material.  You must 
-attend the lab session in which you are enrolled.  You will complete a lab report in each <a href="#Labs">lab session</a>; 
-your Lab TA will grade  this report and give you feedback.
+attend the lab session in which you are enrolled.  You will work in a group in lab.  We will assign the groups and group 
+assignments may 
+change from week to week: you are starting your journey into Computer Science and we want
+to help you meet your classmates who will be with you along the way.  All labs must be finished
+in the allotted class time.  As a group, you will create a lab report each week and your TA will review
+it and give you feedback.
+
 
 <table class="table table-striped">
 <thead>
@@ -138,7 +145,7 @@ your Lab TA will grade  this report and give you feedback.
 </tr>
 </table>
 
-<a id="pas"></a>
+<a id="b:pas"></a>
 <h3>Programming Assignments</h3> 
 
 Learn by doing!  Most weeks, you will be working on a programming assignment for this class.
@@ -164,12 +171,19 @@ PA0 counts towards 2% of your overall course grade, the rest of the assignments 
 of your overall course grade.
 
 
-<a id="help"></a>
+<a id="b:help"></a>
 <h3>Getting help</h3> 
 
 <h4>Working and getting help in the lab</h4>
 
-The point of lab hours is to get you un-stuck when you're not sure what to do next on an assignment. The job of a tutor in lab hours is not necessarily to solve the problem you asked. The job of the tutor is to make sure you have the knowledge you need to take a productive next step. That means if you ask for help because you don't know how to implement the next method, you should expect that when the tutor leaves you know how to take a first step towards that implementation. You might end up with an idea for simple examples to try first, or a picture that demonstrates a good approach, or some other guide that isn't concrete code. The problem won't be solved, but you will be un-stuck.
+You have computer accounts for the labs in the CSE building.  Even if you choose to work on your programming assignments on 
+your own computer, you can work in these labs.  During open lab hours (<a href="#staff">schedule</a>), tutors, TAs, and the 
+instructors will be available to help. We will work with you to get you un-stuck when you're not sure what to do next on an 
+assignment. The job of a tutor in lab hours is not necessarily to solve the problem you asked. The job of the tutor is to make 
+sure you have the knowledge you need to take a productive next step. That means if you ask for help because you don't know how 
+to implement the next method, you should expect that when the tutor leaves you know how to take a first step towards that 
+implementation. You might end up with an idea for simple examples to try first, or a picture that demonstrates a good 
+approach, or some other guide that isn't concrete code. The problem won't be solved, but you will be un-stuck.
 
 When you ask a question on Autograder, a few guidelines:
 
@@ -194,11 +208,11 @@ completely by accident. “My classmate said so on Piazza” is not a legitimate
 indeed lead you in helpful directions.
 
 
-<a id="exams"></a>
+<a id="b:exams"></a>
 <h3>Exams</h3> 
 There will be two exams during the quarter, held in the evenings during Week 3 (**Thursday 10/18/2018	8pm-
 9:50pm**) and Week 7 (**Wednesday 11/14/2018	8pm-9:50pm**) of the Fall quarter.  The Final exam is on Wednesday of exam week
-(**Wednesday 12/12/2018	7pm-9:59pm**).  There are no makeup exams.  See <a href="#Grading">grading section</a> below for the 
+(**Wednesday 12/12/2018	7pm-9:59pm**).  There are no makeup exams.  See <a href="#p:Grading">grading section</a> below for the 
 policy on missed exams.
 
 
@@ -216,7 +230,7 @@ policy on missed exams.
 <a id="policies"></a>
 ## Policies
 
-<a id="materials"></a>
+<a id="p:materials"></a>
 <h3>Materials</h3>
 
 There is no textbook for the course. The schedule above will link to all the
@@ -236,8 +250,8 @@ language](https://docs.oracle.com/javase/10/), while not required reading,
 will be linked to from some assignments and is always a useful reference
 while programming.
 
-<a name="community"></a>
-<h3 id="community">The CSE 8A Community</h3>
+<a name="p:community"></a>
+<h3>The CSE 8A Community</h3>
 CSE 8A is a large course: there are over 35 people on the instructional team and over 600 students.  We are all here because we are excited about Computer Science and want to ensure a productive, interesting, and useful quarter.
 
 At UC San Diego, we agree to hold ourselves to the <a href="https://ucsd.edu/about/principles.html" target="_blank">Principles of Community</a> of respect, inclusion, and integrity.  This translates to all our interactions in this course, and beyond.
@@ -254,8 +268,8 @@ Before you post a question or answer, consider:
 If you make a post that violates these guidelines, we may make it private and remind you of these guidelines. Overall, our goal is to make the public content on Piazza constructive and relevant for everyone.
 
 
-<a name="engage"></a>
-<h3 id="engage">Engagement</h3>
+<a name="p:engage"></a>
+<h3>Engagement</h3>
 
 We highly recommend actively participating in class, attending discussion, and completing the weekly review quizzes. Regularly
 engaging with the class in these ways counts towards the Engagement component of your overall score.
@@ -287,7 +301,11 @@ full credit for a week's engagement.  For example: (1) attending all lectures (f
 (2) attending two lectures and two discussion sections; or (3) answering all questions on the review quiz correctly; or (4) 
 attending two lectures and getting two answers correct on the review  quiz; etc.
 
-<h3 id="exams">Exams</h3>
+<a name="p:pas"></a>
+<h3>Programming</h3>
+
+<a name="p:exams"></a>
+<h3>Exams</h3>
 
 There will be three total exams in the course: two during the quarter (also
 called “midterms”) and a final exam. The midterms will be in the evening during
@@ -326,22 +344,8 @@ There are no make-up midterms, and the final exam policy is governed by the
 [university's
 policies](https://senate.ucsd.edu/operating-procedures/educational-policies/courses/epc-policies-on-courses/policy-exams-including-midterms-final-exams-and-religious-accommodations-for-exams/).
 
-<h3 id="lab">Labs</h3>
 
-Along with the course, you are enrolled in a lab section, which meets each
-Tuesday in one of the student labs in the (newly renovated) basement of the CSE building.
-You will work in a group in lab.  We will assign the groups and group assignments may 
-change from week to week: you are starting your journey into Computer Science and we want
-to help you meet your classmates who will be with you along the way.  All labs must be finished
-in the allotted class time.  As a group, you will create a lab report each week and your TA will review
-it and give you feedback.
-
-You must attend the lab section for which you are enrolled.
-
-<h3 id="si">Supplemental Instruction</h3>
-
-
-<a id="grading"></a>
+<a id="p:grading"></a>
 <h3>Grading</h3>
 
 Your grade will be computed from:
@@ -392,13 +396,13 @@ We may adjust the above scale to be more lenient (depending on the overall class
 not adjust the scale to make it harder to get a better grade.
 In addition, you must pass the final exam in order to pass the course.
 
-<a id="ai"></a>
+<a id="p:ai"></a>
 <h3> Academic Integrity</h3>
 
 FILL IN
 
 
-<a id="detailed-outcomes"></a>
+<a id="p:detailed-outcomes"></a>
 ### Learning Outcomes
 
 - Explore computation and data
@@ -427,7 +431,7 @@ FILL IN
 
 
 
-<a id="research-consent"></a>
+<a id="p:research-consent"></a>
 <h3>Consent to Participate in Educational Research</h3>
 <h4>Investigating the Impact of Pedagogical Choices on University Student Learning and Engagement</h4>
 
@@ -492,7 +496,7 @@ You may call the Human Research Protections Program Office at 858-246-HRPP (858-
 
 <p>If you consent to participate in this study and are at least 18 years old, no action is needed. If you DO NOT consent to participate in this study, or you choose to opt-out at any time during the quarter, please submit this form online at <a href="https://goo.gl/forms/JSBRjEmkES6W6xYc2" target="_blank">https://goo.gl/forms/JSBRjEmkES6W6xYc2</a>. Your instructor will not have access to the list of students who opted out until after grades are posted. Note that you must separately opt-out of the study for each course involved in this study.</p>
 
-<a id = "ucsdsupport"></a>
+<a id = "p:ucsdsupport"></a>
 
 ## Where to go for additional support
 
