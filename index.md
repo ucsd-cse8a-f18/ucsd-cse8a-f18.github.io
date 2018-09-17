@@ -245,6 +245,11 @@ indeed lead you in helpful directions.
 <a name="pa:code-mentor"></a>
 <h3>Code Mentoring</h3>
 
+Programming and computer science are cumulative topics, where later concepts
+build heavily on earlier ones. In addition, the process of revision is
+important in programming. To that end, we offer code mentoring sessions to
+students whose programming assignments get low scores.
+
 On each programming assignment, if you get less than 70% of the points, we
 will contact you to schedule a _code mentoring_ session with a staff member.
 Partners on pair programming assignments will be contacted individually.
