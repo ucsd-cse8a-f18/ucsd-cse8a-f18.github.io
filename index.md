@@ -10,7 +10,8 @@ In this course, you will learn to write, trace, and test programs; explore
 the interactions between programs and data; and use computation to answer
 questions you care about.
 
-Basics: <a href="#lec">Lecture</a>, <a href="#disc">Discussion</a>, <a href="#labs">Labs</a>, <a href="#pas">Programming Assignments</a>, and <a href="#exams">Exams</a>. Check the <a href="#schedule">Schedule</a> for class topics, links to resources, and assignment due dates.  <a href="#staff">Course instructional team</a>.
+Basics: <a href="#lec">Lecture</a>, <a href="#disc">Discussion</a>, <a href="#labs">Labs</a>, <a href="#pas">Programming Assignments</a>, and <a href="#exams">Exams</a>. Check the <a href="#schedule">Schedule</a> for class topics, links to resources, and assignment due dates.  The <a href="#staff">course instructional team</a> is here to help you learn: 
+<a href="#help">ask for help and advice</a>!
 
 Policies: <a href="#materials">Materials</a>, <a href="#si">Supplemental Instruction</a>, <a href="#grading">Grading</a>,
 <a href="#ai#">Academic Integrity</a>
@@ -158,6 +159,14 @@ of the material.
 
 PA0 counts towards 2% of your overall course grade, the rest of the assignments (PA1 through PA8) each count towards 5% 
 of your overall course grade.
+
+
+<a id="help"></a>
+<b>Getting help</b> 
+
+Piazza
+
+Lab hours + Autograder
 
 
 <a id="exams"></a>
