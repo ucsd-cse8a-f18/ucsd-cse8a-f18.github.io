@@ -22,7 +22,7 @@ Policies: <a href="#">Materials</a>, <a href="#si">Supplemental Instruction</a>,
 
 <a id="schedule"></a>
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBt6J84DZl8HwRnBlJfJ-cAW3Vi7VjI5A3X6enkdNRcDclCotOutJim--MJZj_zr9wpyLmGqXy_51t/pubhtml?gid=30684399&amp;single=true&amp;widget=true&amp;headers=false&amp;range=A:E" width="100%" height="800px"></iframe>
+<iframe style="border: none; border-top: 1px solid grey; border-spacing: 2px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBt6J84DZl8HwRnBlJfJ-cAW3Vi7VjI5A3X6enkdNRcDclCotOutJim--MJZj_zr9wpyLmGqXy_51t/pubhtml?gid=30684399&amp;single=true&amp;widget=false&amp;chrome=false&amp;range=A:E" width="100%" height="800px"></iframe>
 
 <a id="basics"></a>
 ## Basic Course Components
@@ -210,6 +210,8 @@ policy on missed exams.
 <a href="http://cseweb.ucsd.edu/~minnes/index.html">Prof Mia Minnes</a> (Instructor)
 <a href="https://jpolitz.github.io">Prof Joe Gibbs Politz</a> (Instructor)
 </p>
+
+<iframe style="border: none; border-top: 1px solid gray" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBt6J84DZl8HwRnBlJfJ-cAW3Vi7VjI5A3X6enkdNRcDclCotOutJim--MJZj_zr9wpyLmGqXy_51t/pubhtml?gid=97371257&amp;single=true&amp;chrome=false;widget=false;"></iframe>
 
 <a id="policies"></a>
 ## Policies
