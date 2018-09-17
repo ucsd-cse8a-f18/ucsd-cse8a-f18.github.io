@@ -50,7 +50,7 @@ Policies: <a href="#materials">Materials</a>, <a href="#si">Supplemental Instruc
 </table>
 
 <a id="disc"></a>
-<b>Discussion</b> There are two kinds of discussion section: Supplemental Instruction will facilitate study-session group summaries of class content and practice exercises; TA review sessions will demo tools and answer questions about the programming assignment specifications.  You can attend any discussion section(s) you like; attending discussion section counts towards your <a href="#engage">Engagement</a> with the class.
+<b>Discussion</b> There are two kinds of discussion section: in Supplemental Instruction you will work in small groups, practicing course content with extra exercises and activities; TA review sessions will demo tools and answer questions about the programming assignment specifications.  You can attend any discussion section(s) you like; attending discussion section counts towards your <a href="#engage">Engagement</a> with the class.
 
 <table class="table table-striped">
 <thead>
