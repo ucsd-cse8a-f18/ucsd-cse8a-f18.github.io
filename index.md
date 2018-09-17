@@ -17,7 +17,7 @@ Policies: <a href="#p:materials">Materials</a>, <a href="#p:grading">Grading</a>
 <a href="#p:ai#">Academic Integrity</a>,
 <a href="#p:research-consent">Educational research</a>,
 <a href="#p:detailed-outcomes">Detailed learning outcomes</a>, 
-<a href="p:ucsdsupport">Additional resources</a>
+<a href="#p:ucsdsupport">Additional resources</a>
 
 
 ## Schedule
