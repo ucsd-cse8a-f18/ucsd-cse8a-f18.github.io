@@ -192,6 +192,8 @@ sitting and listening passively to lecture [probably isn’t the best way to
 teach or learn
 science](https://www.nature.com/news/why-we-are-teaching-science-wrong-and-how-to-make-it-right-1.17963).
 
+FILL IN: Piazza, Gradescope, Github repo, Autograder
+
 [The documentation for the Java
 language](https://docs.oracle.com/javase/10/), while not required reading,
 will be linked to from some assignments and is always a useful reference
