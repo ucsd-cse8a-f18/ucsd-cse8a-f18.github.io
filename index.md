@@ -10,14 +10,17 @@ In this course, you will learn to write, trace, and test programs; explore
 the interactions between programs and data; and use computation to answer
 questions you care about.
 
-Basics: <a href="#lec">Lecture</a>, <a href="#disc">Discussion</a>, <a href="#labs">Labs</a>, <a href="#pas">Programming Assignments</a>, and <a href="#exams">Exams</a>
-
-<a href="#schedule">Schedule</a>
-
-<a href="#staff">Staff</a>
+Basics: <a href="#lec">Lecture</a>, <a href="#disc">Discussion</a>, <a href="#labs">Labs</a>, <a href="#pas">Programming Assignments</a>, and <a href="#exams">Exams</a>.  <a href="#schedule">Schedule</a>.  <a href="#staff">Course instructional team</a>.
 
 Policies: <a href="#materials">Materials</a>, <a href="#si">Supplemental Instruction</a>, <a href="#grading">Grading</a>,
 <a href="#detailed-outcomes">Detailed Learning Outcomes</a>
+
+
+## Schedule
+
+<a id="schedule"></a>
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBt6J84DZl8HwRnBlJfJ-cAW3Vi7VjI5A3X6enkdNRcDclCotOutJim--MJZj_zr9wpyLmGqXy_51t/pubhtml?gid=30684399&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="400px"></iframe>
 
 <a id="basics"></a>
 ## Basic Course Components
@@ -163,11 +166,6 @@ of your overall course grade.
 policy on missed exams.
 
 
-## Schedule
-
-<a id="schedule"></a>
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBt6J84DZl8HwRnBlJfJ-cAW3Vi7VjI5A3X6enkdNRcDclCotOutJim--MJZj_zr9wpyLmGqXy_51t/pubhtml?gid=30684399&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="400px"></iframe>
 
 ## Staff
 <a id="staff"></a>
