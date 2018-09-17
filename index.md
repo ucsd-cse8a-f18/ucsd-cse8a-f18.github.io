@@ -10,7 +10,7 @@ In this course, you will learn to write, trace, and test programs; explore
 the interactions between programs and data; and use computation to answer
 questions you care about.
 
-Basics: <a href="#lec">Lecture</a>, <a href="#disc">Discussion</a>, <a href="#labs">Labs</a>, <a href="#pas">Programming Assignments</a>, and <a href="#Exams">Exams</a>
+Basics: <a href="#lec">Lecture</a>, <a href="#disc">Discussion</a>, <a href="#labs">Labs</a>, <a href="#pas">Programming Assignments</a>, and <a href="#exams">Exams</a>
 
 <a href="#schedule">Schedule</a>
 
@@ -157,14 +157,11 @@ of your overall course grade.
 
 
 <a id="exams"></a>
-<b>Exams</b> There will be two exams during the quarter, held in the evenings during Week 3 and Week 7 of the Fall quarter.  The Final exam is on Wednesday of exam week.  There are no makeup exams.  See <a href="#Grading">grading section</a> below for the 
+<b>Exams</b> There will be two exams during the quarter, held in the evenings during Week 3 (**Thursday 10/18/2018	8pm-
+9:50pm**) and Week 7 (**Wednesday 11/14/2018	8pm-9:50pm**) of the Fall quarter.  The Final exam is on Wednesday of exam week
+(**Wednesday 12/12/2018	7pm-9:59pm**).  There are no makeup exams.  See <a href="#Grading">grading section</a> below for the 
 policy on missed exams.
 
-**Exam 1** Thursday 10/18/2018	8pm-9:50pm
-
-**Exam 2** Wednesday 11/14/2018	8pm-9:50pm
-
-**Final exam** Wednesday 12/12/2018	7pm-9:59pm
 
 ## Schedule
 
