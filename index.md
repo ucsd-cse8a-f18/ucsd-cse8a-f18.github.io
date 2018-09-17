@@ -235,7 +235,7 @@ will be linked to from some assignments and is always a useful reference
 while programming.
 
 <a name="community"></a>
-<h3 id="community">The CSE 8A Community</a>
+<h3 id="community">The CSE 8A Community</h3>
 CSE 8A is a large course: there are over 35 people on the instructional team and over 600 students.  We are all here because we are excited about Computer Science and want to ensure a productive, interesting, and useful quarter.
 
 At UC San Diego, we agree to hold ourselves to the <a href="https://ucsd.edu/about/principles.html" target="_blank">Principles of Community</a> of respect, inclusion, and integrity.  This translates to all our interactions in this course, and beyond.
