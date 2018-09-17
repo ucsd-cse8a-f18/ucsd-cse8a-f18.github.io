@@ -206,8 +206,9 @@ indeed lead you in helpful directions.
 
 <a id="b:exams"></a>
 <h3>Exams</h3> 
-There will be two exams during the quarter, held in the evenings during Week 3 (**Thursday 10/18/2018	8pm-
-9:50pm**) and Week 7 (**Wednesday 11/14/2018	8pm-9:50pm**) of the Fall quarter.  The Final exam is on Wednesday of exam week
+There will be two exams during the quarter, held in the evenings during Week 3 
+(**Thursday 10/18/2018	8pm-9:50pm**) 
+and Week 7 (**Wednesday 11/14/2018	8pm-9:50pm**) of the Fall quarter.  The Final exam is on Wednesday of exam week
 (**Wednesday 12/12/2018	7pm-9:59pm**).  There are no makeup exams.  See <a href="#p:Grading">grading section</a> below for the 
 policy on missed exams.
 
