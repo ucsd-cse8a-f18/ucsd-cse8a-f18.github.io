@@ -400,8 +400,7 @@ In addition, you must pass the final exam in order to pass the course.
 
 <b>Late and Makeup Work</b> In general, work cannot be handed in late for
 credit. We will drop the lowest quiz and lab score to account for personal
-events and constraints that make you miss those deadlines (if you don't do
-any quizzes, you aren't eligible for this).
+events and constraints that make you miss those deadlines.
 
 Programming work cannot be handed in late, with one exception. The last
 programming assignment will synthesize many of the topics seen throughout the
