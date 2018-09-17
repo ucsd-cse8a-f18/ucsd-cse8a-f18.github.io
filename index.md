@@ -11,7 +11,7 @@ the interactions between programs and data; and use computation to answer
 questions you care about.
 
 Basics: <a href="#b:lec">Lecture</a>, <a href="#b:disc">Discussion</a>, <a href="#b:labs">Labs</a>, <a href="#b:pas">Programming Assignments</a>, and <a href="#b:exams">Exams</a>. Check the <a href="#schedule">Schedule</a> for class topics, links to resources, and assignment due dates.  The <a href="#staff">course instructional team</a> is here to help you learn: 
-<a href="#b:help">ask for help and advice</a>!
+<a href="#help">ask for help and advice</a>!
 
 Policies: <a href="#p:materials">Materials</a>, <a href="#p:grading">Grading</a>,
 <a href="#p:ai#">Academic Integrity</a>,
@@ -171,7 +171,7 @@ PA0 counts towards 2% of your overall course grade, the rest of the assignments 
 of your overall course grade.
 
 
-<a id="b:help"></a>
+<a id="help"></a>
 <h3>Getting help</h3> 
 
 <h4>Working and getting help in the lab</h4>
