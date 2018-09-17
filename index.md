@@ -28,7 +28,7 @@ Policies: <a href="#materials">Materials</a>, <a href="#si">Supplemental Instruc
 ## Basic Course Components
 
 <a id="lec"></a>
-<b>Lecture</b>  Expect class to be interactive; you'll work through problems in groups, compare multiple approaches to solutions, and answer multiple-choice questions using iClickers (see <a href="#engage">Engagement</a> below). Due to space constraints, you must attend the lecture in which you're enrolled. 
+<h3>Lecture</h3>  Expect class to be interactive; you'll work through problems in groups, compare multiple approaches to solutions, and answer multiple-choice questions using iClickers (see <a href="#engage">Engagement</a> below). Due to space constraints, you must attend the lecture in which you're enrolled. 
 
 <table class="table table-striped">
 <thead>
@@ -51,7 +51,8 @@ Policies: <a href="#materials">Materials</a>, <a href="#si">Supplemental Instruc
 </table>
 
 <a id="disc"></a>
-<b>Discussion</b> There are two kinds of discussion section: in Supplemental Instruction you will work in small groups, practicing course content with extra exercises and activities; TA review sessions will demo tools and answer questions about the programming assignment specifications.  You can attend any discussion section(s) you like; attending discussion section counts towards your <a href="#engage">Engagement</a> with the class.
+<h3>Discussion</h3> 
+There are two kinds of discussion section: in Supplemental Instruction you will work in small groups, practicing course content with extra exercises and activities; TA review sessions will demo tools and answer questions about the programming assignment specifications.  You can attend any discussion section(s) you like; attending discussion section counts towards your <a href="#engage">Engagement</a> with the class.
 
 <table class="table table-striped">
 <thead>
@@ -87,7 +88,9 @@ Policies: <a href="#materials">Materials</a>, <a href="#si">Supplemental Instruc
 
 
 <a id="labs"></a>
-<b>Lab Sessions</b> You will work closely in groups to experiment with class concepts and delve deeper into the material.  You must 
+<h3>Lab Sessions</h3> 
+
+You will work closely in groups to experiment with class concepts and delve deeper into the material.  You must 
 attend the lab session in which you are enrolled.  You will complete a lab report in each <a href="#Labs">lab session</a>; 
 your Lab TA will grade  this report and give you feedback.
 
@@ -136,7 +139,7 @@ your Lab TA will grade  this report and give you feedback.
 </table>
 
 <a id="pas"></a>
-<b>Programming Assignments</b> 
+<h3>Programming Assignments</h3> 
 
 Learn by doing!  Most weeks, you will be working on a programming assignment for this class.
 You will feel the intense excitement of seeing your work come alive through the computer, and 
@@ -145,11 +148,11 @@ are at the heart of what it means to be a computer scientist.  The programming a
 to invite your creativity, problem solving skills, tenacity, and interests. When you find yourself stuck
 during your work on a programming assignment, ask for help:
 
-* Open lab hours
+* <a href="#staff">Open lab hours</a>
 
-* Instructor and TA office hours
+* <a href="#staff">Instructor and TA</a> office hours
 
-* Private questions to instructors on the class discussion board on Piazza
+* Private questions to instructors on the <a href="#help">class discussion board</a> on Piazza
 
 
 Remember to always read the programming assignment description carefully.  Some programming assignments will
@@ -162,7 +165,9 @@ of your overall course grade.
 
 
 <a id="help"></a>
-<b>Getting help</b> 
+<h3>Getting help</h3> 
+
+<h4>Working and getting help in the lab</h4>
 
 The point of lab hours is to get you un-stuck when you're not sure what to do next on an assignment. The job of a tutor in lab hours is not necessarily to solve the problem you asked. The job of the tutor is to make sure you have the knowledge you need to take a productive next step. That means if you ask for help because you don't know how to implement the next method, you should expect that when the tutor leaves you know how to take a first step towards that implementation. You might end up with an idea for simple examples to try first, or a picture that demonstrates a good approach, or some other guide that isn't concrete code. The problem won't be solved, but you will be un-stuck.
 
@@ -172,34 +177,26 @@ When you ask a question on Autograder, a few guidelines:
 - Be prepared! When the tutor shows up, you should be ready to reproduce the issue you're having, have a test case that doesn't produce the right output, show them a drawing of the situation you're confused about, etc.
 
 
-Piazza
+<h4>Asking & Answering questions on Piazza</h4>
 
-Piazza is an online discussion board where we can make announcements and students can ask questions. We (the course staff) can answer your questions, as well as your classmates. We have some guidelines and advice for participating on Piazza.
-
-There are two kinds of questions you should ask on Piazza:
+Piazza is an online discussion board where we can make announcements and students can ask questions. Both we (the course staff) and your classmates can answer your questions. There are two kinds of questions you should ask on Piazza:
 
 - Private questions about programming assignments or your grade / account
 - Public questions about the content of lecture, discussion, lab, and any readings
 
-Before you post a question or answer, consider:
+For each assignment, you will find a Frequently Asked Questions post, where we will answer all common questions we receive in office hours and via (private) Piazza posts. If you ask a question that's already answered in that post, we'll likely just send you a link to that post. That post will be updated as new important questions and answers come in.
 
-- Does it contribute to a positive, constructive, and respectful forum for discussion and learning?
-- Does it contain contain source code or other information that shouldn't be shared class-wide?
-- Is it a question that's been asked before, that you could find via searching?
-
-If you make a post that violates these guidelines, we may make it private and remind you of these guidelines. Overall, our goal is to make the public content on Piazza constructive and relevant for everyone.
-
-We will, for each assignment, aggregate together a frequently asked questions post that draws from questions we receive in office hours and via Piazza posts. If you ask a question that's already answered in that post, we'll likely just send you a link to that post. That post will be updated as new important questions and answers come in.
-
-For public discussion, note that answers from your classmates are not official! They could be downright wrong or misleading, completely by accident. “My classmate said so on Piazza” is not a legitimate justification in most arguments, though they may indeed lead you in helpful directions.
-
-When answering questions, be polite, be clear, and assume the best intentions of the person asking. If it turns out you make a mistake or were wrong, admit it with a smile (emoji are great for this 😊), and make sure the correct information is clear. Above all, keep in mind that the course is a community whose goal is to foster a positive learning environment for everyone. 
-
-Finally, a note about the pedagogic value of communication – a huge amount of modern computer science happens via collaboration, in text, online. Sites like Stack Overflow and Github hold incredible wealths of information generated through asking and answering questions. Computer science research, large system development, and cutting-edge design happens through professional, high-volume mailing lists. Practicing using Piazza professionally prepares you for these situations, so do it mindfully.
+When answering questions, be polite, be clear, and assume the best intentions of the person asking. If it turns out you make a 
+mistake or were wrong, admit it with a smile (emoji are great for this 😊), and make sure the correct information is clear. 
+Above all, keep in mind that the course is a community whose goal is to foster a positive learning environment for everyone. 
+For public discussion, note that answers from your classmates are not official! They could be downright wrong or misleading, 
+completely by accident. “My classmate said so on Piazza” is not a legitimate justification in most arguments, though they may 
+indeed lead you in helpful directions.
 
 
 <a id="exams"></a>
-<b>Exams</b> There will be two exams during the quarter, held in the evenings during Week 3 (**Thursday 10/18/2018	8pm-
+<h3>Exams</h3> 
+There will be two exams during the quarter, held in the evenings during Week 3 (**Thursday 10/18/2018	8pm-
 9:50pm**) and Week 7 (**Wednesday 11/14/2018	8pm-9:50pm**) of the Fall quarter.  The Final exam is on Wednesday of exam week
 (**Wednesday 12/12/2018	7pm-9:59pm**).  There are no makeup exams.  See <a href="#Grading">grading section</a> below for the 
 policy on missed exams.
@@ -237,6 +234,19 @@ language](https://docs.oracle.com/javase/10/), while not required reading,
 will be linked to from some assignments and is always a useful reference
 while programming.
 
+<a name="community"</a>
+<h3 id="community">The CSE 8A Community</a>
+
+Finally, a note about the pedagogic value of communication – a huge amount of modern computer science happens via collaboration, in text, online. Sites like Stack Overflow and Github hold incredible wealths of information generated through asking and answering questions. Computer science research, large system development, and cutting-edge design happens through professional, high-volume mailing lists. Practicing using Piazza professionally prepares you for these situations, so do it mindfully.
+
+
+Before you post a question or answer, consider:
+
+- Does it contribute to a positive, constructive, and respectful forum for discussion and learning?
+- Does it contain contain source code or other information that shouldn't be shared class-wide?
+- Is it a question that's been asked before, that you could find via searching?
+
+If you make a post that violates these guidelines, we may make it private and remind you of these guidelines. Overall, our goal is to make the public content on Piazza constructive and relevant for everyone.
 
 
 <a name="engage"></a>
