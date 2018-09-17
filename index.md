@@ -234,10 +234,13 @@ language](https://docs.oracle.com/javase/10/), while not required reading,
 will be linked to from some assignments and is always a useful reference
 while programming.
 
-<a name="community"</a>
+<a name="community"></a>
 <h3 id="community">The CSE 8A Community</a>
+CSE 8A is a large course: there are over 35 people on the instructional team and over 600 students.  We are all here because we are excited about Computer Science and want to ensure a productive, interesting, and useful quarter.
 
-Finally, a note about the pedagogic value of communication – a huge amount of modern computer science happens via collaboration, in text, online. Sites like Stack Overflow and Github hold incredible wealths of information generated through asking and answering questions. Computer science research, large system development, and cutting-edge design happens through professional, high-volume mailing lists. Practicing using Piazza professionally prepares you for these situations, so do it mindfully.
+At UC San Diego, we agree to hold ourselves to the <a href="https://ucsd.edu/about/principles.html" target="_blank">Principles of Community</a> of respect, inclusion, and integrity.  This translates to all our interactions in this course, and beyond.
+
+A huge amount of modern computer science happens via collaboration, in text, online. Sites like Stack Overflow and Github hold incredible wealths of information generated through asking and answering questions. Computer science research, large system development, and cutting-edge design happens through professional, high-volume mailing lists. Practicing using Piazza professionally prepares you for these situations, so do it mindfully.
 
 
 Before you post a question or answer, consider:
