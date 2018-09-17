@@ -10,7 +10,7 @@ In this course, you will learn to write, trace, and test programs; explore
 the interactions between programs and data; and use computation to answer
 questions you care about.
 
-Basics: <a href="#b:lec">Lecture</a>, <a href="#b:disc">Discussion</a>, <a href="#b:labs">Labs</a>, <a href="#b:pas">Programming Assignments</a>, and <a href="#b:exams">Exams</a>. Check the <a href="#schedule">Schedule</a> for class topics, links to resources, and assignment due dates.  The <a href="#staff">course instructional team</a> is here to help you learn: 
+Basics: <a href="#b:lec">Lecture</a>, <a href="#b:disc">Discussion</a>, <a href="#b:labs">Labs</a>, <a href="#pa">Programming Assignments</a>, and <a href="#b:exams">Exams</a>. Check the <a href="#schedule">Schedule</a> for class topics, links to resources, and assignment due dates.  The <a href="#staff">course instructional team</a> is here to help you learn: 
 <a href="#help">ask for help and advice</a>!
 
 Policies: <a href="#p:materials">Materials</a>, <a href="#p:grading">Grading</a>,
@@ -182,7 +182,7 @@ policy on missed exams.
 <iframe style="border: none; border-top: 1px solid gray" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBt6J84DZl8HwRnBlJfJ-cAW3Vi7VjI5A3X6enkdNRcDclCotOutJim--MJZj_zr9wpyLmGqXy_51t/pubhtml?gid=97371257&amp;single=true&amp;chrome=false;widget=false;"></iframe>
 
 
-<a id="pas"></a>
+<a id="pa"></a>
 <h2>Programming</h2> 
 
 
@@ -241,7 +241,14 @@ For public discussion, note that answers from your classmates are not official! 
 completely by accident. “My classmate said so on Piazza” is not a legitimate justification in most arguments, though they may 
 indeed lead you in helpful directions.
 
-<a name="pa:pas"></a>
+
+<a name="pa:code-mentor"></a>
+<h3>Code Mentoring</h3>
+
+On each programming assignment, if you get less than 70% of the points, we
+will contact you to schedule a _code mentoring_ session with a staff member.
+
+<a name="pa:pas-collab"></a>
 <h3>Collaboration and Sources</h3>
 
 FILL IN
