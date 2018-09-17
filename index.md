@@ -362,7 +362,6 @@ Your grade will be computed from:
 
 Yes, this adds up to 102% .
 
-
 After your weighted average is calculated, letter grades will be assigned 
 based on the following grading scale:
 
@@ -398,6 +397,19 @@ based on the following grading scale:
 We may adjust the above scale to be more lenient (depending on the overall class performance), but we guarantee that we will 
 not adjust the scale to make it harder to get a better grade.
 In addition, you must pass the final exam in order to pass the course.
+
+<b>Late and Makeup Work</b> In general, work cannot be handed in late for
+credit. We will drop the lowest quiz and lab score to account for personal
+events and constraints that make you miss those deadlines (if you don't do
+any quizzes, you aren't eligible for this).
+
+Programming work cannot be handed in late, with one exception. The last
+programming assignment will synthesize many of the topics seen throughout the
+course. As such, it will demonstrate your understanding of many other parts
+of the course, and to reflect this, the score on the final programming
+assignment can <em>replace</em> an earlier PA score. In addition, you can
+hand in the final programming assignment any time during finals week (which
+will be after its deadline in week 10) for a 20% deduction.
 
 <a id="p:ai"></a>
 <h3> Academic Integrity</h3>
