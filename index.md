@@ -299,7 +299,9 @@ full credit for a week's engagement.  For example: (1) attending all lectures (f
 attending two lectures and getting two answers correct on the review  quiz; etc.
 
 <a name="p:pas"></a>
-<h3>Programming</h3>
+<h3>Programming: Collaboration and Sources</h3>
+
+FILL IN
 
 <a name="p:exams"></a>
 <h3>Exams</h3>
