@@ -201,8 +201,8 @@ during your work on a programming assignment, ask for help:
 
 
 Remember to always read the programming assignment description carefully.  Some programming assignments will
-be <a href="#p:pas">**pair-programming**</a> assignments, where you are expected to develop the algorithm and code in close collaboration 
-with a partner; others will be <a href="#p:pas">**individual**</a> assignments, where you will gain confidence with your own mastery
+be <a href="#pa:pa-collab">**pair-programming**</a> assignments, where you are expected to develop the algorithm and code in close collaboration 
+with a partner; others will be <a href="#pa:pa-collab">**individual**</a> assignments, where you will gain confidence with your own mastery
 of the material.
 
 PA0 counts towards 2% of your overall course grade, the rest of the assignments (PA1 through PA8) each count towards 5% 
@@ -215,7 +215,7 @@ of your overall course grade.
 <h4>Working and getting help in the lab</h4>
 
 You have computer accounts for the labs in the CSE building.  Even if you choose to work on your programming assignments on 
-your own computer, you can work in these labs. The type of programming assignment you are working on will determine whether you can <a href="#p:pas">collaborate with other students</a> in the lab.  However, during open lab hours (<a href="#staff">schedule</a>), tutors, TAs, and the 
+your own computer, you can work in these labs. The type of programming assignment you are working on will determine whether you can <a href="#pa:pa-collab">collaborate with other students</a> in the lab.  However, during open lab hours (<a href="#staff">schedule</a>), tutors, TAs, and the 
 instructors will be available to help. We will work with you to get you un-stuck when you're not sure what to do next on an 
 assignment. We will be using the <a href="autograder.ucsd.edu" target="_blank">Autograder</a> system to manage to queue of 
 requests for help in lab.  To get in the queue, log into Autograder with your @ucsd.edu email and submit your question as a ticket:
@@ -247,6 +247,10 @@ indeed lead you in helpful directions.
 
 On each programming assignment, if you get less than 70% of the points, we
 will contact you to schedule a _code mentoring_ session with a staff member.
+Partners on pair programming assignments will be contacted individually.
+
+In a code mentoring session, you'll sit down with your 
+
 
 <a name="pa:pas-collab"></a>
 <h3>Collaboration and Sources</h3>
