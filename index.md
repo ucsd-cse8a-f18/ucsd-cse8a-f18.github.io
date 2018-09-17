@@ -13,7 +13,7 @@ questions you care about.
 Basics: <a href="#lec">Lecture</a>, <a href="#disc">Discussion</a>, <a href="#labs">Labs</a>, <a href="#pas">Programming Assignments</a>, and <a href="#exams">Exams</a>. Check the <a href="#schedule">Schedule</a> for class topics, links to resources, and assignment due dates.  The <a href="#staff">course instructional team</a> is here to help you learn: 
 <a href="#help">ask for help and advice</a>!
 
-Policies: <a href="#materials">Materials</a>, <a href="#si">Supplemental Instruction</a>, <a href="#grading">Grading</a>,
+Policies: <a href="#">Materials</a>, <a href="#si">Supplemental Instruction</a>, <a href="#grading">Grading</a>,
 <a href="#ai#">Academic Integrity</a>
 <a href="#detailed-outcomes">Detailed Learning Outcomes</a>, <a href="ucsdsupport">Additional resources</a>
 
@@ -240,7 +240,7 @@ CSE 8A is a large course: there are over 35 people on the instructional team and
 
 At UC San Diego, we agree to hold ourselves to the <a href="https://ucsd.edu/about/principles.html" target="_blank">Principles of Community</a> of respect, inclusion, and integrity.  This translates to all our interactions in this course, and beyond.
 
-A huge amount of modern computer science happens via collaboration, in text, online. Sites like Stack Overflow and Github hold incredible wealths of information generated through asking and answering questions. Computer science research, large system development, and cutting-edge design happens through professional, high-volume mailing lists. Practicing using Piazza professionally prepares you for these situations, so do it mindfully.
+These practices go beyond the university setting. A huge amount of modern computer science happens via collaboration, in text, online. Sites like Stack Overflow and Github hold incredible wealths of information generated through asking and answering questions. Computer science research, large system development, and cutting-edge design happens through professional, high-volume mailing lists. Practicing using Piazza professionally prepares you for these situations, so do it mindfully.
 
 
 Before you post a question or answer, consider:
