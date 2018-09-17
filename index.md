@@ -159,12 +159,12 @@ during your work on a programming assignment, ask for help:
 
 * <a href="#staff">Instructor and TA</a> office hours
 
-* Private questions to instructors on the <a href="#help">class discussion board</a> on Piazza
+* <a href="#help">Private questions to instructors</a> on the class discussion board on <a href="https://piazza.com/" target="_blank">Piazza</a>.
 
 
 Remember to always read the programming assignment description carefully.  Some programming assignments will
-be **pair-programming** assignments, where you are expected to develop the algorithm and code in close collaboration 
-with a partner; others will be **individual** assignments, where you will gain confidence with your own mastery
+be <a href="#p:pas">**pair-programming**</a> assignments, where you are expected to develop the algorithm and code in close collaboration 
+with a partner; others will be <a href="#p:pas">**individual**</a> assignments, where you will gain confidence with your own mastery
 of the material.
 
 PA0 counts towards 2% of your overall course grade, the rest of the assignments (PA1 through PA8) each count towards 5% 
