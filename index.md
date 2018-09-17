@@ -249,7 +249,10 @@ On each programming assignment, if you get less than 70% of the points, we
 will contact you to schedule a _code mentoring_ session with a staff member.
 Partners on pair programming assignments will be contacted individually.
 
-In a code mentoring session, you'll sit down with your 
+In a code mentoring session, you'll sit down with the assigned staff member
+for 30 minute meeting. In the meeting you'll review where your assignment
+lost credit, and work through several of the necessary fixes. If you attend
+the session and do the work, your score will be increased to 70%.
 
 
 <a name="pa:pas-collab"></a>
@@ -410,16 +413,16 @@ not adjust the scale to make it harder to get a better grade.
 In addition, you must pass the final exam in order to pass the course.
 
 <b>Late and Makeup Work</b> In general, work cannot be handed in late for
-credit. We will drop the lowest quiz and lab score to account for personal
-events and constraints that make you miss those deadlines.
+credit. We will drop the lowest weekly engagement and lab score to account
+for personal events and constraints that make you miss those deadlines.
 
 Programming work cannot be handed in late, with one exception. The last
 programming assignment will synthesize many of the topics seen throughout the
 course. As such, it will demonstrate your understanding of many other parts
 of the course, and to reflect this, the score on the final programming
 assignment can <em>replace</em> an earlier PA score. In addition, you can
-hand in the final programming assignment any time during finals week (which
-will be after its deadline in week 10) for a 20% deduction.
+hand in the final programming assignment by Monday, 11:59pm during finals
+week (which will be after its deadline in week 10) for a 20% deduction.
 
 <b>Regrades</b> Mistakes sometimes occur in grading. Once grades are posted,
 we will allow a short period for you to request a fix to your grade
