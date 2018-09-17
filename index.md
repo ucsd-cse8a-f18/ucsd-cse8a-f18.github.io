@@ -75,16 +75,16 @@ There are two kinds of discussion section: in Supplemental Instruction you will 
   <td>B02 </td><td> M 8pm </td><td> PCYNH122 </td><td> TBA </td><td> Supplemental Instruction</td>
 </tr>
 <tr>
-  <td>C01 </td><td> W 6pm </td><td> CENTR214 </td><td> TBA </td><td> TA review</td>
+  <td>C01 </td><td> W 6pm </td><td> CENTR214 </td><td> Alex </td><td> TA review</td>
 </tr>
 <tr>
-  <td>C02 </td><td> W 7pm </td><td> CENTR214 </td><td> TBA </td><td> TA review</td>
+  <td>C02 </td><td> W 7pm </td><td> CENTR214 </td><td> Alex </td><td> TA review</td>
 </tr>
 <tr>
-  <td>D01 </td><td> W 6:30pm </td><td> CENTR212 </td><td> TBA </td><td> TA review</td>
+  <td>D01 </td><td> W 6:30pm </td><td> CENTR212 </td><td> Shreeman </td><td> TA review</td>
 </tr>
 <tr>
-  <td>D02 </td><td> W 7:30pm </td><td> CENTR212 </td><td> TBA </td><td> TA review</td>
+  <td>D02 </td><td> W 7:30pm </td><td> CENTR212 </td><td> Shreeman </td><td> TA review</td>
 </tr>
 </table>
 
