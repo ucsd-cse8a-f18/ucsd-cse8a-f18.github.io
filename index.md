@@ -317,7 +317,7 @@ necessary; if your schedule is highly constrained, explore possible meeting
 times with your prospective partner before you commit to the partnership.
 
 <a id="pa:best-practice"></a>
-<b>Best Practices</a> There are some best practices for pair programming:
+<b>Best Practices</b> There are some best practices for pair programming:
 
 - You must always be physically located with your partner when developing code.
 - You may not do any coding, including documentation, without your partner
