@@ -171,6 +171,7 @@ and Week 7 (**Wednesday 11/14/2018	8pm-9:50pm**) of the Fall quarter.  The Final
 policy on missed exams.
 
 
+
 ## Staff
 <a id="staff"></a>
 
@@ -251,19 +252,156 @@ important in programming. To that end, we offer code mentoring sessions to
 students whose programming assignments get low scores.
 
 On each programming assignment, if you get less than 70% of the points, we
-will contact you to schedule a _code mentoring_ session with a staff member.
-Partners on pair programming assignments will be contacted individually.
+will contact you to schedule a one-on-one _code mentoring_ session with a
+staff member. Partners on pair programming assignments will be contacted
+individually.
 
 In a code mentoring session, you'll sit down with the assigned staff member
-for 30 minute meeting. In the meeting you'll review where your assignment
+for 30 minute meeting. In the meeting, you'll review where your assignment
 lost credit, and work through several of the necessary fixes. If you attend
-the session and do the work, your score will be increased to 70%.
+the session and do the work, your score will be increased to 70%. These are
+positive, supportive meetings whose goal is to help students who might have a
+few misconceptions or have made a few mistakes to not fall behind in the
+course.
 
 
 <a name="pa:pas-collab"></a>
 <h3>Collaboration and Sources</h3>
 
-FILL IN
+Programming assignments will be clearly labelled as **individual** or
+**pair** assignments. These each come with responsibilities for how you
+complete the work.
+
+<a id="p:individual-ai"></a>
+For **individual** assignments, you should complete all the work on your own,
+with help only from the course staff and course resources. You can ask
+private questions on Piazza, look up reference material (e.g. the Java
+documentation, a Google search), and refer to previous assignments as much as
+you like. However, you shouldn't talk about the assignment's content with
+others, look at anyone else's code for the assignment, look at anyone else's
+screen while they're working on the assignment, or copy ideas from code you
+find on the internet. The academic integrity agreement you will sign along
+with your first assignment will spell out these rules in detail.
+
+When working on **pair** PAs, you must use the “Pair Programming” approach.
+In pair programming, two programmers share one computer. One student is the
+“driver,” who controls the keyboard and mouse. The other is the “navigator,”
+who observes, asks questions, suggests solutions, and thinks about slightly
+longer-term strategies. The two programmers switch roles frequently (you
+decide, but anywhere from 20 minutes to an hour is reasonable). Working in
+pairs should make you much better at programming than working alone would.
+The resulting work of pair programming nearly always outshines that of the
+solitary programmer, with pairs producing better code in less time.
+
+“[Pair programming] makes learning programming faster and more fun. I have
+had previous experience working both alone and with partners. I definitely
+agree that working with partners is more profitable.” – CS student
+
+To "learn the do’s and don'ts" of pair programming and to see pairs in
+action, view this entertaining video about pair programming from North
+Carolina State University: [An Introduction to Pair Programming Version
+2](https://www.youtube.com/watch?v=rG_U12uqRhE). However, the most important
+rule of pair programming is that you must work together, co-located, on the
+same part of the assignment at the same time. Splitting up the work on a PA
+is considered cheating.
+
+You will choose your own partner. You may choose any partner from your lab
+section. E.g. if you are in the 9am Tuesday lab section in B230, you must
+work with another student from her section. These pairings will be organized
+in lab in the first week.
+
+You will need to arrange times to meet outside of class. We expect you will
+need around 5 hours on each pair PA to work with your partner. We expect
+everyone to be flexible and professional in arranging those times as
+necessary; if your schedule is highly constrained, explore possible meeting
+times with your prospective partner before you commit to the partnership.
+
+<a id="pa:best-practice"></a>
+<b>Best Practices</a> There are some best practices for pair programming:
+
+- You must always be physically located with your partner when developing code.
+- You may not do any coding, including documentation, without your partner
+present. You may not use or even look at any code you have previously
+developed without your partner. This means, if you choose to split with a
+partner, you must both start over from scratch with your new partner.
+Completely throw your old code away.
+- You and your partner must both be active
+contributors to the code. This mean, you must both be engaged in the
+development (talking, typing, suggesting, etc) and you must switch roles
+regularly.
+-  You may not split the code and develop it separately, even if you
+are sitting right next to each other. You must collaboratively develop a
+single solution.
+
+
+
+<b>Choosing a partner</b> You should try to pick a partner whose
+experience and skill level with programming is similar to your own. This may
+not always be possible and it is sometimes hard to compare skill levels, but
+students tell us (and other data support) that pairs are most productive when
+the partners start at about the same level.
+
+Still, people often pair up with another whose skills are different. This is
+somewhat unavoidable, as no two people have an identical skill set. The
+differences may be great or small, but this is exactly like most real-world
+working situations. Part of accomplishing a task is to get the most out of
+each member and make each member stronger and more productive on subsequent
+tasks.
+
+Students bring different strengths to the process, regardless of how much
+experience they have had with programming. Both experienced and inexperienced
+students will need to draw on their reasoning and problem solving skills. A
+more experienced partner may sometimes feel frustrated or slowed down by a
+less experienced partner, but the experienced partner still benefits from the
+teamwork in many ways. The less experienced partner’s requests for
+clarification often uncover flaws in an approach or solution; the exercise of
+providing a clear explanation solidifies and deepens the explainer’s own
+understanding and the teamwork and communication skills they gain have great
+value in both the academic realm and the job market.
+
+“My partner had never coded anything before so I was able to teach him a
+little bit about how it worked. The teaching bit helped me a lot with
+understanding the labs and passing the exams.” – CS student
+
+The less experienced partner may feel that questions hold the other partner
+back or that there is no benefit to participating actively, but pair
+programming studies show that paired work is consistently better than work
+the stronger partner does alone. It is each partner’s job to understand the
+whole task; that means asking questions when necessary and answering them
+when possible.
+
+It may be instructive to read a selection of students’ partner evaluation
+comments from similar courses that have used pair programming; they give a
+picture of what good partnerships are like (and a few disasters, too). Read
+[Pair Programming
+Evaluations](http://www.ics.uci.edu/~kay/courses/i41/hw/evalcomments.html)
+from the University of California, Irvine Bren School of Information and
+Computer Sciences.
+
+
+<b>Dealing with Differences</b> If you believe your partner is not
+participating appropriately in pair programming (e.g., she or he does not
+keep in touch, does not come prepared to work on the assignment, or does not
+seem to be engaged in the process) please first address your concerns to your
+partner, and try to agree on what should be done to make the pair programming
+experience work well for both of you. If that approach is not successful,
+explain the issues to your teaching assistant or the instructor, who will
+work with you and your partner to improve the situation.
+
+If your partner drops the course or otherwise stops participating, you should
+MUTUALLY AGREE TO SPLIT FOR THE REST OF THE ASSIGNMENT and you must EACH FIND
+A NEW PARTNER, STARTING OVER FROM SCRATCH, as described above. You should
+never simply abandon your partner without an agreement from your partner that
+this is the best course of action. If you are having trouble, please see the
+instructor ASAP.
+
+<b>How Pair Programming Affects Your Grade</b>
+You and your partner will receive the same score on your code.
+
+<b>When in Doubt, Seek Clarification</b>
+Pair programming is shown to help, not hinder, your successful completion of the introductory course. It is important that you understand the processes and expectations up front so you can gain the most benefit. If you are unsure of any of the aspects of pair programming and how it is implemented in the course, see your instructor right away.
+
+
 
 <a id="policies"></a>
 ## Policies
@@ -280,7 +418,7 @@ These practices go beyond the university setting. A huge amount of modern comput
 Before you post a question or answer, consider:
 
 - Does it contribute to a positive, constructive, and respectful forum for discussion and learning?
-- Does it contain contain source code or other information that shouldn't be shared class-wide?
+- <a id="p:piazza-ai"></a>Does it contain contain source code from your solution or other information that shouldn't be shared class-wide?
 - Is it a question that's been asked before, that you could find via searching?
 
 If you make a post that violates these guidelines, we may make it private and remind you of these guidelines. Overall, our goal is to make the public content on Piazza constructive and relevant for everyone.
@@ -307,16 +445,17 @@ remember to bring it!
 respond to problems in lecture because there’s quite a bit of evidence that
 sitting and listening passively [probably isn’t the best way to
 teach or learn
-science](https://www.nature.com/news/why-we-are-teaching-science-wrong-and-how-to-make-it-right-1.17963).
+science](https://www.nature.com/news/why-we-are-teaching-science-wrong-and-how-to-make-it-right-1.17963). <a id="p:clicker-ai"></a>
  _Do not attempt to falsify iClicker or discussion participation or review quiz submissions; this would be considered a violation of academic integrity._
 
 * __Weekly (P)review quiz__ Online quizzes review the week's material and preview some upcoming examples each week. You can 
 submit your answers to each quiz as many times as you like. The latest submission before 11pm on Sunday will count towards 
 your engagement score. Each weekly review quiz will be worth 6 points.  Review quizzes will stay available even after the 
 deadline; in the past, students have found working through them to be helpful when studying for exams.
+<a id="p:quiz-ai"></a>
 _The review quiz must be completed independently and individually. You may refer to your class notes and resources linked from 
 this website, 
-but not other references. You may not share information about the review quiz with others, take the review quiz in someone 
+but not other references. <You may not share information about the review quiz with others, take the review quiz in someone 
 else's name, or ask anyone for prior knowledge about the review quiz._
 
 
@@ -335,6 +474,7 @@ the quarter. They will primarily contain content from the weeks leading up to
 them. Since the programming content is cumulative, the second exam will
 necessarily contain content from the first exam, as well.
 
+<a id="p:exam-ai">
 Seats will be assigned for all exam sessions and announced beforehand, and you
 must bring your school ID to the exam. All work on exams is to be done on your
 own, and you are not allowed to use any electronics or study aids during the
@@ -443,9 +583,18 @@ after Tuesday of Week 1, you will have an automatic extension on PA0 and will ha
 on the same day you hand in PA1.
 
 <a id="p:ai"></a>
-<h3> Academic Integrity</h3>
+<h3>Academic Integrity</h3>
 
-FILL IN
+Acting with academic integrity means being honest, respectful, responsible,
+fair, trustworthy and courageous in your work. There are aspects of integrity
+throughout this syllabus that you must be aware of and follow.
+
+- <a href="#pa:best-practices">Best Practices for Pair Programming</a>
+- <a id="p:individual-ai">Individual Assignments</a>
+- <a href="#p:exam-ai">Exams</a>
+- <a href="#p:clicker-ai">Clickers</a>
+- <a href="#p:quiz-ai">Quizzes</a>
+- <a href="#p:piazza-ai">Piazza</a>
 
 
 <a id="p:detailed-outcomes"></a>
