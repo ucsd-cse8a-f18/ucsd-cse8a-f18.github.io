@@ -436,6 +436,12 @@ mistake was made. If you don't make a request in the given period, the grade
 you were initially given is final. All regrades should be made through
 Gradescope's interface.
 
+<b>Switching into CSE8A</b> If you're considering joining CSE8A after the quarter
+begins, we want to make sure you are on track to doing well.  To that end, noone will
+be able to add CSE8A after the end of Friday of Week 1.  If you enrol in the class
+after Tuesday of Week 1, you will have an automatic extension on PA0 and will hand it in
+on the same day you hand in PA1.
+
 <a id="p:ai"></a>
 <h3> Academic Integrity</h3>
 
