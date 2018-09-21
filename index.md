@@ -230,7 +230,7 @@ of your overall course grade.
 
 <h4>Working and getting help in the lab</h4>
 
-You have computer accounts for the labs in the CSE building.  Even if you choose to work on your programming assignments on 
+You have <a href="https://sdacs.ucsd.edu/~icc/index.php" target="_blank">computer accounts</a> for the labs in the CSE building.  Even if you choose to work on your programming assignments on 
 your own computer, you can work in these labs. The type of programming assignment you are working on will determine whether you can <a href="#pa:pa-collab">collaborate with other students</a> in the lab.  However, during open lab hours (<a href="#staff">schedule</a>), tutors, TAs, and the 
 instructors will be available to help. We will work with you to get you un-stuck when you're not sure what to do next on an 
 assignment. We will be using the <a href="autograder.ucsd.edu" target="_blank">Autograder</a> system to manage to queue of 
