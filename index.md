@@ -93,10 +93,11 @@ There are two kinds of discussion section: in Supplemental Instruction you will 
 <h3>Lab Sessions</h3> 
 
 You must attend the lab session in which you are enrolled.  You will work in groups in lab; 
-the groups will be assigned by the Lab TA.  Group
+you are starting your journey into Computer Science and we want
+to help you meet your classmates who will be with you along the way.
+The groups will be assigned by the Lab TA and group
 assignments may 
-change from week to week: you are starting your journey into Computer Science and we want
-to help you meet your classmates who will be with you along the way.  All labs must be finished
+change from week to week. All labs must be finished
 in the allotted class time.  As a group, you will create a lab report each week and your TA will review
 it and give you feedback.
 
