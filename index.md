@@ -623,6 +623,13 @@ throughout this syllabus that you must be aware of and follow.
 - <a href="#p:quiz-ai">Quizzes</a>
 - <a href="#p:piazza-ai">Piazza</a>
 
+<h3> Outside Tutoring</h3>
+
+Individuals are not permitted to approach students to offer services of any kind 
+in exchange for pay,  including tutoring services.  This is considered solicitation for 
+business and is strictly prohibited by University policy.
+
+
 
 <a id="p:detailed-outcomes"></a>
 ### Learning Outcomes
@@ -720,7 +727,7 @@ You may call the Human Research Protections Program Office at 858-246-HRPP (858-
 
 <a id = "p:ucsdsupport"></a>
 
-## Where to go for additional support
+## Student Resources and Support
 
 ### IDEA Engineering Student Center
 The IDEA Engineering Student Center, located just off the lobby of Jacobs Hall, is a hub for student engagement, academic enrichment, personal/professional development, leadership, community involvement, and a respectful learning environment for all.  The Center offers a variety of programs, listed in the IDEA Center Facebook page at http://www.facebook.com/ucsdidea/ (you are welcome to Like this page!) and the Center web site at http://idea.ucsd.edu/.  The IDEA Center programs support both undergraduate students and graduate students.
