@@ -617,7 +617,7 @@ fair, trustworthy and courageous in your work. There are aspects of integrity
 throughout this syllabus that you must be aware of and follow.
 
 - <a href="#pa:best-practice">Best Practices for Pair Programming</a>
-- <a id="p:pa:pa-collab">Allowed Collaboration and Sources for Programming Assignments</a>
+- <a href="#p:pa-collab">Allowed References for Programming Assignments</a>
 - <a href="#p:exam-ai">Exams</a>
 - <a href="#p:clicker-ai">Clickers</a>
 - <a href="#p:quiz-ai">Quizzes</a>
