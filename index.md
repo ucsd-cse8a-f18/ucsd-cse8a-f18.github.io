@@ -13,6 +13,13 @@ questions you care about.
 Basics: <a href="#b:lec">Lecture</a>, <a href="#b:disc">Discussion</a>, <a href="#b:labs">Labs</a>, <a href="#pa">Programming Assignments</a>, and <a href="#b:exams">Exams</a>. Check the <a href="#schedule">Schedule</a> for class topics, links to resources, and assignment due dates.  The <a href="#staff">course instructional team</a> is here to help you learn: 
 <a href="#help">ask for help and advice</a>!
 
+On an average week in CSE8A, you can expect to spend 3 hours in lecture, 1 hour in discussion, 
+1 hour in lab section, 30 minutes to an hour preparing for class and taking the weekly quiz, 
+1 hour reviewing what you've learned and asking questions, and 4 hours working on your
+programming assignments (either at home or in the open lab hours).
+
+
+
 Policies: <a href="#p:materials">Materials</a>, <a href="#p:grading">Grading</a>,
 <a href="#p:ai#">Academic Integrity</a>,
 <a href="#p:research-consent">Educational research</a>,
