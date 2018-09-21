@@ -325,7 +325,7 @@ is considered cheating.
 
 You will choose your own partner. You may choose any partner from your lab
 section. E.g. if you are in the 9am Tuesday lab section in B230, you must
-work with another student from her section. These pairings will be organized
+work with another student from that section. The pairings for PA1 will be organized
 in lab in the first week.
 
 You will need to arrange times to meet outside of class. We expect you will
@@ -333,6 +333,8 @@ need around 5 hours on each pair PA to work with your partner. We expect
 everyone to be flexible and professional in arranging those times as
 necessary; if your schedule is highly constrained, explore possible meeting
 times with your prospective partner before you commit to the partnership.
+You may choose a new partner for each pair PA, or you may decide to stay with 
+your current partner.
 
 <a id="pa:best-practice"></a>
 <b>Best Practices</b> There are some best practices for pair programming:
@@ -417,7 +419,9 @@ instructor ASAP.
 You and your partner will receive the same score on your code.
 
 <b>When in Doubt, Seek Clarification</b>
-Pair programming is shown to help, not hinder, your successful completion of the introductory course. It is important that you understand the processes and expectations up front so you can gain the most benefit. If you are unsure of any of the aspects of pair programming and how it is implemented in the course, see your instructor right away.
+Pair programming is shown to help, not hinder, your successful completion of the introductory course. It is important that you 
+understand the processes and expectations up front so you can gain the most benefit. If you are unsure of any of the aspects 
+of pair programming and how it is implemented in the course, see your instructor right away.
 
 
 
