@@ -152,15 +152,20 @@ it and give you feedback.
 There is no textbook for the course. The schedule above will link to all the
 reference material you need for the course.
 
-
-
-
-FILL IN: Piazza, Gradescope, Github repo, Autograder
+Online discussion and Q&A for the class will be available on Piazza: sign up to 
+<a href="http://piazza.com/ucsd/fall2018/cse8a" target="_blank">join the class here</a>
+and <a href="http://piazza.com/ucsd/fall2018/cse8a/home/" target="_blank">view the discussion forum here</a>.
+Important announcements from the course team will be pinned at the top of your feed.
+When you set up your account, you can select the frequency for email notifications of messages and discussions 
+on Piazza.  Piazza is one way you can <a href="pa:piazzahelp">ask for and get help</a> in this course.
 
 [The documentation for the Java
 language](https://docs.oracle.com/javase/10/), while not required reading,
 will be linked to from some assignments and is always a useful reference
 while programming.
+
+You'll be submitting your classwork and seeing grading feedback through a tool called 
+<a href="http://gradescope.com/" target="_blank">Gradescope</a>.
 
 
 <a id="b:exams"></a>
@@ -227,6 +232,7 @@ requests for help in lab.  To get in the queue, log into Autograder with your @u
 
 Expect to have about 5 minutes with a tutor (or TA or instructor): you probably won't have the solution at the end of the conversation, but you should feel un-stuck and ready to try new approaches.
 
+<a id="pa:piazzahelp"></a>
 <h4>Asking & Answering questions on Piazza</h4>
 
 Piazza is an online discussion board where we can make announcements and students can ask questions. Both we (the course staff) and your classmates can answer your questions. There are two kinds of questions you should ask on Piazza:
