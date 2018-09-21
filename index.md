@@ -726,7 +726,19 @@ You may call the Human Research Protections Program Office at 858-246-HRPP (858-
 The IDEA Engineering Student Center, located just off the lobby of Jacobs Hall, is a hub for student engagement, academic enrichment, personal/professional development, leadership, community involvement, and a respectful learning environment for all.  The Center offers a variety of programs, listed in the IDEA Center Facebook page at http://www.facebook.com/ucsdidea/ (you are welcome to Like this page!) and the Center web site at http://idea.ucsd.edu/.  The IDEA Center programs support both undergraduate students and graduate students.
 
 
-### Prevention and Reporting of Harrassment & Discrimination
+### Diversity and inclusion
+
+We are committed to fostering a learning environment for this course that supports a diversity of thoughts, 
+perspectives and experiences, and respects your identities (including race, ethnicity, heritage, gender, sex, class, 
+sexuality, religion, ability, age, educational background, etc.).  Our goal is to create a diverse 
+and inclusive learning environment where all students feel comfortable and can thrive. 
+
+Our instructional staff will make a concerted effort to be welcoming and inclusive to the wide 
+diversity of students in this course.  If there is a way we can make you feel more included please 
+let one of the course staff know, either in person, via email/discussion board, or even in a note under 
+the door.  Our learning about diverse perspectives and identities is an ongoing process, and we 
+welcome your perspectives and input. 
+
 
 The Office for the Prevention of Harassment & Discrimination (OPHD) provides assistance to students, faculty, and staff 
 regarding reports of bias, harassment, and discrimination. OPHD is the UC San Diego Title IX office. Title IX of the Education 
@@ -745,3 +757,17 @@ report incidents of sexual violence and sexual harassment to OPHD. This does not
 be filed.
 
 If you find yourself in an uncomfortable situation, ask for help. 
+
+
+### Students with Disabilities
+
+We aim to create an environment in which all students can succeed in this course.  
+If you have a disability, please contact the 
+<a href="https://disabilities.ucsd.edu/about/index.html" target="_blank">
+Office for Students with Disability (OSD)</a>, 
+which is located in University Center 202 behind Center Hall, to discuss appropriate accommodations 
+right away.  We will work to provide you with the accommodations you need, 
+but you must first provide a current Authorization for Accommodation (AFA) letter issued by the OSD.  
+You are required to present your AFA letters to Faculty (please make arrangements to contact me privately) 
+and to the OSD Liaison in the CSE department in advance so that accommodations may be arranged.
+
