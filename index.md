@@ -191,8 +191,8 @@ policy on missed exams.
 <a id="staff"></a>
 
 <p>
-<a href="http://cseweb.ucsd.edu/~minnes/index.html">Prof Mia Minnes</a> (Instructor)
-<a href="https://jpolitz.github.io">Prof Joe Gibbs Politz</a> (Instructor)
+<a href="http://cseweb.ucsd.edu/~minnes/index.html" target="_blank">Prof Mia Minnes</a> (Instructor)
+<a href="https://jpolitz.github.io" target="_blank">Prof Joe Gibbs Politz</a> (Instructor)
 </p>
 
 <iframe style="border: none; border-top: 1px solid gray" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBt6J84DZl8HwRnBlJfJ-cAW3Vi7VjI5A3X6enkdNRcDclCotOutJim--MJZj_zr9wpyLmGqXy_51t/pubhtml?gid=97371257&amp;single=true&amp;chrome=false;widget=false;"></iframe>
@@ -477,7 +477,7 @@ deadline; in the past, students have found working through them to be helpful wh
 <a id="p:quiz-ai"></a>
 _The review quiz must be completed independently and individually. You may refer to your class notes and resources linked from 
 this website, 
-but not other references. You may not share information about the review quiz with others, take the review quiz in someone 
+but not to other references. You may not share information about the review quiz with others, take the review quiz in someone 
 else's name, or ask anyone for prior knowledge about the review quiz._
 
 
@@ -501,6 +501,11 @@ Seats will be assigned for all exam sessions and announced beforehand, and you
 must bring your school ID to the exam. All work on exams is to be done on your
 own, and you are not allowed to use any electronics or study aids during the
 exam (aside from those needed for University-approved academic accommodations).
+You may not speak to any other student in the exam room while the exam is in
+progress (including after you hand in your own exam).  You may not share any 
+information about the exam with any student who has not yet taken it (including
+students in future quarters of CSE8A).
+
 
 The first two exams will each be worth 8% of your final grade. The final exam
 will be worth 24% of your final grade. The final exam will have a specific
@@ -611,8 +616,8 @@ Acting with academic integrity means being honest, respectful, responsible,
 fair, trustworthy and courageous in your work. There are aspects of integrity
 throughout this syllabus that you must be aware of and follow.
 
-- <a href="#pa:best-practices">Best Practices for Pair Programming</a>
-- <a id="p:individual-ai">Individual Assignments</a>
+- <a href="#pa:best-practice">Best Practices for Pair Programming</a>
+- <a id="p:pa:pa-collab">Allowed Collaboration and Sources for Programming Assignments</a>
 - <a href="#p:exam-ai">Exams</a>
 - <a href="#p:clicker-ai">Clickers</a>
 - <a href="#p:quiz-ai">Quizzes</a>
