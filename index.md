@@ -455,7 +455,7 @@ deadline; in the past, students have found working through them to be helpful wh
 <a id="p:quiz-ai"></a>
 _The review quiz must be completed independently and individually. You may refer to your class notes and resources linked from 
 this website, 
-but not other references. <You may not share information about the review quiz with others, take the review quiz in someone 
+but not other references. You may not share information about the review quiz with others, take the review quiz in someone 
 else's name, or ask anyone for prior knowledge about the review quiz._
 
 
