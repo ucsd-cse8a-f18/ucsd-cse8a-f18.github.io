@@ -10,11 +10,11 @@ In this course, you will learn to write, trace, and test programs; explore
 the interactions between programs and data; and use computation to answer
 questions you care about.
 
-Basics: <a href="#b:lec">Lecture</a>, <a href="#b:disc">Discussion</a>, <a href="#b:labs">Labs</a>, <a href="#pa">Programming Assignments</a>, and <a href="#b:exams">Exams</a>. Check the <a href="#schedule">Schedule</a> for class topics, links to resources, and assignment due dates.  The <a href="#staff">course instructional team</a> is here to help you learn: 
+Basics: <a href="#b:lec">Lecture</a>, <a href="#b:disc">Discussion</a>, <a href="#b:labs">Labs</a>, <a href="#pa">Programming Assignments</a>, and <a href="#b:exams">Exams</a>. Check the <a href="#schedule">Schedule</a> for class topics, links to resources, and assignment due dates.  The <a href="#staff">course instructional team</a> is here to help you learn:
 <a href="#help">ask for help and advice</a>!
 
-On an average week in CSE8A, you can expect to spend 3 hours in lecture, 1 hour in discussion, 
-1 hour in lab section, 30 minutes to an hour preparing for class and taking the weekly quiz, 
+On an average week in CSE8A, you can expect to spend 3 hours in lecture, 1 hour in discussion,
+1 hour in lab section, 30 minutes to an hour preparing for class and taking the weekly quiz,
 1 hour reviewing what you've learned and asking questions, and 4 hours working on your
 programming assignments (either at home or in the open lab hours).
 
@@ -23,7 +23,7 @@ programming assignments (either at home or in the open lab hours).
 Policies: <a href="#p:materials">Materials</a>, <a href="#p:grading">Grading</a>,
 <a href="#p:ai#">Academic Integrity</a>,
 <a href="#p:research-consent">Educational research</a>,
-<a href="#p:detailed-outcomes">Detailed learning outcomes</a>, 
+<a href="#p:detailed-outcomes">Detailed learning outcomes</a>,
 <a href="#p:ucsdsupport">Additional resources</a>
 
 
@@ -36,12 +36,8 @@ Policies: <a href="#p:materials">Materials</a>, <a href="#p:grading">Grading</a>
 <a id="basics"></a>
 ## Basic Course Components
 
-<<<<<<< HEAD
-*Lecture*  Expect class to be interactive; you'll work through problems in groups, compare multiple approaches to solutions, and answer multiple-choice questions using iClickers (see <a href="#engage">Engagement</a> below). Due to space constraints, you must attend the lecture in which you're enrolled.
-=======
 <a id="b:lec"></a>
-<h3>Lecture</h3>  Expect class to be interactive; you'll work through problems in groups, compare multiple approaches to solutions, and answer multiple-choice questions using iClickers (see <a href="#p:engage">Engagement</a> below). Due to space constraints, you must attend the lecture in which you're enrolled. 
->>>>>>> db943732390b5b986d5713bba22b22ceecf1862e
+<h3>Lecture</h3>  Expect class to be interactive; you'll work through problems in groups, compare multiple approaches to solutions, and answer multiple-choice questions using iClickers (see <a href="#p:engage">Engagement</a> below). Due to space constraints, you must attend the lecture in which you're enrolled.
 
 <table class="table table-striped">
 <thead>
@@ -55,13 +51,8 @@ Policies: <a href="#p:materials">Materials</a>, <a href="#p:grading">Grading</a>
 <tr>
   <td>B00 </td><td>MWF 12pm </td><td>WLH2005 </td><td>Politz</td>
 </tr>
-<<<<<<< HEAD
 <tr>
-  <td> C00 </td><td>MWF 9am</td><td>CENTR119 </td><td>Minnes</td>
-=======
-<tr> 
   <td>C00 </td><td>MWF 9am</td><td>CENTR119 </td><td>Minnes</td>
->>>>>>> db943732390b5b986d5713bba22b22ceecf1862e
 </tr>
 <tr>
   <td>D00 </td><td>MWF 2pm </td><td>WLH2005 </td><td>Politz</td>
@@ -69,7 +60,7 @@ Policies: <a href="#p:materials">Materials</a>, <a href="#p:grading">Grading</a>
 </table>
 
 <a id="b:disc"></a>
-<h3>Discussion</h3> 
+<h3>Discussion</h3>
 There are two kinds of discussion section: in Supplemental Instruction you will work in small groups, practicing course content with extra exercises and activities; TA review sessions will demo tools and answer questions about the programming assignment specifications.  You can attend any discussion section(s) you like; attending discussion section counts towards your <a href="#p:engage">Engagement</a> with the class.
 
 <table class="table table-striped">
@@ -106,13 +97,13 @@ There are two kinds of discussion section: in Supplemental Instruction you will 
 
 
 <a id="b:labs"></a>
-<h3>Lab Sessions</h3> 
+<h3>Lab Sessions</h3>
 
-You must attend the lab session in which you are enrolled.  You will work in groups in lab; 
+You must attend the lab session in which you are enrolled.  You will work in groups in lab;
 you are starting your journey into Computer Science and we want
 to help you meet your classmates who will be with you along the way.
 The groups will be assigned by the Lab TA and group
-assignments may 
+assignments may
 change from week to week. All labs must be finished
 in the allotted class time.  As a group, you will create a lab report each week and your TA will review
 it and give you feedback.
@@ -168,11 +159,11 @@ it and give you feedback.
 There is no textbook for the course. The schedule above will link to all the
 reference material you need for the course.
 
-Online discussion and Q&A for the class will be available on Piazza: sign up to 
+Online discussion and Q&A for the class will be available on Piazza: sign up to
 <a href="http://piazza.com/ucsd/fall2018/cse8a" target="_blank">join the class here</a>
 and <a href="http://piazza.com/ucsd/fall2018/cse8a/home/" target="_blank">view the discussion forum here</a>.
 Important announcements from the course team will be pinned at the top of your feed.
-When you set up your account, you can select the frequency for email notifications of messages and discussions 
+When you set up your account, you can select the frequency for email notifications of messages and discussions
 on Piazza.  Piazza is one way you can <a href="pa:piazzahelp">ask for and get help</a> in this course.
 
 [The documentation for the Java
@@ -180,17 +171,17 @@ language](https://docs.oracle.com/javase/10/), while not required reading,
 will be linked to from some assignments and is always a useful reference
 while programming.
 
-You'll be submitting your classwork and seeing grading feedback through a tool called 
+You'll be submitting your classwork and seeing grading feedback through a tool called
 <a href="http://gradescope.com/" target="_blank">Gradescope</a>.
 
 
 <a id="b:exams"></a>
-<h3>Exams</h3> 
-There will be two exams during the quarter, held in the evenings during Week 3 
+<h3>Exams</h3>
+There will be two exams during the quarter, held in the evenings during Week 3
 
 **Thursday 10/18/2018	8pm-9:50pm**
 
-and Week 7 
+and Week 7
 
 **Wednesday 11/14/2018	8pm-9:50pm**
 
@@ -198,14 +189,10 @@ of the Fall quarter.  The Final exam is on Wednesday of exam week
 
 **Wednesday 12/12/2018	7pm-9:59pm**.  
 
-There are no makeup exams.  See <a href="#p:Grading">grading section</a> below for the 
+There are no makeup exams.  See <a href="#p:Grading">grading section</a> below for the
 policy on missed exams.
 
 
-<<<<<<< HEAD
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBt6J84DZl8HwRnBlJfJ-cAW3Vi7VjI5A3X6enkdNRcDclCotOutJim--MJZj_zr9wpyLmGqXy_51t/pubhtml?gid=30684399&amp;single=true&amp;widget=false&amp;headers=false" width="100%" height="400px"></iframe>
-=======
->>>>>>> db943732390b5b986d5713bba22b22ceecf1862e
 
 ## Staff
 <a id="staff"></a>
@@ -219,11 +206,11 @@ policy on missed exams.
 
 
 <a id="pa"></a>
-<h2>Programming</h2> 
+<h2>Programming</h2>
 
 
 Learn by doing!  Most weeks, you will be working on a programming assignment for this class.
-You will feel the intense excitement of seeing your work come alive through the computer, and 
+You will feel the intense excitement of seeing your work come alive through the computer, and
 also the equally intense frustration of wading through error messages and tricky bugs.  Both of these
 are at the heart of what it means to be a computer scientist.  The programming assignments are designed
 to invite your creativity, problem solving skills, tenacity, and interests. When you find yourself stuck
@@ -237,25 +224,25 @@ during your work on a programming assignment, ask for help:
 
 
 Remember to always read the programming assignment description carefully.  Some programming assignments will
-be <a href="#pa:pa-collab">**pair-programming**</a> assignments, where you are expected to develop the algorithm and code in close collaboration 
+be <a href="#pa:pa-collab">**pair-programming**</a> assignments, where you are expected to develop the algorithm and code in close collaboration
 with a partner; others will be <a href="#pa:pa-collab">**individual**</a> assignments, where you will gain confidence with your own mastery
 of the material.
 
-PA0 counts towards 2% of your overall course grade, the rest of the assignments (PA1 through PA8) each count towards 5% 
+PA0 counts towards 2% of your overall course grade, the rest of the assignments (PA1 through PA8) each count towards 5%
 of your overall course grade.
 
 
 <a id="pa:help"></a>
-<h3>Getting help</h3> 
+<h3>Getting help</h3>
 
 <h4>Working and getting help in the lab</h4>
 
-You have <a href="https://sdacs.ucsd.edu/~icc/index.php" target="_blank">computer accounts</a> for the labs in the CSE building.  Even if you choose to work on your programming assignments on 
+You have <a href="https://sdacs.ucsd.edu/~icc/index.php" target="_blank">computer accounts</a> for the labs in the CSE building.  Even if you choose to work on your programming assignments on
 your own computer, you can work in these labs. The type of programming assignment you are working on will determine whether you can <a href="#pa:pa-collab">collaborate with other students</a> in the lab.
 
-During <a href="#staff">open lab hours</a>, tutors, TAs, and the 
-instructors will be available to help. We will work with you to get you un-stuck when you're not sure what to do next on an 
-assignment. We will be using the <a href="autograder.ucsd.edu" target="_blank">Autograder</a> system to manage to queue of 
+During <a href="#staff">open lab hours</a>, tutors, TAs, and the
+instructors will be available to help. We will work with you to get you un-stuck when you're not sure what to do next on an
+assignment. We will be using the <a href="autograder.ucsd.edu" target="_blank">Autograder</a> system to manage to queue of
 requests for help in lab.  To get in the queue, log into Autograder with your @ucsd.edu email and submit your question as a ticket:
 
 - Give a meaningful question or problem statement in your ticket.
@@ -273,11 +260,11 @@ Piazza is an online discussion board where we can make announcements and student
 
 For each assignment, you will find a Frequently Asked Questions post, where we will answer all common questions we receive in office hours and via (private) Piazza posts. If you ask a question that's already answered in that post, we'll likely just send you a link to that post. That post will be updated as new important questions and answers come in.
 
-When answering questions, be polite, be clear, and assume the best intentions of the person asking. If it turns out you make a 
-mistake or were wrong, admit it with a smile (emoji are great for this 😊), and make sure the correct information is clear. 
-Above all, keep in mind that the course is a community whose goal is to foster a positive learning environment for everyone. 
-For public discussion, note that answers from your classmates are not official! They could be downright wrong or misleading, 
-completely by accident. “My classmate said so on Piazza” is not a legitimate justification in most arguments, though they may 
+When answering questions, be polite, be clear, and assume the best intentions of the person asking. If it turns out you make a
+mistake or were wrong, admit it with a smile (emoji are great for this 😊), and make sure the correct information is clear.
+Above all, keep in mind that the course is a community whose goal is to foster a positive learning environment for everyone.
+For public discussion, note that answers from your classmates are not official! They could be downright wrong or misleading,
+completely by accident. “My classmate said so on Piazza” is not a legitimate justification in most arguments, though they may
 indeed lead you in helpful directions.
 
 
@@ -353,7 +340,7 @@ need around 5 hours on each pair PA to work with your partner. We expect
 everyone to be flexible and professional in arranging those times as
 necessary; if your schedule is highly constrained, explore possible meeting
 times with your prospective partner before you commit to the partnership.
-You may choose a new partner for each pair PA, or you may decide to stay with 
+You may choose a new partner for each pair PA, or you may decide to stay with
 your current partner.
 
 <a id="pa:best-practice"></a>
@@ -439,8 +426,8 @@ instructor ASAP.
 You and your partner will receive the same score on your code.
 
 <b>When in Doubt, Seek Clarification</b>
-Pair programming is shown to help, not hinder, your successful completion of the introductory course. It is important that you 
-understand the processes and expectations up front so you can gain the most benefit. If you are unsure of any of the aspects 
+Pair programming is shown to help, not hinder, your successful completion of the introductory course. It is important that you
+understand the processes and expectations up front so you can gain the most benefit. If you are unsure of any of the aspects
 of pair programming and how it is implemented in the course, see your instructor right away.
 
 
@@ -476,28 +463,12 @@ This score is calculated on a weekly basis (starting in Week 1).  The maximum nu
 The lowest weekly participation score will be dropped when calculating your overall engagement average.
 
 Earn engagement points by:
-<<<<<<< HEAD
 * __In class participation via iClickers__  In Weeks 1 through 10 (starting with the second lecture of the quarter), you will
-earn credit for attending and participating in lecture (2 points each) and discussion section (1 point).
+earn credit for attending and participating in lecture (2 points each) and discussion section (1 point each, up to a maximum
+of 2 points per week).
 Clicker questions will be graded for participation only and not for correctness of the response.
 Full credit for clicker points for a given day will be
 awarded for clicking in at least 80/% of the time that day. Forgetting your clicker counts as missing a class, so please
-remember to bring it! _Do not attempt to falsify iClicker or discussion participation or review quiz submissions; this would be considered a violation of academic integrity._
-
-* __Weekly (P)review quiz__ Online quizzes review the week's material and preview some upcoming examples each week. You can
-submit your answers to each quiz as many times as you like. The latest submission before 11pm on Sunday will count towards
-your engagement score. Each weekly review quiz will be worth 6 points.  Review quizzes will stay available even after the
-deadline; in the past, students have found working through them to be helpful when studying for exams.
-_The review quiz must be completed independently and individually. You may refer to your class notes and resources linked from
-this website,
-but not other references. You may not share information about the review quiz with others, take the review quiz in someone
-=======
-* __In class participation via iClickers__  In Weeks 1 through 10 (starting with the second lecture of the quarter), you will 
-earn credit for attending and participating in lecture (2 points each) and discussion section (1 point each, up to a maximum 
-of 2 points per week). 
-Clicker questions will be graded for participation only and not for correctness of the response. 
-Full credit for clicker points for a given day will be 
-awarded for clicking in at least 80/% of the time that day. Forgetting your clicker counts as missing a class, so please 
 remember to bring it!
  We have you
 respond to problems in lecture because there’s quite a bit of evidence that
@@ -506,15 +477,14 @@ teach or learn
 science](https://www.nature.com/news/why-we-are-teaching-science-wrong-and-how-to-make-it-right-1.17963). <a id="p:clicker-ai"></a>
  _Do not attempt to falsify iClicker or discussion participation or review quiz submissions; this would be considered a violation of academic integrity._
 
-* __Weekly (P)review quiz__ Online quizzes review the week's material and preview some upcoming examples each week. You can 
-submit your answers to each quiz as many times as you like. The latest submission before 11pm on Monday will count towards 
-your engagement score. Each weekly review quiz will be worth 6 points.  Review quizzes will stay available even after the 
+* __Weekly (P)review quiz__ Online quizzes review the week's material and preview some upcoming examples each week. You can
+submit your answers to each quiz as many times as you like. The latest submission before 11pm on Monday will count towards
+your engagement score. Each weekly review quiz will be worth 6 points.  Review quizzes will stay available even after the
 deadline; in the past, students have found working through them to be helpful when studying for exams.
 <a id="p:quiz-ai"></a>
-_The review quiz must be completed independently and individually. You may refer to your class notes and resources linked from 
-this website, 
-but not to other references. You may not share information about the review quiz with others, take the review quiz in someone 
->>>>>>> db943732390b5b986d5713bba22b22ceecf1862e
+_The review quiz must be completed independently and individually. You may refer to your class notes and resources linked from
+this website,
+but not to other references. You may not share information about the review quiz with others, take the review quiz in someone
 else's name, or ask anyone for prior knowledge about the review quiz._
 
 
@@ -523,38 +493,9 @@ full credit for a week's engagement.  For example: (1) attending all lectures (f
 (2) attending two lectures and two discussion sections; or (3) answering all questions on the review quiz correctly; or (4)
 attending two lectures and getting two answers correct on the review  quiz; etc.
 
-<<<<<<< HEAD
-<h3 id="pas">Programming Assignments</h3>
-
-Learn by doing!  Most weeks, you will be working on a programming assignment for this class.
-You will feel the intense excitement of seeing your work come alive through the computer, and
-also the equally intense frustration of wading through error messages and tricky bugs.  Both of these
-are at the heart of what it means to be a computer scientist.  The programming assignments are designed
-to invite your creativity, problem solving skills, tenacity, and interests. When you find yourself stuck
-during your work on a programming assignment, ask for help:
-
-* Open lab hours
-
-* Instructor and TA office hours
-
-* Private questions to instructors on the class discussion board on Piazza
-
-
-Remember to always read the programming assignment description carefully.  Some programming assignments will
-be **pair-programming** assignments, where you are expected to develop the algorithm and code in close collaboration
-with a partner; others will be **individual** assignments, where you will gain confidence with your own mastery
-of the material.
-
-PA0 counts towards 2% of your overall course grade, the rest of the assignments (PA1 through PA8) each count towards 5%
-of your overall course grade.
-
-
-<h3 id="exams">Exams</h3>
-=======
 
 <a name="p:exams"></a>
 <h3>Exams</h3>
->>>>>>> db943732390b5b986d5713bba22b22ceecf1862e
 
 There will be three total exams in the course: two during the quarter (also
 called “midterms”) and a final exam. The midterms will be in the evening during
@@ -568,7 +509,7 @@ must bring your school ID to the exam. All work on exams is to be done on your
 own, and you are not allowed to use any electronics or study aids during the
 exam (aside from those needed for University-approved academic accommodations).
 You may not speak to any other student in the exam room while the exam is in
-progress (including after you hand in your own exam).  You may not share any 
+progress (including after you hand in your own exam).  You may not share any
 information about the exam with any student who has not yet taken it (including
 students in future quarters of CSE8A).
 
@@ -599,22 +540,6 @@ There are no make-up midterms, and the final exam policy is governed by the
 [university's
 policies](https://senate.ucsd.edu/operating-procedures/educational-policies/courses/epc-policies-on-courses/policy-exams-including-midterms-final-exams-and-religious-accommodations-for-exams/).
 
-<<<<<<< HEAD
-<h3 id="lab">Labs</h3>
-
-Along with the course, you are enrolled in a lab section, which meets each
-Tuesday in one of the student labs in the (newly renovated) basement of the CSE building.
-You will work in a group in lab.  We will assign the groups and group assignments may
-change from week to week: you are starting your journey into Computer Science and we want
-to help you meet your classmates who will be with you along the way.  All labs must be finished
-in the allotted class time.  As a group, you will create a lab report each week and your TA will review
-it and give you feedback.
-
-You must attend the lab section for which you are enrolled.
-
-<h3 id="si">Supplemental Instruction</h3>
-=======
->>>>>>> db943732390b5b986d5713bba22b22ceecf1862e
 
 <a id="p:grading"></a>
 <h3>Grading</h3>
@@ -630,7 +555,7 @@ Your grade will be computed from:
 
 Yes, this adds up to 102% .
 
-After your weighted average is calculated, letter grades will be assigned 
+After your weighted average is calculated, letter grades will be assigned
 based on the following grading scale:
 
 <table class="table table-striped">
@@ -662,7 +587,7 @@ based on the following grading scale:
 </tbody>
 </table>
 
-We may adjust the above scale to be more lenient (depending on the overall class performance), but we guarantee that we will 
+We may adjust the above scale to be more lenient (depending on the overall class performance), but we guarantee that we will
 not adjust the scale to make it harder to get a better grade.
 In addition, you must pass the final exam in order to pass the course.
 
@@ -707,8 +632,8 @@ throughout this syllabus that you must be aware of and follow.
 
 <h3> Outside Tutoring</h3>
 
-Individuals are not permitted to approach students to offer services of any kind 
-in exchange for pay,  including tutoring services.  This is considered solicitation for 
+Individuals are not permitted to approach students to offer services of any kind
+in exchange for pay,  including tutoring services.  This is considered solicitation for
 business and is strictly prohibited by University policy.
 
 
@@ -739,8 +664,6 @@ business and is strictly prohibited by University policy.
     - Iteration
     - Conditional evaluation
     - External interfaces
-<<<<<<< HEAD
-=======
 
 
 
@@ -819,47 +742,45 @@ The IDEA Engineering Student Center, located just off the lobby of Jacobs Hall, 
 
 ### Diversity and inclusion
 
-We are committed to fostering a learning environment for this course that supports a diversity of thoughts, 
-perspectives and experiences, and respects your identities (including race, ethnicity, heritage, gender, sex, class, 
-sexuality, religion, ability, age, educational background, etc.).  Our goal is to create a diverse 
-and inclusive learning environment where all students feel comfortable and can thrive. 
+We are committed to fostering a learning environment for this course that supports a diversity of thoughts,
+perspectives and experiences, and respects your identities (including race, ethnicity, heritage, gender, sex, class,
+sexuality, religion, ability, age, educational background, etc.).  Our goal is to create a diverse
+and inclusive learning environment where all students feel comfortable and can thrive.
 
-Our instructional staff will make a concerted effort to be welcoming and inclusive to the wide 
-diversity of students in this course.  If there is a way we can make you feel more included please 
-let one of the course staff know, either in person, via email/discussion board, or even in a note under 
-the door.  Our learning about diverse perspectives and identities is an ongoing process, and we 
-welcome your perspectives and input. 
+Our instructional staff will make a concerted effort to be welcoming and inclusive to the wide
+diversity of students in this course.  If there is a way we can make you feel more included please
+let one of the course staff know, either in person, via email/discussion board, or even in a note under
+the door.  Our learning about diverse perspectives and identities is an ongoing process, and we
+welcome your perspectives and input.
 
 
-The Office for the Prevention of Harassment & Discrimination (OPHD) provides assistance to students, faculty, and staff 
-regarding reports of bias, harassment, and discrimination. OPHD is the UC San Diego Title IX office. Title IX of the Education 
-Amendments of 1972 is the federal law that prohibits sex discrimination in educational institutions that are recipients of 
+The Office for the Prevention of Harassment & Discrimination (OPHD) provides assistance to students, faculty, and staff
+regarding reports of bias, harassment, and discrimination. OPHD is the UC San Diego Title IX office. Title IX of the Education
+Amendments of 1972 is the federal law that prohibits sex discrimination in educational institutions that are recipients of
 federal funds. All students have the right to an educational environment that is free from harassment and discrimination.
 
-Students have options for reporting incidents of sexual violence and sexual harassment. Sexual violence includes sexual 
-assault, dating violence, domestic violence, and stalking. Information about reporting options may be obtained at OPHD at 
-(858) 534-8298, ophd@ucsd.edu or http://ophd.ucsd.edu. Students may receive confidential assistance at CARE at the Sexual 
-Assault Resource Center at (858) 534-5793, sarc@ucsd.edu or http://care.ucsd.edu or Counseling and Psychological Services 
+Students have options for reporting incidents of sexual violence and sexual harassment. Sexual violence includes sexual
+assault, dating violence, domestic violence, and stalking. Information about reporting options may be obtained at OPHD at
+(858) 534-8298, ophd@ucsd.edu or http://ophd.ucsd.edu. Students may receive confidential assistance at CARE at the Sexual
+Assault Resource Center at (858) 534-5793, sarc@ucsd.edu or http://care.ucsd.edu or Counseling and Psychological Services
 (CAPS) at (858) 534-3755 or http://caps.ucsd.edu.
 
-Students may feel more comfortable discussing their particular concern with a trusted employee. This may be a student affairs 
-staff member, a department Chair, a faculty member or other University official. These individuals have an obligation to 
-report incidents of sexual violence and sexual harassment to OPHD. This does not necessarily mean that a formal complaint will 
+Students may feel more comfortable discussing their particular concern with a trusted employee. This may be a student affairs
+staff member, a department Chair, a faculty member or other University official. These individuals have an obligation to
+report incidents of sexual violence and sexual harassment to OPHD. This does not necessarily mean that a formal complaint will
 be filed.
 
-If you find yourself in an uncomfortable situation, ask for help. 
+If you find yourself in an uncomfortable situation, ask for help.
 
 
 ### Students with Disabilities
 
 We aim to create an environment in which all students can succeed in this course.  
-If you have a disability, please contact the 
+If you have a disability, please contact the
 <a href="https://disabilities.ucsd.edu/about/index.html" target="_blank">
-Office for Students with Disability (OSD)</a>, 
-which is located in University Center 202 behind Center Hall, to discuss appropriate accommodations 
-right away.  We will work to provide you with the accommodations you need, 
+Office for Students with Disability (OSD)</a>,
+which is located in University Center 202 behind Center Hall, to discuss appropriate accommodations
+right away.  We will work to provide you with the accommodations you need,
 but you must first provide a current Authorization for Accommodation (AFA) letter issued by the OSD.  
-You are required to present your AFA letters to Faculty (please make arrangements to contact me privately) 
+You are required to present your AFA letters to Faculty (please make arrangements to contact me privately)
 and to the OSD Liaison in the CSE department in advance so that accommodations may be arranged.
-
->>>>>>> db943732390b5b986d5713bba22b22ceecf1862e
