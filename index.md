@@ -166,8 +166,8 @@ Important announcements from the course team will be pinned at the top of your f
 When you set up your account, you can select the frequency for email notifications of messages and discussions
 on Piazza.  Piazza is one way you can <a href="pa:piazzahelp">ask for and get help</a> in this course.
 
-[The documentation for the Java
-language](https://docs.oracle.com/javase/10/), while not required reading,
+<a href="https://docs.oracle.com/javase/10/" target="_blank">The documentation for the Java
+language</a>, while not required reading,
 will be linked to from some assignments and is always a useful reference
 while programming.
 
@@ -242,7 +242,7 @@ your own computer, you can work in these labs. The type of programming assignmen
 
 During <a href="#staff">open lab hours</a>, tutors, TAs, and the
 instructors will be available to help. We will work with you to get you un-stuck when you're not sure what to do next on an
-assignment. We will be using the <a href="autograder.ucsd.edu" target="_blank">Autograder</a> system to manage to queue of
+assignment. We will be using the <a href="https://autograder.ucsd.edu" target="_blank">Autograder</a> system to manage to queue of
 requests for help in lab.  To get in the queue, log into Autograder with your @ucsd.edu email and submit your question as a ticket:
 
 - Give a meaningful question or problem statement in your ticket.
@@ -737,7 +737,7 @@ You may call the Human Research Protections Program Office at 858-246-HRPP (858-
 ## Student Resources and Support
 
 ### IDEA Engineering Student Center
-The IDEA Engineering Student Center, located just off the lobby of Jacobs Hall, is a hub for student engagement, academic enrichment, personal/professional development, leadership, community involvement, and a respectful learning environment for all.  The Center offers a variety of programs, listed in the IDEA Center Facebook page at http://www.facebook.com/ucsdidea/ (you are welcome to Like this page!) and the Center web site at http://idea.ucsd.edu/.  The IDEA Center programs support both undergraduate students and graduate students.
+The IDEA Engineering Student Center, located just off the lobby of Jacobs Hall, is a hub for student engagement, academic enrichment, personal/professional development, leadership, community involvement, and a respectful learning environment for all.  The Center offers a variety of programs, listed in the IDEA Center Facebook page at <a href="http://www.facebook.com/ucsdidea/" target="_blank">http://www.facebook.com/ucsdidea</a>> (you are welcome to Like this page!) and the Center web site at <a href="http://idea.ucsd.edu/" target="_blank">http://idea.ucsd.edu/</a>.  The IDEA Center programs support both undergraduate students and graduate students.
 
 
 ### Diversity and inclusion
@@ -761,9 +761,9 @@ federal funds. All students have the right to an educational environment that is
 
 Students have options for reporting incidents of sexual violence and sexual harassment. Sexual violence includes sexual
 assault, dating violence, domestic violence, and stalking. Information about reporting options may be obtained at OPHD at
-(858) 534-8298, ophd@ucsd.edu or http://ophd.ucsd.edu. Students may receive confidential assistance at CARE at the Sexual
-Assault Resource Center at (858) 534-5793, sarc@ucsd.edu or http://care.ucsd.edu or Counseling and Psychological Services
-(CAPS) at (858) 534-3755 or http://caps.ucsd.edu.
+(858) 534-8298, ophd@ucsd.edu or <a href="http://ophd.ucsd.edu" target="_blank">http://ophd.ucsd.edu</a>. Students may receive confidential assistance at CARE at the Sexual
+Assault Resource Center at (858) 534-5793, sarc@ucsd.edu or <a href="http://care.ucsd.edu" target="_blank">http://care.ucsd.edu</a> or Counseling and Psychological Services
+(CAPS) at (858) 534-3755 or <a href="http://caps.ucsd.edu" target="_blank">http://caps.ucsd.edu</a>.
 
 Students may feel more comfortable discussing their particular concern with a trusted employee. This may be a student affairs
 staff member, a department Chair, a faculty member or other University official. These individuals have an obligation to
@@ -784,3 +784,25 @@ right away.  We will work to provide you with the accommodations you need,
 but you must first provide a current Authorization for Accommodation (AFA) letter issued by the OSD.  
 You are required to present your AFA letters to Faculty (please make arrangements to contact me privately)
 and to the OSD Liaison in the CSE department in advance so that accommodations may be arranged.
+
+### Quick links
+
+<a href="http://piazza.com/ucsd/fall2018/cse8a" target="_blank">Piazza sign-up</a>
+<a href="http://piazza.com/ucsd/fall2018/cse8a/home/" target="_blank">Piazza Q&A</a>
+<a href="http://gradescope.com/" target="_blank">Gradescope</a>
+<a href="https://docs.oracle.com/javase/10/" target="_blank">JDK 10 Documentation</a>
+<a href="http://cseweb.ucsd.edu/~minnes/index.html" target="_blank">Professor Minnes Homepage</a>
+<a href="https://jpolitz.github.io/" target="_blank">Professor Politz Homepage</a>
+<a href="https://sdacs.ucsd.edu/~icc/index.php" target="_blank">ETS Accounts</a>
+<!--a href="https://autograder.ucsd.edu" target="_blank">Autograder</a>
+<a href="https://www.youtube.com/watch?v=rG_U12uqRhE" target="_blank">Intro to Pair Programming video</a>
+<a href="https://www.ics.uci.edu/~kay/courses/i41/hw/evalcomments.html" target="_blank">Pair Programming Evaluations</a>
+<a href="https://ucsd.edu/about/principles.html" target="_blank">UCSD Principles of Community</a>
+<a href="https://www.nature.com/news/why-we-are-teaching-science-wrong-and-how-to-make-it-right-1.17963" target="_blank">Why we are teaching science wrong, and how to make it right</a>
+<a href="https://senate.ucsd.edu/operating-procedures/educational-policies/courses/epc-policies-on-courses/policy-exams-including-midterms-final-exams-and-religious-accommodations-for-exams/" target="_blank">UCSD Exam Policies</a>
+<a href="https://goo.gl/forms/JSBRjEmkES6W6xYc2" target="_blank">Study Opt-out Form</a>
+<a href="http://idea.ucsd.edu/" target="_blank">IDEA Center Website</a>
+<a href="http://www.facebook.com/ucsdidea/" target="_blank">IDEA Center Facebook Page</a>
+<a href="http://care.ucsd.edu" target="_blank">CARE at the Sexual Assault Resource Center</a>
+<a href="http://caps.ucsd.edu" target="_blank">Counseling and Psychological Services (CAPS)</a>
+<a href="https://disabilities.ucsd.edu/about/index.html" target="_blank">Office for Students with Disability</a>
