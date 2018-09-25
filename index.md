@@ -737,7 +737,7 @@ You may call the Human Research Protections Program Office at 858-246-HRPP (858-
 ## Student Resources and Support
 
 ### IDEA Engineering Student Center
-The IDEA Engineering Student Center, located just off the lobby of Jacobs Hall, is a hub for student engagement, academic enrichment, personal/professional development, leadership, community involvement, and a respectful learning environment for all.  The Center offers a variety of programs, listed in the IDEA Center Facebook page at <a href="http://www.facebook.com/ucsdidea/" target="_blank">http://www.facebook.com/ucsdidea</a>> (you are welcome to Like this page!) and the Center web site at <a href="http://idea.ucsd.edu/" target="_blank">http://idea.ucsd.edu/</a>.  The IDEA Center programs support both undergraduate students and graduate students.
+The IDEA Engineering Student Center, located just off the lobby of Jacobs Hall, is a hub for student engagement, academic enrichment, personal/professional development, leadership, community involvement, and a respectful learning environment for all.  The Center offers a variety of programs, listed in the IDEA Center Facebook page at <a href="http://www.facebook.com/ucsdidea/" target="_blank">http://www.facebook.com/ucsdidea</a> (you are welcome to Like this page!) and the Center web site at <a href="http://idea.ucsd.edu/" target="_blank">http://idea.ucsd.edu/</a>.  The IDEA Center programs support both undergraduate students and graduate students.
 
 
 ### Diversity and inclusion
@@ -788,6 +788,7 @@ and to the OSD Liaison in the CSE department in advance so that accommodations m
 ### Quick links
 
 <p><a href="http://piazza.com/ucsd/fall2018/cse8a" target="_blank">Piazza sign-up</a></p>
+<p><a href="http://piazza.com/ucsd/fall2018/cse8a/home/" target="_blank">Piazza Q&A</a></p>
 <p><a href="http://gradescope.com/" target="_blank">Gradescope</a></p>
 <p><a href="https://docs.oracle.com/javase/10/" target="_blank">JDK 10 Documentation</a></p>
 <p><a href="http://cseweb.ucsd.edu/~minnes/index.html" target="_blank">Professor Minnes Homepage</a></p>
