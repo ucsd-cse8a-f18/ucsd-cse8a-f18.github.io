@@ -164,7 +164,7 @@ Online discussion and Q&A for the class will be available on Piazza: sign up to
 and <a href="http://piazza.com/ucsd/fall2018/cse8a/home/" target="_blank">view the discussion forum here</a>.
 Important announcements from the course team will be pinned at the top of your feed.
 When you set up your account, you can select the frequency for email notifications of messages and discussions
-on Piazza.  Piazza is one way you can <a href="pa:piazzahelp">ask for and get help</a> in this course.
+on Piazza.  Piazza is one way you can <a href="#pa:piazzahelp">ask for and get help</a> in this course.
 
 <a href="https://docs.oracle.com/javase/10/" target="_blank">The documentation for the Java
 language</a>, while not required reading,
