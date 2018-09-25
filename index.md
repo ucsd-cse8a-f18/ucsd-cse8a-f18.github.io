@@ -11,7 +11,7 @@ the interactions between programs and data; and use computation to answer
 questions you care about.
 
 Basics: <a href="#b:lec">Lecture</a>, <a href="#b:disc">Discussion</a>, <a href="#b:labs">Labs</a>, <a href="#pa">Programming Assignments</a>, and <a href="#b:exams">Exams</a>. Check the <a href="#schedule">Schedule</a> for class topics, links to resources, and assignment due dates.  The <a href="#staff">course instructional team</a> is here to help you learn:
-<a href="#help">ask for help and advice</a>!
+<a href="#pa:help">ask for help and advice</a>!
 
 On an average week in CSE8A, you can expect to spend 3 hours in lecture, 1 hour in discussion,
 1 hour in lab section, 30 minutes to an hour preparing for class and taking the weekly quiz,
@@ -21,7 +21,7 @@ programming assignments (either at home or in the open lab hours).
 
 
 Policies: <a href="#p:materials">Materials</a>, <a href="#p:grading">Grading</a>,
-<a href="#p:ai#">Academic Integrity</a>,
+<a href="#p:ai">Academic Integrity</a>,
 <a href="#p:research-consent">Educational research</a>,
 <a href="#p:detailed-outcomes">Detailed learning outcomes</a>,
 <a href="#p:ucsdsupport">Additional resources</a>
@@ -189,7 +189,7 @@ of the Fall quarter.  The Final exam is on Wednesday of exam week
 
 **Wednesday 12/12/2018	7pm-9:59pm**.  
 
-There are no makeup exams.  See <a href="#p:Grading">grading section</a> below for the
+There are no makeup exams.  See <a href="#p:grading">grading section</a> below for the
 policy on missed exams.
 
 
@@ -220,7 +220,7 @@ during your work on a programming assignment, ask for help:
 
 * <a href="#staff">Instructor and TA</a> office hours
 
-* <a href="#help">Private questions to instructors</a> on the class discussion board on <a href="https://piazza.com/" target="_blank">Piazza</a>.
+* <a href="#pa:help">Private questions to instructors</a> on the class discussion board on <a href="https://piazza.com/" target="_blank">Piazza</a>.
 
 
 Remember to always read the programming assignment description carefully.  Some programming assignments will
@@ -612,7 +612,7 @@ Gradescope's interface.
 
 <b>Switching into CSE8A</b> If you're considering joining CSE8A after the quarter
 begins, we want to make sure you are on track to doing well.  To that end, noone will
-be able to add CSE8A after the end of Friday of Week 1.  If you enrol in the class
+be able to add CSE8A after the end of Friday of Week 1.  If you enroll in the class
 after Tuesday of Week 1, you will have an automatic extension on PA0 and will hand it in
 on the same day you hand in PA1.
 
@@ -624,7 +624,7 @@ fair, trustworthy and courageous in your work. There are aspects of integrity
 throughout this syllabus that you must be aware of and follow.
 
 - <a href="#pa:best-practice">Best Practices for Pair Programming</a>
-- <a href="#p:pa-collab">Allowed References for Programming Assignments</a>
+- <a href="#pa:pa-collab">Allowed References for Programming Assignments</a>
 - <a href="#p:exam-ai">Exams</a>
 - <a href="#p:clicker-ai">Clickers</a>
 - <a href="#p:quiz-ai">Quizzes</a>
