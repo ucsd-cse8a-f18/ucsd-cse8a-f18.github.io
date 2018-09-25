@@ -787,22 +787,21 @@ and to the OSD Liaison in the CSE department in advance so that accommodations m
 
 ### Quick links
 
-<a href="http://piazza.com/ucsd/fall2018/cse8a" target="_blank">Piazza sign-up</a>
-<a href="http://piazza.com/ucsd/fall2018/cse8a/home/" target="_blank">Piazza Q&A</a>
-<a href="http://gradescope.com/" target="_blank">Gradescope</a>
-<a href="https://docs.oracle.com/javase/10/" target="_blank">JDK 10 Documentation</a>
-<a href="http://cseweb.ucsd.edu/~minnes/index.html" target="_blank">Professor Minnes Homepage</a>
-<a href="https://jpolitz.github.io/" target="_blank">Professor Politz Homepage</a>
-<a href="https://sdacs.ucsd.edu/~icc/index.php" target="_blank">ETS Accounts</a>
-<!--a href="https://autograder.ucsd.edu" target="_blank">Autograder</a>
-<a href="https://www.youtube.com/watch?v=rG_U12uqRhE" target="_blank">Intro to Pair Programming video</a>
-<a href="https://www.ics.uci.edu/~kay/courses/i41/hw/evalcomments.html" target="_blank">Pair Programming Evaluations</a>
-<a href="https://ucsd.edu/about/principles.html" target="_blank">UCSD Principles of Community</a>
-<a href="https://www.nature.com/news/why-we-are-teaching-science-wrong-and-how-to-make-it-right-1.17963" target="_blank">Why we are teaching science wrong, and how to make it right</a>
-<a href="https://senate.ucsd.edu/operating-procedures/educational-policies/courses/epc-policies-on-courses/policy-exams-including-midterms-final-exams-and-religious-accommodations-for-exams/" target="_blank">UCSD Exam Policies</a>
-<a href="https://goo.gl/forms/JSBRjEmkES6W6xYc2" target="_blank">Study Opt-out Form</a>
-<a href="http://idea.ucsd.edu/" target="_blank">IDEA Center Website</a>
-<a href="http://www.facebook.com/ucsdidea/" target="_blank">IDEA Center Facebook Page</a>
-<a href="http://care.ucsd.edu" target="_blank">CARE at the Sexual Assault Resource Center</a>
-<a href="http://caps.ucsd.edu" target="_blank">Counseling and Psychological Services (CAPS)</a>
-<a href="https://disabilities.ucsd.edu/about/index.html" target="_blank">Office for Students with Disability</a>
+<p><a href="http://piazza.com/ucsd/fall2018/cse8a" target="_blank">Piazza sign-up</a></p>
+<p><a href="http://gradescope.com/" target="_blank">Gradescope</a></p>
+<p><a href="https://docs.oracle.com/javase/10/" target="_blank">JDK 10 Documentation</a></p>
+<p><a href="http://cseweb.ucsd.edu/~minnes/index.html" target="_blank">Professor Minnes Homepage</a></p>
+<p><a href="https://jpolitz.github.io/" target="_blank">Professor Politz Homepage</a></p>
+<p><a href="https://sdacs.ucsd.edu/~icc/index.php" target="_blank">ETS Accounts</a></p>
+<p><a href="https://autograder.ucsd.edu" target="_blank">Autograder</a></p>
+<p><a href="https://www.youtube.com/watch?v=rG_U12uqRhE" target="_blank">Intro to Pair Programming video</a></p>
+<p><a href="https://www.ics.uci.edu/~kay/courses/i41/hw/evalcomments.html" target="_blank">Pair Programming Evaluations</a></p>
+<p><a href="https://ucsd.edu/about/principles.html" target="_blank">UCSD Principles of Community</a></p>
+<p><a href="https://www.nature.com/news/why-we-are-teaching-science-wrong-and-how-to-make-it-right-1.17963" target="_blank">Why we are teaching science wrong, and how to make it right</a></p>
+<p><a href="https://senate.ucsd.edu/operating-procedures/educational-policies/courses/epc-policies-on-courses/policy-exams-including-midterms-final-exams-and-religious-accommodations-for-exams/" target="_blank">UCSD Exam Policies</a></p>
+<p><a href="https://goo.gl/forms/JSBRjEmkES6W6xYc2" target="_blank">Study Opt-out Form</a></p>
+<p><a href="http://idea.ucsd.edu/" target="_blank">IDEA Center Website</a></p>
+<p><a href="http://www.facebook.com/ucsdidea/" target="_blank">IDEA Center Facebook Page</a></p>
+<p><a href="http://care.ucsd.edu" target="_blank">CARE at the Sexual Assault Resource Center</a></p>
+<p><a href="http://caps.ucsd.edu" target="_blank">Counseling and Psychological Services (CAPS)</a></p>
+<p><a href="https://disabilities.ucsd.edu/about/index.html" target="_blank">Office for Students with Disability</a></p>
