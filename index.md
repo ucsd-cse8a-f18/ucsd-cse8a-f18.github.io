@@ -202,7 +202,7 @@ policy on missed exams.
 <a href="https://jpolitz.github.io" target="_blank">Prof Joe Gibbs Politz</a> (Instructor)
 </p>
 
-<iframe style="border: none; border-top: 1px solid gray" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBt6J84DZl8HwRnBlJfJ-cAW3Vi7VjI5A3X6enkdNRcDclCotOutJim--MJZj_zr9wpyLmGqXy_51t/pubhtml?gid=97371257&amp;single=true&amp;chrome=false;widget=false;"></iframe>
+<iframe style="border: none; border-top: 1px solid gray" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBt6J84DZl8HwRnBlJfJ-cAW3Vi7VjI5A3X6enkdNRcDclCotOutJim--MJZj_zr9wpyLmGqXy_51t/pubhtml?gid=97371257%26single=true%26chrome=false;widget=false;"></iframe>
 
 
 <a id="pa"></a>
