@@ -70,16 +70,16 @@ There are two kinds of discussion section: in Supplemental Instruction you will 
   </tr>
 </thead>
 <tr>
-  <td>A01 </td><td> M 5pm </td><td> PCYNH122 </td><td> TBA </td><td> Supplemental Instruction</td>
+  <td>A01 </td><td> M 5pm </td><td> PCYNH122 </td><td> Bethany </td><td> Supplemental Instruction</td>
 </tr>
 <tr>
-  <td>A02 </td><td> M 6pm </td><td> PCYNH122 </td><td> TBA </td><td> Supplemental Instruction</td>
+  <td>A02 </td><td> M 6pm </td><td> PCYNH122 </td><td> James </td><td> Supplemental Instruction</td>
 </tr>
 <tr>
-  <td>B01 </td><td> M 7pm </td><td> PCYNH122 </td><td> TBA </td><td> Supplemental Instruction</td>
+  <td>B01 </td><td> M 7pm </td><td> PCYNH122 </td><td> Lana </td><td> Supplemental Instruction</td>
 </tr>
 <tr>
-  <td>B02 </td><td> M 8pm </td><td> PCYNH122 </td><td> TBA </td><td> Supplemental Instruction</td>
+  <td>B02 </td><td> M 8pm </td><td> PCYNH122 </td><td> Sasha </td><td> Supplemental Instruction</td>
 </tr>
 <tr>
   <td>C01 </td><td> W 6pm </td><td> CENTR214 </td><td> Alex </td><td> TA review</td>
