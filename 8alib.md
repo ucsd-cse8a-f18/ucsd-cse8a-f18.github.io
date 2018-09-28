@@ -22,16 +22,16 @@ table {
   </tr>
 </thead>
 <tr>
-  <td class="monospace">java.lang.String</td><td><a href="#concat" class="monospace">java.lang.String left,<br>java.lang.String right</a></td><td>Returns a String of two concatentated Strings</td>
+  <td class="monospace">java.lang.String</td><td><a href="#concat" class="monospace">concat<br>(java.lang.String left,<br>java.lang.String right)</a></td><td>Returns a String of two concatentated Strings</td>
 </tr>
 <tr>
-<td class="monospace">int</td><td>[`count`](#count)<br>`(java.lang.String base,`<br>`java.lang.String toFind)`</td><td>Returns the number of times a substring appears in a String</td>
+<td class="monospace">int</td><td><a href="#count" class="monospace">count<br>(java.lang.String base,<br>java.lang.String toFind)</a></td><td>Returns the number of times a substring appears in a String</td>
 </tr>
 <tr>
-<td class="monospace">long</td><td>[`dateMonthDayYearTime`](#dateMonthDayYearTime)<br>`(java.lang.String date)`</td><td>Returns the String formatted date as a long</td>
+    <td class="monospace">long</td><td><a href="#dateMonthDayYearTime" class="monospace">java.lang.String date</a></td><td>Returns the String formatted date as a long</td>
 </tr>
 <tr>
-<td class="monospace">long</td><td>[`dateYearMonthDayTime`](#dateYearMonthDayTime)<br>`(java.lang.String date)`</td><td>Returns the String formatted date as a long</td>
+<td class="monospace">long</td><td><a href="#dateYearMonthDayTime">java.lang.String date)`</td><td>Returns the String formatted date as a long</td>
 </tr>
 <tr>
 <td class="monospace">int</td><td>[`indexOf`](#indexOf)<br>`(java.lang.String base,`<br>`java.lang.String toFind)`</td><td>Returns the index within a String of the first occurrence of the specified substring</td>
