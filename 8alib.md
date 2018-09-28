@@ -22,58 +22,58 @@ table {
   </tr>
 </thead>
 <tr>
-  <td class="monospace">java.lang.String</td><td><a href="#concat" class="monospace">concat<br>(java.lang.String left,<br>java.lang.String right)</a></td><td>Returns a String of two concatentated Strings</td>
+<td class="monospace">java.lang.String</td><td class="monospace"><a href="#concat">concat</a><br>(java.lang.String left,<br>java.lang.String right)</td><td>Returns a String of two concatentated Strings</td>
 </tr>
 <tr>
-<td class="monospace">int</td><td><a href="#count" class="monospace">count<br>(java.lang.String base,<br>java.lang.String toFind)</a></td><td>Returns the number of times a substring appears in a String</td>
+<td class="monospace">int</td><td class="monospace"><a href="#count">count</a><br>(java.lang.String base,<br>java.lang.String toFind)</td><td>Returns the number of times a substring appears in a String</td>
 </tr>
 <tr>
-    <td class="monospace">long</td><td><a href="#dateMonthDayYearTime" class="monospace">java.lang.String date</a></td><td>Returns the String formatted date as a long</td>
+<td class="monospace">long</td><td class="monospace"><a href="#dateMonthDayYearTime">dateMonthDayYearTime</a><br>(java.lang.String date)</td><td>Returns the String formatted date as a long</td>
 </tr>
 <tr>
-<td class="monospace">long</td><td><a href="#dateYearMonthDayTime">java.lang.String date)`</td><td>Returns the String formatted date as a long</td>
+<td class="monospace">long</td><td class="monospace"><a href="#dateYearMonthDayTime">dateYearMonthDayTime</a><br>(java.lang.String date)</td><td>Returns the String formatted date as a long</td>
 </tr>
 <tr>
-<td class="monospace">int</td><td>[`indexOf`](#indexOf)<br>`(java.lang.String base,`<br>`java.lang.String toFind)`</td><td>Returns the index within a String of the first occurrence of the specified substring</td>
+<td class="monospace">int</td><td class="monospace"><a href="#indexOf">indexOf</a><br>(java.lang.String base,<br>java.lang.String toFind)</td><td>Returns the index within a String of the first occurrence of the specified substring</td>
 </tr>
 <tr>
-<td class="monospace">int</td><td>[`indexOfNth`](#indexOfNth)<br>`(java.lang.String base,`<br>`java.lang.String toFind)`</td><td>Returns the index of the nth occurrence of a substring in a String</td>
+<td class="monospace">int</td><td class="monospace"><a href="#indexOfNth">indexOfNth</a><br>(java.lang.String base,<br>java.lang.String toFind)</td><td>Returns the index of the nth occurrence of a substring in a String</td>
 </tr>
 <tr>
-<td class="monospace">java.lang.String</td><td>[`intToString`](#intToString)<br>`(int n)`</td><td>Returns an integer represented as a String</td>
+<td class="monospace">java.lang.String</td><td class="monospace"><a href="#intToString>intToString</a><br>(int n)</td><td>Returns an integer represented as a String</td>
 </tr>
 <tr>
-<td class="monospace">int</td><td>[`length`](#length)<br>`(java.lang.String s)`</td><td>Returns the length of a String</td>
+<td class="monospace">int</td><td class="monospace"><a href="#length">length</a><br>(java.lang.String s)</td><td>Returns the length of a String</td>
 </tr>
 <tr>
-<td class="monospace">int</td><td>[`parseInt`](#parseInt)<br>`(java.lang.String s)`</td><td>Parses the String argument and returns its represented integer value</td>
+<td class="monospace">int</td><td class="monospace"><a href="#parseInt">parseInt</a><br>(java.lang.String s)</td><td>Parses the String argument and returns its represented integer value</td>
 </tr>
 <tr>
-<td class="monospace">java.lang.String</td><td>[`readFile`](#readFile)<br>`(java.lang.String path)`</td><td>Reads file specified by a path and returns its contents as a String</td>
+<td class="monospace">java.lang.String</td><td class="monospace"><a href="readFile">readFile</a><br>(java.lang.String path)</td><td>Reads file specified by a path and returns its contents as a String</td>
 </tr>
 <tr>
-<td class="monospace">java.lang.String</td><td>[`readLine`](#readLine)<br>`(java.lang.String path,`<br>`int index)`</td><td>Returns the line index of a file specified by a path</td>
+<td class="monospace">java.lang.String</td><td class="monospace"><a href="#readLine">readLine</a><br>(java.lang.String path,<br>int index)</td><td>Returns the line index of a file specified by a path</td>
 </tr>
 <tr>
-<td class="monospace">int</td><td>[`roundTo`](#roundTo)<br>`(int n,`<br>`int toRoundTo)`</td><td>Returns an integer rounded to the nearest multiple of another integer.</td>
+<td class="monospace">int</td><td class="monospace"><a href="#roundTo">roundTo</a><br>(int n,<br>int toRoundTo)</td><td>Returns an integer rounded to the nearest multiple of another integer.</td>
 </tr>
 <tr>
-<td class="monospace">boolean</td><td>[`show`](#show)<br>`(java.lang.String s,`<br>`int numLines)`</td><td>Prints a specified number of lines of a String and returns true when successfully completed;<br>returns false if the specified number of lines is greater than the number of lines in the String</td>
+<td class="monospace">boolean</td><td class="monospace"><a href="#show">show</a><br>(java.lang.String s,<br>int numLines)</td><td>Prints a specified number of lines of a String and returns true when successfully completed;<br>returns false if the specified number of lines is greater than the number of lines in the String</td>
 </tr>
 <tr>
-<td class="monospace">int</td><td>[`sign`](#sign)<br>`(int n)`</td><td>Returns -1, 0, or 1 based on the sign of an integer</td>
+<td class="monospace">int</td><td class="monospace"><a href="#sign">sign</a><br>(int n)</td><td>Returns -1, 0, or 1 based on the sign of an integer</td>
 </tr>
 <tr>
-<td class="monospace">int</td><td>[`square`](#square)<br>`(int n)`</td><td>Returns the square of an integer</td>
+<td class="monospace">int</td><td class="monospace"><a href="#square">square</a><br>(int n)</td><td>Returns the square of an integer</td>
 </tr>
 <tr>
-<td class="monospace">boolean</td><td>[`stringEquals`](#stringEquals)<br>`(java.lang.String s1,`<br>`java.lang.String s2)`</td><td>Compares two Strings and returns true if they are equal, false otherwise</td>
+<td class="monospace">boolean</td><td class="monospace"><a href="stringEquals">stringEquals</a><br>(java.lang.String s1,<br>java.lang.String s2)</td><td>Compares two Strings and returns true if they are equal, false otherwise</td>
 </tr>
 <tr>
-<td class="monospace">java.lang.String</td><td>[`substring`](#substring)<br>`(java.lang.String base,`<br>`int beginIndex,`<br>`int endIndex)`</td><td>Returns the substring of a String from one specified index until the second specified index.</td>
+<td class="monospace">java.lang.String</td><td class="monospace"><a href="#substring">substring</a><br>(java.lang.String base,<br>int beginIndex,<br>int endIndex)</td><td>Returns the substring of a String from one specified index until the second specified index.</td>
 </tr>
 <tr>
-<td class="monospace">java.lang.String</td><td>[`trim`](#trim)<br>`(java.lang.String base s)`</td><td>Returns a copy of a string with leading and trailing white space removed</td>
+<td class="monospace">java.lang.String</td><td class="monospace"><a href="#trim">trim</a><br>(java.lang.String base s)</td><td>Returns a copy of a string with leading and trailing white space removed</td>
 </tr>
 </table>
 
