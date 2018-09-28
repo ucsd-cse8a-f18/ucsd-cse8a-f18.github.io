@@ -170,6 +170,7 @@ on Piazza.  Piazza is one way you can <a href="#pa:piazzahelp">ask for and get h
 language</a>, while not required reading,
 will be linked to from some assignments and is always a useful reference
 while programming.
+You can follow instructions <a href="https://docs.google.com/document/d/1tvk1IlsFrppZIiGB7BBv5--6psJlxb5WfBVWRWc0OcQ/edit?usp=sharing" target="_blank">here</a> for installing JDK 10 and Atom (a text editor) on macOS and Windows.
 
 You'll be submitting your classwork and seeing grading feedback through a tool called
 <a href="http://gradescope.com/" target="_blank">Gradescope</a>.
@@ -503,7 +504,7 @@ the quarter. They will primarily contain content from the weeks leading up to
 them. Since the programming content is cumulative, the second exam will
 necessarily contain content from the first exam, as well.
 
-<a id="p:exam-ai">
+<a id="p:exam-ai"></a>
 Seats will be assigned for all exam sessions and announced beforehand, and you
 must bring your school ID to the exam. All work on exams is to be done on your
 own, and you are not allowed to use any electronics or study aids during the
