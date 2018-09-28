@@ -8,6 +8,10 @@ title: "8ALib.java Javadoc"
 table {
     width:100%;
 }
+
+.monospace {
+    font-family: monospace;
+}
 </style>
 
 ### Method Summary
@@ -18,7 +22,7 @@ table {
   </tr>
 </thead>
 <tr>
-  <td>``java.lang.String``</td><td>[`concat`](#conct)<br>`(java.lang.String left,`<br>`java.lang.String right)`</td><td>Returns a String of two concatentated Strings</td>
+  <td class="monospace">java.lang.String</td><td>[`concat`](#conct)<br>`(java.lang.String left,`<br>`java.lang.String right)`</td><td>Returns a String of two concatentated Strings</td>
 </tr>
 <tr>
 <td>``int``</td><td>[`count`](#count)<br>`(java.lang.String base,`<br>`java.lang.String toFind)`</td><td>Returns the number of times a substring appears in a String</td>
