@@ -22,7 +22,7 @@ table {
   </tr>
 </thead>
 <tr>
-  <td class="monospace">java.lang.String</td><a href="#concat" class="monospace">java.lang.String left,<br>java.lang.String right</a><td>Returns a String of two concatentated Strings</td>
+  <td class="monospace">java.lang.String</td><td><a href="#concat" class="monospace">java.lang.String left,<br>java.lang.String right</a></td><td>Returns a String of two concatentated Strings</td>
 </tr>
 <tr>
 <td class="monospace">int</td><td>[`count`](#count)<br>`(java.lang.String base,`<br>`java.lang.String toFind)`</td><td>Returns the number of times a substring appears in a String</td>
