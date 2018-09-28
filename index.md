@@ -807,6 +807,7 @@ and to the OSD Liaison in the CSE department in advance so that accommodations m
 <p><a href="https://goo.gl/forms/JSBRjEmkES6W6xYc2" target="_blank">Study Opt-out Form</a></p>
 <p><a href="http://idea.ucsd.edu/" target="_blank">IDEA Center Website</a></p>
 <p><a href="http://www.facebook.com/ucsdidea/" target="_blank">IDEA Center Facebook Page</a></p>
+<a href="http://ophd.ucsd.edu" target="_blank">Office for the Prevention of Harassment and Discrimination</a>
 <p><a href="http://care.ucsd.edu" target="_blank">CARE at the Sexual Assault Resource Center</a></p>
 <p><a href="http://caps.ucsd.edu" target="_blank">Counseling and Psychological Services (CAPS)</a></p>
 <p><a href="https://disabilities.ucsd.edu/about/index.html" target="_blank">Office for Students with Disability</a></p>
