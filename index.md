@@ -180,15 +180,15 @@ You'll be submitting your classwork and seeing grading feedback through a tool c
 <h3>Exams</h3>
 There will be two exams during the quarter, held in the evenings during Week 3
 
-**Thursday 10/18/2018	8pm-9:50pm**
+**Thursday 10/18/2018 8pm-9:50pm**
 
 and Week 7
 
-**Wednesday 11/14/2018	8pm-9:50pm**
+**Wednesday 11/14/2018  8pm-9:50pm**
 
 of the Fall quarter.  The Final exam is on Wednesday of exam week
 
-**Wednesday 12/12/2018	7pm-9:59pm**.  
+**Wednesday 12/12/2018  7pm-9:59pm**.  
 
 There are no makeup exams.  See <a href="#p:grading">grading section</a> below for the
 policy on missed exams.
@@ -202,6 +202,9 @@ policy on missed exams.
 <a href="http://cseweb.ucsd.edu/~minnes/index.html" target="_blank">Prof Mia Minnes</a> (Instructor)
 <a href="https://jpolitz.github.io" target="_blank">Prof Joe Gibbs Politz</a> (Instructor)
 </p>
+
+There are 40 staff including 4 Supplemental Instruction leaders to help with your learning.
+You can find their names and pictures on <a href="https://piazza.com/ucsd/fall2018/cse8a/staff" target="_blank">Piazza Staff page</a>. Their lab hour schedule is below. 
 
 <iframe style="border: none; border-top: 1px solid gray border-spacing: 2px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSEpVCIZbTA-wmlchM2BRYR_fCeCKu8cqFY9kYd3K5tBJLSVuF0sFFT_DwoQ0Ysxxi7o5RSFlpKVoV7/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;chrome=false" width="100%" height="800px"></iframe>
 
