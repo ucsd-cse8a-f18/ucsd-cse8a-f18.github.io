@@ -40,7 +40,7 @@ table {
 <td class="monospace">int</td><td class="monospace"><a href="#indexOfNth">indexOfNth</a><br>(java.lang.String base,<br>java.lang.String toFind)</td><td>Returns the index of the nth occurrence of a substring in a String</td>
 </tr>
 <tr>
-<td class="monospace">java.lang.String</td><td class="monospace"><a href="#intToString>intToString</a><br>(int n)</td><td>Returns an integer represented as a String</td>
+<td class="monospace">java.lang.String</td><td class="monospace"><a href="#intToString">intToString</a><br>(int n)</td><td>Returns an integer represented as a String</td>
 </tr>
 <tr>
 <td class="monospace">int</td><td class="monospace"><a href="#length">length</a><br>(java.lang.String s)</td><td>Returns the length of a String</td>
@@ -126,7 +126,7 @@ table {
   </tr>
 </thead>
 <tr>
-  <td><pre>long dateYearMonthDayTime(java.lang.String date)</pre>Returns the String formatted date as a long<br><br><b>Parameters:</b><br>``date`` - String in year, month, day, time format "yyyy-MM-dd'T'HH:mm:ss"<br><br><b>Returns:</b><br>returns how many milliseconds have passed since January 1, 1970, 00:00:00 GMT</td>
+  <td><pre>int length​(java.lang.String s)</pre>Returns the length of a String<br><br><b>Parameters:</b><br>s - a String<br><br><b>Returns:</b><br>returns the length of String s</td>
 </tr>
 </table>
 
@@ -186,7 +186,7 @@ table {
   </tr>
 </thead>
 <tr>
-  <td><pre>int parseInt(java.lang.String s)</pre>Parses the String argument and returns its represented integer value<br><br><b>Parameters:</b><br>``s`` - String to be parsed<br><br><b>Returns:</b><br>returns String s represented as an integer</td>
+  <td><pre>int parseInt(java.lang.String s)</pre>Parses the String argument and returns its represented integer value<br><br><b>Parameters:</b><br>s - String to be parsed<br><br><b>Returns:</b><br>returns String s represented as an integer</td>
 </tr>
 </table>
 
