@@ -37,7 +37,7 @@ table {
 <td class="monospace">int</td><td class="monospace"><a href="#indexOf">indexOf</a><br>(java.lang.String base,<br>java.lang.String toFind)</td><td>Returns the index within a String of the first occurrence of the specified substring</td>
 </tr>
 <tr>
-<td class="monospace">int</td><td class="monospace"><a href="#indexOfNth">indexOfNth</a><br>(java.lang.String base,<br>java.lang.String toFind)</td><td>Returns the index of the nth occurrence of a substring in a String</td>
+<td class="monospace">int</td><td class="monospace"><a href="#indexOfNth">indexOfNth</a><br>(java.lang.String base,<br>java.lang.String toFind,<br>int n)</td><td>Returns the index of the nth occurrence of a substring in a String</td>
 </tr>
 <tr>
 <td class="monospace">java.lang.String</td><td class="monospace"><a href="#intToString">intToString</a><br>(int n)</td><td>Returns an integer represented as a String</td>
@@ -90,7 +90,7 @@ table {
   </tr>
 </thead>
 <tr>
-  <td><pre>java.lang.String concat​(java.lang.String left,<br>                        java.lang.String right)</pre>Returns a String of two concatenated Strings<br><br><b>Parameters:</b><br><pre>left</pre> - first string in concatenation<br><pre>right</pre> - second string in concatenation<br><br><b>Returns:</b><br>returns the concatenated String of left and right</td>
+  <td><pre>java.lang.String concat​(java.lang.String left,<br>                        java.lang.String right)</pre>Returns a String of two concatenated Strings<br><br><b>Parameters:</b><br><code>left</code> - first string in concatenation<br><pre>right</pre> - second string in concatenation<br><br><b>Returns:</b><br>returns the concatenated String of left and right</td>
 </tr>
 </table>
 
