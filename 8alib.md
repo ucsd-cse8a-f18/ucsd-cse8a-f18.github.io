@@ -90,7 +90,7 @@ table {
   </tr>
 </thead>
 <tr>
-  <td><pre>java.lang.String concat​(java.lang.String left,<br>                        java.lang.String right)</pre>Returns a String of two concatenated Strings<br><br><b>Parameters:</b><br><font class="monospace">left</font> - first string in concatenation<br><font class="monospace">right</font> - second string in concatenation<br><br><b>Returns:</b><br>returns the concatenated String of left and right</td>
+  <td><pre>java.lang.String concat​(java.lang.String left,<br>                        java.lang.String right)</pre>Returns a String of two concatenated Strings<br><br><b>Parameters:</b><br><code>left</code> - first string in concatenation<br><code>right</code> - second string in concatenation<br><br><b>Returns:</b><br>returns the concatenated String of left and right</td>
 </tr>
 </table>
 
@@ -102,7 +102,7 @@ table {
   </tr>
 </thead>
 <tr>
-  <td><pre>int count(java.lang.String base,<br>          java.lang.String toFind)</pre>Returns the number of times a substring appears in a String<br><br><b>Parameters:</b><br><font class="monospace">base</font> - String being searched<br><font class="monospace">toFind</font> - substring to be found<br><br><b>Returns:</b><br>returns the number of occurrences of toFind in base</td>
+  <td><pre>int count(java.lang.String base,<br>          java.lang.String toFind)</pre>Returns the number of times a substring appears in a String<br><br><b>Parameters:</b><br><code>base</code> - String being searched<br><code>toFind</code> - substring to be found<br><br><b>Returns:</b><br>returns the number of occurrences of toFind in base</td>
 </tr>
 </table>
 
@@ -114,7 +114,7 @@ table {
   </tr>
 </thead>
 <tr>
-  <td><pre>long dateMonthDayYearTime(java.lang.String date)</pre>Returns the String formatted date as a long<br><br><b>Parameters:</b><br><font class="monospace">date</font> - String in month, day, year, time format "MMMMM dd yyyy hh:mm z"<br><br><b>Returns:</b><br>returns how many milliseconds have passed since January 1, 1970, 00:00:00 GMT</td>
+  <td><pre>long dateMonthDayYearTime(java.lang.String date)</pre>Returns the String formatted date as a long<br><br><b>Parameters:</b><br><code>date</code> - String in month, day, year, time format "MMMMM dd yyyy hh:mm z"<br><br><b>Returns:</b><br>returns how many milliseconds have passed since January 1, 1970, 00:00:00 GMT</td>
 </tr>
 </table>
 
@@ -126,7 +126,7 @@ table {
   </tr>
 </thead>
 <tr>
-  <td><pre>int length​(java.lang.String s)</pre>Returns the length of a String<br><br><b>Parameters:</b><br><font class="monospace">s</font> - a String<br><br><b>Returns:</b><br>returns the length of String s</td>
+  <td><pre>int length​(java.lang.String s)</pre>Returns the length of a String<br><br><b>Parameters:</b><br><code>s</code> - a String<br><br><b>Returns:</b><br>returns the length of String s</td>
 </tr>
 </table>
 
@@ -138,7 +138,7 @@ table {
   </tr>
 </thead>
 <tr>
-  <td><pre>int indexOf​(java.lang.String base,<br>            java.lang.String toFind)</pre>Returns the index within a String of the first occurrence of the specified substring<br><br><b>Parameters:</b><br><font class="monospace">base</font> - String being searched<br><font class="monospace">toFind</font> - substring to be found<br><br><b>Returns:</b><br>returns the index of the first occurrence of toFind in base</td>
+  <td><pre>int indexOf​(java.lang.String base,<br>            java.lang.String toFind)</pre>Returns the index within a String of the first occurrence of the specified substring<br><br><b>Parameters:</b><br><code>base</code> - String being searched<br><code>toFind</code> - substring to be found<br><br><b>Returns:</b><br>returns the index of the first occurrence of toFind in base</td>
 </tr>
 </table>
 
@@ -150,7 +150,7 @@ table {
   </tr>
 </thead>
 |<tr>
-  <td><pre>int indexOf​Nth(java.lang.String base,<br>               java.lang.String toFind,<br>               int n)</pre>Returns the index of the nth occurrence of a substring in a String<br><br><b>Parameters:</b><br><font class="monospace">base</font> - String being searched<br><font class="monospace">toFind</font> - substring to be found<br><font class="monospace">n</font> - which occurrence of toFind to return the index of<br><br><b>Returns:</b><br>returns the index of the nth occurrence of toFind in base</td>
+  <td><pre>int indexOf​Nth(java.lang.String base,<br>               java.lang.String toFind,<br>               int n)</pre>Returns the index of the nth occurrence of a substring in a String<br><br><b>Parameters:</b><br><code>base</code> - String being searched<br><code>toFind</code> - substring to be found<br><code>n</code> - which occurrence of toFind to return the index of<br><br><b>Returns:</b><br>returns the index of the nth occurrence of toFind in base</td>
 </tr>
 </table>
 
@@ -162,7 +162,7 @@ table {
   </tr>
 </thead>
 <tr>
-  <td><pre>java.lang.String intToString(int n)</pre>Returns an integer represented as a String<br><br><b>Parameters:</b><br><font class="monospace">n</font> - integer to be represented as a String<br><br><b>Returns:</b><br>returns a String object representing the specified integer</td>
+  <td><pre>java.lang.String intToString(int n)</pre>Returns an integer represented as a String<br><br><b>Parameters:</b><br><code>n</code> - integer to be represented as a String<br><br><b>Returns:</b><br>returns a String object representing the specified integer</td>
 </tr>
 </table>
 
@@ -174,7 +174,7 @@ table {
   </tr>
 </thead>
 <tr>
-  <td><pre>int length​(java.lang.String s)</pre>Returns the length of a String<br><br><b>Parameters:</b><br><font class="monospace">s</font> - a String<br><br><b>Returns:</b><br>returns the length of String s</td>
+  <td><pre>int length​(java.lang.String s)</pre>Returns the length of a String<br><br><b>Parameters:</b><br><code>s</code> - a String<br><br><b>Returns:</b><br>returns the length of String s</td>
 </tr>
 </table>
 
@@ -186,7 +186,7 @@ table {
   </tr>
 </thead>
 <tr>
-  <td><pre>int parseInt(java.lang.String s)</pre>Parses the String argument and returns its represented integer value<br><br><b>Parameters:</b><br><font class="monospace">s</font> - String to be parsed<br><br><b>Returns:</b><br>returns String s represented as an integer</td>
+  <td><pre>int parseInt(java.lang.String s)</pre>Parses the String argument and returns its represented integer value<br><br><b>Parameters:</b><br><code>s</code> - String to be parsed<br><br><b>Returns:</b><br>returns String s represented as an integer</td>
 </tr>
 </table>
 
@@ -198,7 +198,7 @@ table {
   </tr>
 </thead>
 <tr>
-  <td><pre>java.lang.String readFile(java.lang.String path)<br>                          throws java.io.IOException</pre>Reads file specified by a path and returns its contents as a String<br><br><b>Parameters:</b><br><font class="monospace">path</font> - String path of the file to be read<br><br><b>Returns:</b><br>returns the file contents of path as a String<br><br><b>Throws:</b><br><font class="monospace">java.io.IOException</font> - if file at path cannot be read or found</td>
+  <td><pre>java.lang.String readFile(java.lang.String path)<br>                          throws java.io.IOException</pre>Reads file specified by a path and returns its contents as a String<br><br><b>Parameters:</b><br><code>path</code> - String path of the file to be read<br><br><b>Returns:</b><br>returns the file contents of path as a String<br><br><b>Throws:</b><br><code>java.io.IOException</code> - if file at path cannot be read or found</td>
 </tr>
 </table>
 
@@ -210,7 +210,7 @@ table {
   </tr>
 </thead>
 <tr>
-  <td><pre>java.lang.String readLine​(java.lang.String path,<br>                          int index)<br>                          throws java.io.IOException</pre>Returns the line index of a file specified by a path<br><br><b>Parameters:</b><br><font class="monospace">path</font> - String path of the file to be read<br><font class="monospace">index</font> - integer line index to be read from the file specified by path<br><br><b>Returns:</b><br>returns the line specified by index as a String<br><br><b>Throws:</b><br><font class="monospace">java.io.IOException</font> - if file at path cannot be read or found</td>
+  <td><pre>java.lang.String readLine​(java.lang.String path,<br>                          int index)<br>                          throws java.io.IOException</pre>Returns the line index of a file specified by a path<br><br><b>Parameters:</b><br><code>path</code> - String path of the file to be read<br><code>index</code> - integer line index to be read from the file specified by path<br><br><b>Returns:</b><br>returns the line specified by index as a String<br><br><b>Throws:</b><br><code>java.io.IOException</code> - if file at path cannot be read or found</td>
 </tr>
 </table>
 
@@ -222,7 +222,7 @@ table {
   </tr>
 </thead>
 <tr>
-  <td><pre>int roundTo​(int n,<br>            int toRoundTo)</pre>Returns an integer rounded to the nearest multiple of another integer. If the integer is equidistant between two multiples, the lesser value is returned.<br><br><b>Parameters:</b><br><font class="monospace">n</font> - an integer<br><font class="monospace">toRoundTo</font> - the integer which n will be rounded to the nearest multiple of<br><br><b>Returns:</b><br>returns n rounded to the nearest multiple of toRoundTo</td>
+  <td><pre>int roundTo​(int n,<br>            int toRoundTo)</pre>Returns an integer rounded to the nearest multiple of another integer. If the integer is equidistant between two multiples, the lesser value is returned.<br><br><b>Parameters:</b><br><code>n</code> - an integer<br><code>toRoundTo</code> - the integer which n will be rounded to the nearest multiple of<br><br><b>Returns:</b><br>returns n rounded to the nearest multiple of toRoundTo</td>
 </tr>
 </table>
 
@@ -234,7 +234,7 @@ table {
   </tr>
 </thead>
 <tr>
-  <td><pre>boolean show(java.lang.String s,<br>             int numLines)</pre>Prints a specified number of lines of a String and returns true when successfully completed; returns false if the specified number of lines is greater than the number of lines in the String<br><br><b>Parameters:</b><br><font class="monospace">s</font> - String part or all of which will be printed<br><font class="monospace">numLines</font> - integer number of lines of s to print<br><br><b>Returns:</b><br>returns true upon successfully printing all numLines number of lines; returns false if numLines is greater than the number of lines in s</td>
+  <td><pre>boolean show(java.lang.String s,<br>             int numLines)</pre>Prints a specified number of lines of a String and returns true when successfully completed; returns false if the specified number of lines is greater than the number of lines in the String<br><br><b>Parameters:</b><br><code>s</code> - String part or all of which will be printed<br><code>numLines</code> - integer number of lines of s to print<br><br><b>Returns:</b><br>returns true upon successfully printing all numLines number of lines; returns false if numLines is greater than the number of lines in s</td>
 </tr>
 </table>
 
@@ -246,7 +246,7 @@ table {
   </tr>
 </thead>
 <tr>
-  <td><pre>int sign(int n)</pre>Returns -1, 0, or 1 based on the sign of an integer<br><br><b>Parameters:</b><br><font class="monospace">n</font> - an integer<br><br><b>Returns:</b><br>returns -1 if n is negative, 0 if n is 0, 1 if n is positive</td>
+  <td><pre>int sign(int n)</pre>Returns -1, 0, or 1 based on the sign of an integer<br><br><b>Parameters:</b><br><code>n</code> - an integer<br><br><b>Returns:</b><br>returns -1 if n is negative, 0 if n is 0, 1 if n is positive</td>
 </tr>
 </table>
 
@@ -258,7 +258,7 @@ table {
   </tr>
 </thead>
 <tr>
-  <td><pre>int square(int n)</pre>Returns the square of an integer<br><br><b>Parameters:</b><br><font class="monospace">n</font> - an integer<br><br><b>Returns:</b><br>returns the square of n</td>
+  <td><pre>int square(int n)</pre>Returns the square of an integer<br><br><b>Parameters:</b><br><code>n</code> - an integer<br><br><b>Returns:</b><br>returns the square of n</td>
 </tr>
 </table>
 
@@ -270,7 +270,7 @@ table {
   </tr>
 </thead>
 <tr>
-  <td><pre>boolean stringEquals(java.lang.String s1,<br>                     java.lang.String s2)</pre>Compares two Strings and returns true if they are equal, false otherwise<br><br><b>Parameters:</b><br><font class="monospace">s1</font> - first String to be compared<br><font class="monospace">s2</font> - second String to be compared<br><br><b>Returns:</b><br>returns true if s1 and s2 are equal, false otherwise</td>
+  <td><pre>boolean stringEquals(java.lang.String s1,<br>                     java.lang.String s2)</pre>Compares two Strings and returns true if they are equal, false otherwise<br><br><b>Parameters:</b><br><code>s1</code> - first String to be compared<br><code>s2</code> - second String to be compared<br><br><b>Returns:</b><br>returns true if s1 and s2 are equal, false otherwise</td>
 </tr>
 </table>
 
@@ -282,7 +282,7 @@ table {
   </tr>
 </thead>
 <tr>
-  <td><pre>java.lang.String substring(java.lang.String base,<br>                           int beginIndex,<br>                           int endIndex)</pre>Returns the substring of a String from one specified index until the second specified index.<br><br><b>Parameters:</b><br><font class="monospace">base</font> - a String<br><font class="monospace">beginIndex</font> - integer start index of substring<br><font class="monospace">endIndex</font> - integer end index of substring, not inclusive<br><br><b>Returns:</b><br>returns the substring from beginIndex until endIndex of base</td>
+  <td><pre>java.lang.String substring(java.lang.String base,<br>                           int beginIndex,<br>                           int endIndex)</pre>Returns the substring of a String from one specified index until the second specified index.<br><br><b>Parameters:</b><br><code>base</code> - a String<br><code>beginIndex</code> - integer start index of substring<br><code>endIndex</code> - integer end index of substring, not inclusive<br><br><b>Returns:</b><br>returns the substring from beginIndex until endIndex of base</td>
 </tr>
 </table>
 
@@ -294,6 +294,6 @@ table {
   </tr>
 </thead>
 <tr>
-  <td><pre>java.lang.String trim(java.lang.String s)</pre>Returns a copy of a string with leading and trailing white space removed<br><br><b>Parameters:</b><br><font class="monospace">s</font> - String to be trimmed<br><br><b>Returns:</b><br>returns a copy of s with leading and trailing white space removed</td>
+  <td><pre>java.lang.String trim(java.lang.String s)</pre>Returns a copy of a string with leading and trailing white space removed<br><br><b>Parameters:</b><br><code>s</code> - String to be trimmed<br><br><b>Returns:</b><br>returns a copy of s with leading and trailing white space removed</td>
 </tr>
 </table>
