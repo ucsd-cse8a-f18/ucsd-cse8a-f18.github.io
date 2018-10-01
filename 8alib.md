@@ -18,10 +18,10 @@ title: "Documentation for 8ALib.java"
 <td class="monospace">int</td><td class="monospace"><a href="#count">count</a><br>(String base,<br>String toFind)</td><td>Takes two Strings and produces the number of times the second appears in the first.</td>
 </tr>
 <tr>
-<td class="monospace">long</td><td class="monospace"><a href="#dateMonthDayYearTime">dateMonthDayYearTime</a><br>(String date)</td><td>Returns the String formatted date as a long</td>
+<td class="monospace">long</td><td class="monospace"><a href="#dateMonthDayYearTime">dateMonthDayYearTime</a><br>(String date)</td><td>Returns the String formatted date as a long indicating how many milliseconds have passed since January 1, 1970, 00:00:00 GMT.</td>
 </tr>
 <tr>
-<td class="monospace">long</td><td class="monospace"><a href="#dateYearMonthDayTime">dateYearMonthDayTime</a><br>(String date)</td><td>Returns the String formatted date as a long</td>
+<td class="monospace">long</td><td class="monospace"><a href="#dateYearMonthDayTime">dateYearMonthDayTime</a><br>(String date)</td><td>Returns the String formatted date as a long indicating how many milliseconds have passed since January 1, 1970, 00:00:00 GMT.</td>
 </tr>
 <tr>
 <td class="monospace">int</td><td class="monospace"><a href="#indexOf">indexOf</a><br>(String base,<br>String toFind)</td><td>Takes two Strings  and produces the index of the first time the second appears in the first, or -1 otherwise.</td>
@@ -30,7 +30,7 @@ title: "Documentation for 8ALib.java"
 <td class="monospace">int</td><td class="monospace"><a href="#indexOfNth">indexOfNth</a><br>(String base,<br>String toFind,<br>int n)</td><td>Takes a String and a String to find and produces the index of the nth occurrence of toFind within base (the first occurrence corresponds to n = 0). Produces -1 if toFind appears less than (n - 1) times.</td>
 </tr>
 <tr>
-<td class="monospace">String</td><td class="monospace"><a href="#intToString">intToString</a><br>(int n)</td><td>Returns an integer represented as a String</td>
+<td class="monospace">String</td><td class="monospace"><a href="#intToString">intToString</a><br>(int n)</td><td>Takes an integer and returns a String containing the decimal digits of the integer.</td>
 </tr>
 <tr>
 <td class="monospace">int</td><td class="monospace"><a href="#length">length</a><br>(String s)</td><td>Takes a String and produces its length.</td>
@@ -39,7 +39,7 @@ title: "Documentation for 8ALib.java"
 <td class="monospace">int</td><td class="monospace"><a href="#parseInt">parseInt</a><br>(String s)</td><td>Takes a String and interprets its characters as a signed decimal integer or causes an error if the characters do not form a decimal number.</td>
 </tr>
 <tr>
-<td class="monospace">String</td><td class="monospace"><a href="readFile">readFile</a><br>(String path)</td><td>Reads file specified by a path and returns its contents as a String</td>
+<td class="monospace">String</td><td class="monospace"><a href="readFile">readFile</a><br>(String path)</td><td>Takes a String representing a path to a file and returns a String of the contents of the file.</td>
 </tr>
 <tr>
 <td class="monospace">String</td><td class="monospace"><a href="#readLine">readLine</a><br>(String path,<br>int index)</td><td>Takes a String representing a path to a file and a 0-based line index and produces a String containing the characters from that line in that file.</td>
@@ -48,7 +48,7 @@ title: "Documentation for 8ALib.java"
 <td class="monospace">int</td><td class="monospace"><a href="#roundTo">roundTo</a><br>(int n,<br>int toRoundTo)</td><td>Takes an int and produces that number rounded to the nearest multiple of toRoundTo.</td>
 </tr>
 <tr>
-<td class="monospace">boolean</td><td class="monospace"><a href="#show">show</a><br>(String s,<br>int numLines)</td><td>Prints a specified number of lines of a String and returns true when successfully completed;<br>returns false if the specified number of lines is greater than the number of lines in the String</td>
+<td class="monospace">boolean</td><td class="monospace"><a href="#show">show</a><br>(String s,<br>int numLines)</td><td>Takes a String and a number of lines to display, prints that many lines of the string (or the whole string if it has fewer lines). Returns true if numLines were printed, false if fewer were printed.</td>
 </tr>
 <tr>
 <td class="monospace">int</td><td class="monospace"><a href="#sign">sign</a><br>(int n)</td><td>Takes an integer and produces 1 if the integer is positive, -1 if the integer is negative, and produces 0 if the integer is zero.</td>
@@ -57,13 +57,13 @@ title: "Documentation for 8ALib.java"
 <td class="monospace">int</td><td class="monospace"><a href="#square">square</a><br>(int n)</td><td>Takes a number and returns the square of the number.</td>
 </tr>
 <tr>
-<td class="monospace">boolean</td><td class="monospace"><a href="stringEquals">stringEquals</a><br>(String s1,<br>String s2)</td><td>Compares two Strings and returns true if they are equal, false otherwise</td>
+<td class="monospace">boolean</td><td class="monospace"><a href="stringEquals">stringEquals</a><br>(String s1,<br>String s2)</td><td>Takes two Strings and returns true if they contain the same characters in the same order, false otherwise.</td>
 </tr>
 <tr>
 <td class="monospace">String</td><td class="monospace"><a href="#substring">substring</a><br>(String base,<br>int beginIndex,<br>int endIndex)</td><td>Takes a String, a start index, and end index. Produces a String containing the characters from start (inclusive) to end (exclusive). Causes an error if indices are out of range or in the wrong order.</td>
 </tr>
 <tr>
-<td class="monospace">String</td><td class="monospace"><a href="#trim">trim</a><br>(String base s)</td><td>Returns a copy of a string with leading and trailing white space removed</td>
+<td class="monospace">String</td><td class="monospace"><a href="#trim">trim</a><br>(String base s)</td><td>Takes a String and produces a String with all whitespace characters (spaces, tabs, and newlines) removed from the beginning and end.</td>
 </tr>
 </table>
 
@@ -104,7 +104,7 @@ title: "Documentation for 8ALib.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>long dateMonthDayYearTime(String date)</pre>Returns the String formatted date as a long<br><br><b>Parameters:</b><br><code>date</code> - String in month, day, year, time format "MMMMM dd yyyy hh:mm z"<br><br><b>Returns:</b><br>returns how many milliseconds have passed since January 1, 1970, 00:00:00 GMT</td>
+  <td><pre>long dateMonthDayYearTime(String date)</pre>Returns the String formatted date as a long indicating how many milliseconds have passed since January 1, 1970, 00:00:00 GMT<br><br><b>Parameters:</b><br><code>date</code> - String in month, day, year, time format "MMMMM dd yyyy hh:mm z"<br><br><b>Returns:</b><br>returns how many milliseconds have passed since January 1, 1970, 00:00:00 GMT</td>
 </tr>
 </table>
 
@@ -116,7 +116,7 @@ title: "Documentation for 8ALib.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>int dateYearMonthDayTime(String s)</pre>Returns the String formatted date as a long<br><br><b>Parameters:</b><br><code>date</code> - a String in year, month, day, time format "yyyy-MM-dd'T'HH:mm:ss"<br><br><b>Returns:</b><br>returns how many milliseconds have passed since January 1, 1970, 00:00:00 GMT</td>
+  <td><pre>int dateYearMonthDayTime(String s)</pre>Returns the String formatted date as a long indicating how many milliseconds have passed since January 1, 1970, 00:00:00 GMT<br><br><b>Parameters:</b><br><code>date</code> - a String in year, month, day, time format "yyyy-MM-dd'T'HH:mm:ss"<br><br><b>Returns:</b><br>returns how many milliseconds have passed since January 1, 1970, 00:00:00 GMT</td>
 </tr>
 </table>
 
@@ -152,7 +152,7 @@ title: "Documentation for 8ALib.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>String intToString(int n)</pre>Returns an integer represented as a String<br><br><b>Parameters:</b><br><code>n</code> - integer to be represented as a String<br><br><b>Returns:</b><br>returns a String object representing the specified integer</td>
+  <td><pre>String intToString(int n)</pre>Takes an integer and returns a String containing the decimal digits of the integer.<br><br><b>Parameters:</b><br><code>n</code> - integer to be represented as a String<br><br><b>Returns:</b><br>returns a String object representing the specified integer</td>
 </tr>
 </table>
 
@@ -188,7 +188,7 @@ title: "Documentation for 8ALib.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>String readFile(String path)<br>                throws java.io.IOException</pre>Reads file specified by a path and returns its contents as a String<br><br><b>Parameters:</b><br><code>path</code> - String path of the file to be read<br><br><b>Returns:</b><br>returns the file contents of path as a String<br><br><b>Throws:</b><br><code>java.io.IOException</code> - if file at path cannot be read or found</td>
+  <td><pre>String readFile(String path)<br>                throws java.io.IOException</pre>Takes a String representing a path to a file and returns a String of the contents of the file.<br><br><b>Parameters:</b><br><code>path</code> - String path of the file to be read<br><br><b>Returns:</b><br>returns the file contents of path as a String<br><br><b>Throws:</b><br><code>java.io.IOException</code> - if file at path cannot be read or found</td>
 </tr>
 </table>
 
@@ -224,7 +224,7 @@ title: "Documentation for 8ALib.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>boolean show(String s,<br>             int numLines)</pre>Prints a specified number of lines of a String and returns true when successfully completed; returns false if the specified number of lines is greater than the number of lines in the String<br><br><b>Parameters:</b><br><code>s</code> - String part or all of which will be printed<br><code>numLines</code> - integer number of lines of s to print<br><br><b>Returns:</b><br>returns true upon successfully printing all numLines number of lines; returns false if numLines is greater than the number of lines in s</td>
+  <td><pre>boolean show(String s,<br>             int numLines)</pre>Takes a String and a number of lines to display, prints that many lines of the string (or the whole string if it has fewer lines). Returns true if numLines were printed, false if fewer were printed.<br><br><b>Parameters:</b><br><code>s</code> - String part or all of which will be printed<br><code>numLines</code> - integer number of lines of s to print<br><br><b>Returns:</b><br>returns true upon successfully printing all numLines number of lines; returns false if numLines is greater than the number of lines in s</td>
 </tr>
 </table>
 
@@ -260,7 +260,7 @@ title: "Documentation for 8ALib.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>boolean stringEquals(String s1,<br>                     String s2)</pre>Compares two Strings and returns true if they are equal, false otherwise<br><br><b>Parameters:</b><br><code>s1</code> - first String to be compared<br><code>s2</code> - second String to be compared<br><br><b>Returns:</b><br>returns true if s1 and s2 are equal, false otherwise</td>
+  <td><pre>boolean stringEquals(String s1,<br>                     String s2)</pre>Takes two Strings and returns true if they contain the same characters in the same order, false otherwise.<br><br><b>Parameters:</b><br><code>s1</code> - first String to be compared<br><code>s2</code> - second String to be compared<br><br><b>Returns:</b><br>returns true if s1 and s2 are equal, false otherwise</td>
 </tr>
 </table>
 
@@ -284,6 +284,6 @@ title: "Documentation for 8ALib.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>String trim(String s)</pre>Returns a copy of a string with leading and trailing white space removed<br><br><b>Parameters:</b><br><code>s</code> - String to be trimmed<br><br><b>Returns:</b><br>returns a copy of s with leading and trailing white space removed</td>
+  <td><pre>String trim(String s)</pre>Takes a String and produces a String with all whitespace characters (spaces, tabs, and newlines) removed from the beginning and end.<br><br><b>Parameters:</b><br><code>s</code> - String to be trimmed<br><br><b>Returns:</b><br>returns a copy of s with leading and trailing white space removed</td>
 </tr>
 </table>
