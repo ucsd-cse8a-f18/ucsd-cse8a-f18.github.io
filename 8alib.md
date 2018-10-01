@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "8ALib.java documentation"
+title: "Documentation for 8ALib.java"
 ---
-# PA1 8ALib.java documentation for Java methods
+# Documentation for 8ALib.java
 
 ### Method Summary
 <table class="table table-striped">
