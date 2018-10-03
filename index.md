@@ -70,10 +70,10 @@ There are two kinds of discussion section: in Supplemental Instruction you will 
   </tr>
 </thead>
 <tr>
-  <td></td><td> S 5pm </td><td> Teaching + Learning Commons 1504 </td><td> James </td> <td> Supplemental Instruction</td>
+  <td></td><td> Su 5pm </td><td> Teaching + Learning Commons 1504 </td><td> James </td> <td> Supplemental Instruction</td>
 </tr>
 <tr>
-  <td></td><td> S 6pm </td><td> Teaching + Learning Commons 1504 </td><td> Lana </td> <td> Supplemental Instruction</td>
+  <td></td><td> Su 6pm </td><td> Teaching + Learning Commons 1504 </td><td> Lana </td> <td> Supplemental Instruction</td>
 </tr>
 <tr>
   <td>A01 </td><td> M 5pm </td><td> PCYNH122 </td><td> Bethany </td><td> Supplemental Instruction</td>
