@@ -27,7 +27,7 @@ title: "Documentation for 8ALib.java"
 <td class="monospace">int</td><td class="monospace"><a href="#indexOf">indexOf</a><br>(String base,<br>String toFind)</td><td>Takes two Strings  and produces the index of the first time the second appears in the first, or -1 otherwise.</td>
 </tr>
 <tr>
-<td class="monospace">int</td><td class="monospace"><a href="#indexOfNth">indexOfNth</a><br>(String base,<br>String toFind,<br>int n)</td><td>Takes a String and a String to find and produces the index of the nth occurrence of toFind within base (the first occurrence corresponds to n = 0). Produces -1 if toFind appears less than (n - 1) times.</td>
+<td class="monospace">int</td><td class="monospace"><a href="#indexOfNth">indexOfNth</a><br>(String base,<br>String toFind,<br>int n)</td><td>Takes a String and a String to find and produces the index of the nth occurrence of toFind within base (the first occurrence corresponds to n = 0). Produces -1 if toFind appears less than (n + 1) times.</td>
 </tr>
 <tr>
 <td class="monospace">String</td><td class="monospace"><a href="#intToString">intToString</a><br>(int n)</td><td>Takes an integer and returns a String containing the decimal digits of the integer.</td>
@@ -140,7 +140,7 @@ title: "Documentation for 8ALib.java"
   </tr>
 </thead>
 |<tr>
-  <td><pre>int indexOf​Nth(String base,<br>               String toFind,<br>               int n)</pre>Takes a String and a String to find and produces the index of the nth occurrence of toFind within base (the first occurrence corresponds to n = 0). Produces -1 if toFind appears less than (n - 1) times.<br><br><b>Parameters:</b><br><code>base</code> - String being searched<br><code>toFind</code> - substring to be found<br><code>n</code> - which occurrence of toFind to return the index of<br><br><b>Returns:</b><br>Returns the index of the nth occurrence of <code>toFind</code> within <code>base</code>.<br>Returns -1 if <code>toFind</code> appears less than (<code>n</code> - 1) times.</td>
+  <td><pre>int indexOf​Nth(String base,<br>               String toFind,<br>               int n)</pre>Takes a String and a String to find and produces the index of the nth occurrence of toFind within base (the first occurrence corresponds to n = 0). Produces -1 if toFind appears less than (n + 1) times.<br><br><b>Parameters:</b><br><code>base</code> - String being searched<br><code>toFind</code> - substring to be found<br><code>n</code> - which occurrence of toFind to return the index of<br><br><b>Returns:</b><br>Returns the index of the nth occurrence of <code>toFind</code> within <code>base</code>.<br>Returns -1 if <code>toFind</code> appears less than (<code>n</code> - 1) times.</td>
 </tr>
 </table>
 
