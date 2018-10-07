@@ -45,7 +45,7 @@ title: "Documentation for 8ALib.java"
 <td class="monospace">String</td><td class="monospace"><a href="#readLine">readLine</a><br>(String path,<br>int index)</td><td>Takes a String representing a path to a file and a 0-based line index and produces a String containing the characters from that line in that file.</td>
 </tr>
 <tr>
-<td class="monospace">int</td><td class="monospace"><a href="#roundTo">roundTo</a><br>(int n,<br>int toRoundTo)</td><td>Takes an int and produces that number rounded to the nearest multiple of toRoundTo.</td>
+<td class="monospace">int</td><td class="monospace"><a href="#roundTo">roundTo</a><br>(int n,<br>int toRoundTo)</td><td>Takes two ints and produces the first number rounded to the nearest multiple of the second</td>
 </tr>
 <tr>
 <td class="monospace">boolean</td><td class="monospace"><a href="#show">show</a><br>(String s,<br>int numLines)</td><td>Takes a String and a number of lines to display, prints that many lines of the string (or the whole string if it has fewer lines). Returns true if numLines were printed, false if fewer were printed.</td>
@@ -60,7 +60,7 @@ title: "Documentation for 8ALib.java"
 <td class="monospace">boolean</td><td class="monospace"><a href="stringEquals">stringEquals</a><br>(String s1,<br>String s2)</td><td>Takes two Strings and returns true if they contain the same characters in the same order, false otherwise.</td>
 </tr>
 <tr>
-<td class="monospace">String</td><td class="monospace"><a href="#substring">substring</a><br>(String base,<br>int beginIndex,<br>int endIndex)</td><td>Takes a String, a start index, and end index. Produces a String containing the characters from start (inclusive) to end (exclusive). Causes an error if indices are out of range or in the wrong order.</td>
+<td class="monospace">String</td><td class="monospace"><a href="#substring">substring</a><br>(String base,<br>int beginIndex,<br>int endIndex)</td><td>Takes a String, a start index, and end index. Produces a String containing the characters of the input String from start (inclusive) to end (exclusive). Causes an error if indices are out of range or in the wrong order.</td>
 </tr>
 <tr>
 <td class="monospace">String</td><td class="monospace"><a href="#trim">trim</a><br>(String base s)</td><td>Takes a String and produces a String with all whitespace characters (spaces, tabs, and newlines) removed from the beginning and end.</td>
@@ -212,7 +212,7 @@ title: "Documentation for 8ALib.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>int roundTo​(int n,<br>            int toRoundTo)</pre>Takes an int and produces that number rounded to the nearest multiple of toRoundTo.<br><br><b>Parameters:</b><br><code>n</code> - an integer<br><code>toRoundTo</code> - the integer which n will be rounded to the nearest multiple of<br><br><b>Returns:</b><br>Returns <code>n</code> rounded to the nearest multiple of <code>toRoundTo</code>.</td>
+  <td><pre>int roundTo​(int n,<br>            int toRoundTo)</pre>Takes two ints and produces the first number rounded to the nearest multiple of the second<br><br><b>Parameters:</b><br><code>n</code> - an integer<br><code>toRoundTo</code> - the integer which n will be rounded to the nearest multiple of<br><br><b>Returns:</b><br>Returns <code>n</code> rounded to the nearest multiple of <code>toRoundTo</code>.</td>
 </tr>
 </table>
 
@@ -272,7 +272,7 @@ title: "Documentation for 8ALib.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>String substring(String base,<br>                 int beginIndex,<br>                 int endIndex)</pre>Takes a String, a start index, and end index. Produces a String containing the characters from start (inclusive) to end (exclusive). Causes an error if indices are out of range or in the wrong order.<br><br><b>Parameters:</b><br><code>base</code> - a String<br><code>beginIndex</code> - integer start index of substring<br><code>endIndex</code> - integer end index of substring, not inclusive<br><br><b>Returns:</b><br>Returns a String containing the characters from <code>beginIndex</code> (inclusive) to <code>endIndex</code> (exclusive).</td>
+  <td><pre>String substring(String base,<br>                 int beginIndex,<br>                 int endIndex)</pre>Takes a String, a start index, and end index. Produces a String containing the characters of the input String from start (inclusive) to end (exclusive). Causes an error if indices are out of range or in the wrong order.<br><br><b>Parameters:</b><br><code>base</code> - a String<br><code>beginIndex</code> - integer start index of substring<br><code>endIndex</code> - integer end index of substring, not inclusive<br><br><b>Returns:</b><br>Returns a String containing the characters from <code>beginIndex</code> (inclusive) to <code>endIndex</code> (exclusive).</td>
 </tr>
 </table>
 
