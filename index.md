@@ -212,7 +212,7 @@ policy on missed exams.
 There are 40 staff including 4 Supplemental Instruction leaders to help with your learning.
 You can find their names and pictures on <a href="https://piazza.com/ucsd/fall2018/cse8a/staff" target="_blank">Piazza Staff page</a>. Their lab hour schedule is below. 
 
-<iframe style="border: none; border-top: 1px solid gray border-spacing: 2px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSEpVCIZbTA-wmlchM2BRYR_fCeCKu8cqFY9kYd3K5tBJLSVuF0sFFT_DwoQ0Ysxxi7o5RSFlpKVoV7/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;chrome=false" width="100%" height="800px"></iframe>
+<iframe style="border: none; border-top: 1px solid gray border-spacing: 2px" src="https://calendar.google.com/calendar/embed?src=ucsd.edu_rrm01smmirpdvqjkcp5h06tj28%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
 <a id="pa"></a>
