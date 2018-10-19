@@ -15,6 +15,9 @@ title: "Documentation for 8ALib.java"
 <td class="monospace">String</td><td class="monospace"><a href="#concat">concat</a><br>(String left,<br>String right)</td><td>Takes two Strings and produces a new String containing the characters of the first followed by the characters of the second.</td>
 </tr>
 <tr>
+<td class="monospace">double</td><td class="monospace"><a href="#cos">cos</a><br>(double n)</td><td>Takes a double and returns the cosine of the double value.</td>
+</tr>
+<tr>
 <td class="monospace">int</td><td class="monospace"><a href="#count">count</a><br>(String base,<br>String toFind)</td><td>Takes two Strings and produces the number of times the second appears in the first.</td>
 </tr>
 <tr>
@@ -24,10 +27,16 @@ title: "Documentation for 8ALib.java"
 <td class="monospace">long</td><td class="monospace"><a href="#dateYearMonthDayTime">dateYearMonthDayTime</a><br>(String date)</td><td>Returns the String formatted date as a long indicating how many milliseconds have passed since January 1, 1970, 00:00:00 GMT.</td>
 </tr>
 <tr>
+<td class="monospace">String</td><td class="monospace"><a href="#doubleToString">doubleToString</a><br>(double d)</td><td>Returns the String representation of the double input.</td>
+</tr>
+<tr>
 <td class="monospace">int</td><td class="monospace"><a href="#indexOf">indexOf</a><br>(String base,<br>String toFind)</td><td>Takes two Strings  and produces the index of the first time the second appears in the first, or -1 otherwise.</td>
 </tr>
 <tr>
 <td class="monospace">int</td><td class="monospace"><a href="#indexOfNth">indexOfNth</a><br>(String base,<br>String toFind,<br>int n)</td><td>Takes a String and a String to find and produces the index of the nth occurrence of toFind within base (the first occurrence corresponds to n = 0). Produces -1 if toFind appears less than (n + 1) times.</td>
+</tr>
+<tr>
+<td class="monospace">double</td><td class="monospace"><a href="#intToDouble">intToDouble</a><br>(int n)</td><td>Takes an integer and returns a double-valued result of the integer.</td>
 </tr>
 <tr>
 <td class="monospace">String</td><td class="monospace"><a href="#intToString">intToString</a><br>(int n)</td><td>Takes an integer and returns a String containing the decimal digits of the integer.</td>
@@ -36,7 +45,16 @@ title: "Documentation for 8ALib.java"
 <td class="monospace">int</td><td class="monospace"><a href="#length">length</a><br>(String s)</td><td>Takes a String and produces its length.</td>
 </tr>
 <tr>
+<td class="monospace">double</td><td class="monospace"><a href="#parseDouble">parseDouble</a><br>(String s)</td><td>Takes a string with characters in double format—including with a decimal point and/or in scientific notation—and produces an approximation of that number. Results in an error if the string isn't in double format.</td>
+</tr>
+<tr>
 <td class="monospace">int</td><td class="monospace"><a href="#parseInt">parseInt</a><br>(String s)</td><td>Takes a String and interprets its characters as a signed decimal integer or causes an error if the characters do not form a decimal number.</td>
+</tr>
+<tr>
+<td class="monospace">long</td><td class="monospace"><a href="#parseLong">parseLong</a><br>(String s)</td><td>Takes a String an parses it as a signed decimal long or causes an error if the characters do not form a long.</td>
+</tr>
+<tr>
+<td class="monospace">double</td><td class="monospace"><a href="#pow">pow</a><br>(double base,<br>double expt)</td><td>Takes a double as a base number and another double as the exponent and calculates the base to the power of the exponent in terms of a double.</td>
 </tr>
 <tr>
 <td class="monospace">String</td><td class="monospace"><a href="readFile">readFile</a><br>(String path)</td><td>Takes a String representing a path to a file and returns a String of the contents of the file.</td>
@@ -54,6 +72,12 @@ title: "Documentation for 8ALib.java"
 <td class="monospace">int</td><td class="monospace"><a href="#sign">sign</a><br>(int n)</td><td>Takes an integer and produces 1 if the integer is positive, -1 if the integer is negative, and produces 0 if the integer is zero.</td>
 </tr>
 <tr>
+<td class="monospace">double</td><td class="monospace"><a href="#sin">sin</a><br>(double n)</td><td>Takes a double and returns the sine of the double value.</td>
+</tr>
+<tr>
+<td class="monospace">double</td><td class="monospace"><a href="#sqrt">sqrt</a><br>(double n)</td><td>Takes a double and returns the square root of the double value.</td>
+</tr>
+<tr>
 <td class="monospace">int</td><td class="monospace"><a href="#square">square</a><br>(int n)</td><td>Takes a number and returns the square of the number.</td>
 </tr>
 <tr>
@@ -61,6 +85,9 @@ title: "Documentation for 8ALib.java"
 </tr>
 <tr>
 <td class="monospace">String</td><td class="monospace"><a href="#substring">substring</a><br>(String base,<br>int beginIndex,<br>int endIndex)</td><td>Takes a String, a start index, and end index. Produces a String containing the characters of the input String from start (inclusive) to end (exclusive). Causes an error if indices are out of range or in the wrong order.</td>
+</tr>
+<tr>
+<td class="monospace">double</td><td class="monospace"><a href="#tan">tan</a><br>(double n)</td><td>Takes a double and returns the trigonometric tangent of the double value.</td>
 </tr>
 <tr>
 <td class="monospace">String</td><td class="monospace"><a href="#trim">trim</a><br>(String base s)</td><td>Takes a String and produces a String with all whitespace characters (spaces, tabs, and newlines) removed from the beginning and end.</td>
@@ -81,6 +108,18 @@ title: "Documentation for 8ALib.java"
 </thead>
 <tr>
   <td><pre>String concat​(String left,<br>              String right)</pre>Takes two Strings and produces a new String containing the characters of the first followed by the characters of the second.<br><br><b>Parameters:</b><br><code>left</code> - first string in concatenation<br><code>right</code> - second string in concatenation<br><br><b>Returns:</b><br>Returns a new String containing the characters of <code>left</code> followed by the characters of <code>right</code>.</td>
+</tr>
+</table>
+
+<a id="cos"></a>
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>cos</th>
+  </tr>
+</thead>
+<tr>
+  <td><pre>double cos(double n)</pre>Takes a double and returns the cosine of the double value.<br><br><b>Parameters:</b><br><code>n</code> - a double<br><br><b>Returns:</b><br>Returns the cosine value as a double based off of the input double.</td>
 </tr>
 </table>
 
@@ -116,7 +155,19 @@ title: "Documentation for 8ALib.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>int dateYearMonthDayTime(String s)</pre>Returns the String formatted date as a long indicating how many milliseconds have passed since January 1, 1970, 00:00:00 GMT<br><br><b>Parameters:</b><br><code>date</code> - a String in year, month, day, time format "yyyy-MM-dd'T'HH:mm:ss"<br><br><b>Returns:</b><br>returns how many milliseconds have passed since January 1, 1970, 00:00:00 GMT</td>
+  <td><pre>int dateYearMonthDayTime(String s)</pre>Returns the String formatted date as a long indicating how many milliseconds have passed since January 1, 1970, 00:00:00 GMT<br><br><b>Parameters:</b><br><code>date</code> - a String in year, month, day, time format "yyyy-MM-dd'T'HH:mm:ss"<br><br><b>Returns:</b><br>Returns how many milliseconds have passed since January 1, 1970, 00:00:00 GMT</td>
+</tr>
+</table>
+
+<a id="doubleToString"></a>
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>doubleToString</th>
+  </tr>
+</thead>
+<tr>
+  <td><pre>String doubleToString(double d)</pre>Returns the String representation of the double input.<br><br><b>Parameters:</b><br><code>d</code> - double being represented as a String<br><br><b>Returns:</b><br>Returns the String representation of the input double.</td>
 </tr>
 </table>
 
@@ -144,6 +195,18 @@ title: "Documentation for 8ALib.java"
 </tr>
 </table>
 
+<a id="intToDouble"></a>
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>intToDouble</th>
+  </tr>
+</thead>
+<tr>
+  <td><pre>double intToDouble(int n)</pre>Takes an integer and returns a double-valued result of the integer.<br><br><b>Parameters:</b><br><code>n</code> - integer to be represented as a double<br><br><b>Returns:</b><br>Returns <code>n</code> as a double.</td>
+</tr>
+</table>
+
 <a id="intToString"></a>
 <table class="table table-striped">
 <thead>
@@ -168,6 +231,18 @@ title: "Documentation for 8ALib.java"
 </tr>
 </table>
 
+<a id="parseDouble"></a>
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>parseDouble</th>
+  </tr>
+</thead>
+<tr>
+  <td><pre>double parseDouble(String s)</pre>Takes a string with characters in double format—including with a decimal point and/or in scientific notation—and produces an approximation of that number. Results in an error if the string isn't in double format.<br><br><b>Parameters:</b><br><code>s</code> - String to be parsed<br><br><b>Returns:</b><br>Returns <code>s</code> as a double.</td>
+</tr>
+</table>
+
 <a id="parseInt"></a>
 <table class="table table-striped">
 <thead>
@@ -177,6 +252,30 @@ title: "Documentation for 8ALib.java"
 </thead>
 <tr>
   <td><pre>int parseInt(String s)</pre>Takes a String and interprets its characters as a signed decimal integer or causes an error if the characters do not form a decimal number.<br><br><b>Parameters:</b><br><code>s</code> - String to be parsed<br><br><b>Returns:</b><br>Returns <code>s</code> as a signed decimal integer.</td>
+</tr>
+</table>
+
+<a id="parseLong"></a>
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>parseLong</th>
+  </tr>
+</thead>
+<tr>
+  <td><pre>long parseLong(String s)</pre>Takes a String an parses it as a signed decimal long or causes an error if the characters do not form a long.<br><br><b>Parameters:</b><br><code>s</code> - String to be parsed<br><br><b>Returns:</b><br>Returns <code>s</code> as a long.</td>
+</tr>
+</table>
+
+<a id="pow"></a>
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>pow</th>
+  </tr>
+</thead>
+<tr>
+  <td><pre>double pow(double base,<br>  double expt)</pre>Takes a double as a base number and another double as the exponent and calculates the base to the power of the exponent in terms of a double.<br><br><b>Parameters:</b><br><code>base</code> - a double as the base of the power operation<br><code>expt</code> - a double as the exponent of the power operation<br><br><b>Returns:</b><br>Returns the  base to the exponent power value as a double based off of the input double.</td>
 </tr>
 </table>
 
@@ -240,6 +339,30 @@ title: "Documentation for 8ALib.java"
 </tr>
 </table>
 
+<a id="sin"></a>
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>sin</th>
+  </tr>
+</thead>
+<tr>
+  <td><pre>double sin(double n)</pre>Takes a double and returns the sine of the double value.<br><br><b>Parameters:</b><br><code>n</code> - a double<br><br><b>Returns:</b><br>Returns the sine value as a double based off of the input double.</td>
+</tr>
+</table>
+
+<a id="sqrt"></a>
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>sqrt</th>
+  </tr>
+</thead>
+<tr>
+  <td><pre>double sqrt(double n)</pre>Takes a double and returns the square root of the double value.<br><br><b>Parameters:</b><br><code>n</code> - a double<br><br><b>Returns:</b><br>Returns the square root value as a double based off of the input double.</td>
+</tr>
+</table>
+
 <a id="square"></a>
 <table class="table table-striped">
 <thead>
@@ -273,6 +396,18 @@ title: "Documentation for 8ALib.java"
 </thead>
 <tr>
   <td><pre>String substring(String base,<br>                 int beginIndex,<br>                 int endIndex)</pre>Takes a String, a start index, and end index. Produces a String containing the characters of the input String from start (inclusive) to end (exclusive). Causes an error if indices are out of range or in the wrong order.<br><br><b>Parameters:</b><br><code>base</code> - a String<br><code>beginIndex</code> - integer start index of substring<br><code>endIndex</code> - integer end index of substring, not inclusive<br><br><b>Returns:</b><br>Returns a String containing the characters from <code>beginIndex</code> (inclusive) to <code>endIndex</code> (exclusive).</td>
+</tr>
+</table>
+
+<a id="tan"></a>
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>tan</th>
+  </tr>
+</thead>
+<tr>
+  <td><pre>double tan(double n)</pre>Takes a double and returns the trigonometric tangent of the double value.<br><br><b>Parameters:</b><br><code>n</code> - a double<br><br><b>Returns:</b><br>Returns the trigonometric tangent value as a double based off of the input double.</td>
 </tr>
 </table>
 
