@@ -48,7 +48,7 @@ title: "Documentation for 8ALib.java"
 <td class="monospace">String</td><td class="monospace"><a href="#doubleToString">doubleToString</a><br>(double d)</td><td>Returns the String representation of the double input.</td>
 </tr>
 <tr>
-<td class="monospace">String</td><td class="monospace"><a href="#filter">filter</a><br>(String csv,<br>RowFilter rowChecker)</td><td>Consumes a table as a String and a method <code>rowChecker</code> that returns a boolean in the format <code>r->rowChecker(r, ...)</code> and produces a new table as a String that has only the rows where <code>rowChecker</code> returned true.</td>
+<td class="monospace">String</td><td class="monospace"><a href="#filter">filter</a><br>(String csv,<br>RowFilter rowChecker)</td><td>Consumes a table as a String and a method <code>rowChecker</code> that returns a boolean in the format <code>r->rowChecker(r, ...)</code> and produces a new table as a String that has the header row from the original table followed by all and only the data rows from the original table where <code>rowChecker</code> returns true.</td>
 </tr>
 <tr>
 <td class="monospace">String</td><td class="monospace"><a href="#getRow">getRow</a><br>(String t,<br>int row)</td><td>Consumes a table as a String and an integer row index. Returns the row at the given row index as a String.</td>
@@ -323,7 +323,7 @@ title: "Documentation for 8ALib.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>String filter(String csv,<br>              RowFilter rowChecker)</pre>Consumes a table as a String and a method rowChecker that returns a boolean in the format <code>r->rowChecker(r, ...)</code> and produces a new table as a String that has only the rows where <code>rowChecker</code> returned true.<br><br><b>Parameters:</b><br><code>csv</code> - table to be filtered<br><code>rowChecker</code> - boolean method used to filter the table<br><br><b>Returns:</b><br>Returns a new table with rows filtered by <code>rowChecker</code></td>>
+  <td><pre>String filter(String csv,<br>              RowFilter rowChecker)</pre>Consumes a table as a String and a method rowChecker that returns a boolean in the format <code>r->rowChecker(r, ...)</code> and produces a new table as a String that has the header row from the original table followed by all and only the rows from the original table where <code>rowChecker</code> returns true.<br><br><b>Parameters:</b><br><code>csv</code> - table to be filtered<br><code>rowChecker</code> - boolean method used to filter the table<br><br><b>Returns:</b><br>Returns a new table with rows filtered by <code>rowChecker</code></td>>
 </tr>
 </table>
 
