@@ -755,7 +755,7 @@ title: "Documentation for 8ALib.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>int sumInt(String csv,           int col)</pre>Consumes a table as a String and a column index. Returns the sum of the data in that column, assuming all of the data can be parsed as an integer.<br><br><b>Parameters:</b><br><code>csv</code> - table of data<br><code>col</code> - column index to find the sum of<br><br><b>Returns:</b><br>Returns the sum of integer data in a column.</td>
+  <td><pre>int sumInt(String csv,<br>           int col)</pre>Consumes a table as a String and a column index. Returns the sum of the data in that column, assuming all of the data can be parsed as an integer.<br><br><b>Parameters:</b><br><code>csv</code> - table of data<br><code>col</code> - column index to find the sum of<br><br><b>Returns:</b><br>Returns the sum of integer data in a column.</td>
 </tr>
 </table>
 
