@@ -12,6 +12,12 @@ title: "Documentation for 8ALib.java"
   </tr>
 </thead>
 <tr>
+<td class="monospace">String</td><td class="monospace"><a href="#abridge">abridge</a><br>(String csv,<br>int numLines)</td><td>Consumes a table as a String and an integer number of lines. Returns the first specified number of rows (not including the header row) of the table as a String.</td>
+</tr>
+<tr>
+<td class="monospace">String</td><td class="monospace"><a href="#commafy">commafy</a><br>(String s)</td><td>Add comma at start and end of row of data.</td>
+</tr>
+<tr>
 <td class="monospace">String</td><td class="monospace"><a href="#concat">concat</a><br>(String left,<br>String right)</td><td>Takes two Strings and produces a new String containing the characters of the first followed by the characters of the second.</td>
 </tr>
 <tr>
@@ -21,19 +27,43 @@ title: "Documentation for 8ALib.java"
 <td class="monospace">int</td><td class="monospace"><a href="#count">count</a><br>(String base,<br>String toFind)</td><td>Takes two Strings and produces the number of times the second appears in the first.</td>
 </tr>
 <tr>
+<td class="monospace">String</td><td class="monospace"><a href="#dataAtColumn">dataAtColumn</a><br>(String dataRow,<br>int col)</td><td>Takes a comma separated String of data and a column index and outputs the data in the appropriate column.</td>
+</tr>
+<tr>
+<td class="monospace">String</td><td class="monospace"><a href="#dataAtProcColumn">dataAtProcColumn</a><br>(String dataProcRow,<br>int col)</td><td>Takes a comma separated String representing a row of data <b>which starts and ends with commas</b> and a column index and outputs the data in the appropriate column in this row.</td>
+</tr>
+<tr>
 <td class="monospace">long</td><td class="monospace"><a href="#dateMonthDayYearTime">dateMonthDayYearTime</a><br>(String date)</td><td>Returns the String formatted date as a long indicating how many milliseconds have passed since January 1, 1970, 00:00:00 GMT.</td>
 </tr>
 <tr>
 <td class="monospace">long</td><td class="monospace"><a href="#dateYearMonthDayTime">dateYearMonthDayTime</a><br>(String date)</td><td>Returns the String formatted date as a long indicating how many milliseconds have passed since January 1, 1970, 00:00:00 GMT.</td>
 </tr>
 <tr>
+<td class="monospace">double</td><td class="monospace"><a href="#doubleAtColumn">doubleAtColumn</a><br>(String dataRow,<br>int col)</td><td>Takes a comma separated String of data and a column index and outputs the data in the appropriate column as a double.</td>
+</tr>
+<tr>
+<td class="monospace">int</td><td class="monospace"><a href="#doubleToInt">doubleToInt</a><br>(double d)</td><td>Takes a double and returns the rounded down integer value of the double.</td>
+</tr>
+<tr>
 <td class="monospace">String</td><td class="monospace"><a href="#doubleToString">doubleToString</a><br>(double d)</td><td>Returns the String representation of the double input.</td>
+</tr>
+<tr>
+<td class="monospace">String</td><td class="monospace"><a href="#filter">filter</a><br>(String csv,<br>RowFilter rowChecker)</td><td>Consumes a table as a String and a method <code>rowChecker</code> that returns a boolean in the format <code>r->rowChecker(r, ...)</code> and produces a new table as a String that has only the rows where <code>rowChecker</code> returned true.</td>
+</tr>
+<tr>
+<td class="monospace">String</td><td class="monospace"><a href="#getRow">getRow</a><br>(String t,<br>int row)</td><td>Consumes a table as a String and an integer row index. Returns the row at the given row index as a String.</td>
+</tr>
+<tr>
+<td class="monospace">int</td><td class="monospace"><a href="#indexForColumn">indexForColumn</a><br>(String headerRow,<br>String colName)</td><td>Takes a String storing a header row of a data file and a String column name, and outputs the column index of the given column name.</td>
 </tr>
 <tr>
 <td class="monospace">int</td><td class="monospace"><a href="#indexOf">indexOf</a><br>(String base,<br>String toFind)</td><td>Takes two Strings  and produces the index of the first time the second appears in the first, or -1 otherwise.</td>
 </tr>
 <tr>
 <td class="monospace">int</td><td class="monospace"><a href="#indexOfNth">indexOfNth</a><br>(String base,<br>String toFind,<br>int n)</td><td>Takes a String and a String to find and produces the index of the nth occurrence of toFind within base (the first occurrence corresponds to n = 0). Produces -1 if toFind appears less than (n + 1) times.</td>
+</tr>
+<tr>
+<td class="monospace">int</td><td class="monospace"><a href="#intAtColumn">intAtColumn</a><br>(String dataRow,<br>int col)</td><td>Takes a comma separated String of data and a column index and outputs the data in the appropriate column as an integer.</td>
 </tr>
 <tr>
 <td class="monospace">double</td><td class="monospace"><a href="#intToDouble">intToDouble</a><br>(int n)</td><td>Takes an integer and returns a double-valued result of the integer.</td>
@@ -43,6 +73,42 @@ title: "Documentation for 8ALib.java"
 </tr>
 <tr>
 <td class="monospace">int</td><td class="monospace"><a href="#length">length</a><br>(String s)</td><td>Takes a String and produces its length.</td>
+</tr>
+<tr>
+<td class="monospace">String</td><td class="monospace"><a href="#longToString">longToString</a><br>(long l)</td><td>Returns the String representation of the long input.</td>
+</tr>
+<tr>
+<td class="monospace">double</td><td class="monospace"><a href="#maxDouble">maxDouble</a><br>(String csv,<br>int col)</td><td>Consumes a table as a String and a column index. Returns the maximum value of the data in that column, assuming all of the data can be parsed as doubles.</td>
+</tr>
+<tr>
+<td class="monospace">int</td><td class="monospace"><a href="#maxInt">maxInt</a><br>(String csv,<br>int col)</td><td>Consumes a table as a String and a column index. Returns the maximum value of the data in that column, assuming all of the data can be parsed as integers.</td>
+</tr>
+<tr>
+<td class="monospace">double</td><td class="monospace"><a href="#meanDouble">meanDouble</a><br>(String csv,<br>int col)</td><td>Consumes a table as a String and a column index. Returns the mean of the data in that column, assuming all of the data can be parsed as a double.</td>
+</tr>
+<tr>
+<td class="monospace">int</td><td class="monospace"><a href="#meanInt">meanInt</a><br>(String csv,<br>int col)</td><td>Consumes a table as a String and a column index. Returns the mean of the data in that column, assuming all of the data can be parsed as an integer.</td>
+</tr>
+<tr>
+<td class="monospace">double</td><td class="monospace"><a href="#medianDouble">medianDouble</a><br>(String csv,<br>int col)</td><td>Consumes a table as a String and a column index. Returns the median of the data in that column, assuming all of the data can be parsed as doubles.</td>
+</tr>
+<tr>
+<td class="monospace">int</td><td class="monospace"><a href="#medianInt">medianInt</a><br>(String csv,<br>int col)</td><td>Consumes a table as a String and a column index. Returns the median of the data in that column, assuming all of the data can be parsed as integers.</td>
+</tr>
+<tr>
+<td class="monospace">double</td><td class="monospace"><a href="#minDouble">minDouble</a><br>(String csv,<br>int col)</td><td>Consumes a table as a String and a column index. Returns the minimum of the data in that column, assuming all of the data can be parsed as doubles.</td>
+</tr>
+<tr>
+<td class="monospace">int</td><td class="monospace"><a href="#minInt">minInt</a><br>(String csv,<br>int col)</td><td>Consumes a table as a String and a column index. Returns the minimum of the data in that column, assuming all of the data can be parsed as integers.</td>
+</tr>
+<tr>
+<td class="monospace">String</td><td class="monospace"><a href="#newLinefy">newLinefy</a><br>(String t)</td><td>Add a new line at start and end of row of data.</td>
+</tr>
+<tr>
+<td class="monospace">int</td><td class="monospace"><a href="#numColumns">numColumns</a><br>(String header)</td><td>Takes a String storing header row of a data file and outputs the number of columns in this file.</td>
+</tr>
+<tr>
+<td class="monospace">int</td><td class="monospace"><a href="#numRows">numRows</a><br>(String csv)</td><td>Consumes a table as a String and produces the number of rows in it (including the header row).</td>
 </tr>
 <tr>
 <td class="monospace">double</td><td class="monospace"><a href="#parseDouble">parseDouble</a><br>(String s)</td><td>Takes a string with characters in double format—including with a decimal point and/or in scientific notation—and produces an approximation of that number. Results in an error if the string isn't in double format.</td>
@@ -87,6 +153,12 @@ title: "Documentation for 8ALib.java"
 <td class="monospace">String</td><td class="monospace"><a href="#substring">substring</a><br>(String base,<br>int beginIndex,<br>int endIndex)</td><td>Takes a String, a start index, and end index. Produces a String containing the characters of the input String from start (inclusive) to end (exclusive). Causes an error if indices are out of range or in the wrong order.</td>
 </tr>
 <tr>
+<td class="monospace">double</td><td class="monospace"><a href="#sumDouble">sumDouble</a><br>(String csv,<br>int col)</td><td>Consumes a table as a String and a column index. Returns the sum of the data in that column, assuming all of the data can be parsed as a double.</td>
+</tr>
+<tr>
+<td class="monospace">int</td><td class="monospace"><a href="#sumInt">sumInt</a><br>(String csv,<br>int col)</td><td>Consumes a table as a String and a column index. Returns the sum of the data in that column, assuming all of the data can be parsed as an integer.</td>
+</tr>
+<tr>
 <td class="monospace">double</td><td class="monospace"><a href="#tan">tan</a><br>(double n)</td><td>Takes a double and returns the trigonometric tangent of the double value.</td>
 </tr>
 <tr>
@@ -98,6 +170,30 @@ title: "Documentation for 8ALib.java"
 
 
 ### Method Detail
+
+<a id="abridge"></a>
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>abridge</th>
+  </tr>
+</thead>
+<tr>
+  <td><pre>String abridge(String csv,<br>               int numLines)</pre>Consumes a table as a String and an integer number of lines. Returns the first specified number of rows (not including the header row) of the table as a String.<br><br><b>Parameters:</b><br><code>csv</code> - table to be abridged<br><code>numLines</code> - number of rows to abridge the table to<br><br><b>Returns:</b><br>Returns the first <code>numLines</code> rows of <code>csv</code>.</td>
+</tr>
+</table>
+
+<a id="commafy"></a>
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>commafy</th>
+  </tr>
+</thead>
+<tr>
+  <td><pre>String commafy(String s)</pre>Add comma at start and end of row of data<br><br><b>Parameters:</b><br><code>s</code> - String to be commafied<br><br><b>Returns:</b><br>Returns <code>s</code> with a comma added to the start and end of it.</td>
+</tr>
+</table>
 
 <a id="concat"></a>
 <table class="table table-striped">
@@ -135,6 +231,30 @@ title: "Documentation for 8ALib.java"
 </tr>
 </table>
 
+<a id="dataAtColumn"></a>
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>dataAtColumn</th>
+  </tr>
+</thead>
+<tr>
+  <td><pre>String dataAtColumn(String dataRow,<br>                    int col)</pre>Takes a comma separated String of data and a column index and ouputs the data in the appropriate column.<br><br><b>Parameters:</b><br><code>dataRow</code> - String of a data row<br><code>col</code> - integer column index<br><br><b>Returns:</b><br>Returns the data as a String from a row at the given column index.</td>
+</tr>
+</table>
+
+<a id="dataAtProcColumn"></a>
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>dataAtProcColumn</th>
+  </tr>
+</thead>
+<tr>
+  <td><pre>String dataAtProcColumn(String dataProcRow,<br>                        int col)</pre>Takes a comma separated String representing a row of data <b>which starts and ends with commas</b> and a column index and ouputs the data in the appropriate column in this row.<br><br><b>Parameters:</b><br><code>dataProcRow</code> - String of a data row<br><code>col</code> - integer column index<br><br><b>Returns:</b><br>Returns the data as a String from a row at the given column index.</td>
+</tr>
+</table>
+
 <a id="dateMonthDayYearTime"></a>
 <table class="table table-striped">
 <thead>
@@ -159,6 +279,30 @@ title: "Documentation for 8ALib.java"
 </tr>
 </table>
 
+<a id="doubleAtColumn"></a>
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>doubleAtColumn</th>
+  </tr>
+</thead>
+<tr>
+  <td><pre>double doubleAtColumn(String dataRow,<br>                     int col)</pre>Takes a comma separated String of data and a column index and outputs the data in the appropriate column as a double.<br><br><b>Parameters:</b><br><code>dataRow</code> - a String row of data<br><code>col</code> - integer column index<br><br><b>Returns:</b><br>Returns the data as a double from a row at the given column index.</td>
+</tr>
+</table>
+
+<a id="doubleToInt"></a>
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>doubleToInt</th>
+  </tr>
+</thead>
+<tr>
+  <td><pre>int doubleToInt(double d)</pre>Takes a double and returns the rounded down integer value of the integer.<br><br><b>Parameters:</b><br><code>d</code> - double being represented as an integer<br><br><b>Returns:</b><br>Returns <code>d</code> as an integer</td>
+</tr>
+</table>
+
 <a id="doubleToString"></a>
 <table class="table table-striped">
 <thead>
@@ -168,6 +312,42 @@ title: "Documentation for 8ALib.java"
 </thead>
 <tr>
   <td><pre>String doubleToString(double d)</pre>Returns the String representation of the double input.<br><br><b>Parameters:</b><br><code>d</code> - double being represented as a String<br><br><b>Returns:</b><br>Returns the String representation of the input double.</td>
+</tr>
+</table>
+
+<a id="filter"></a>
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>filter</th>
+  </tr>
+</thead>
+<tr>
+  <td><pre>String filter(String csv,<br>              RowFilter rowChecker)</pre>Consumes a table as a String and a method rowChecker that returns a boolean in the format <code>r->rowChecker(r, ...)</code> and produces a new table as a String that has only the rows where <code>rowChecker</code> returned true.<br><br><b>Parameters:</b><br><code>csv</code> - table to be filtered<br><code>rowChecker</code> - boolean method used to filter the table<br><br><b>Returns:</b><br>Returns a new table with rows filtered by <code>rowChecker</code></td>>
+</tr>
+</table>
+
+<a id="getRow"></a>
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>getRow</th>
+  </tr>
+</thead>
+<tr>
+  <td><pre>String getRow(String t,<br>              int row)</pre>Consumes a table as a String and an integer row index. Returns the row at the given row index as a String.<br><br><b>Parameters:</b><br><code>t</code> - table of data as a String<br><code>row</code> - row index of row to be returned<br><br><b>Returns:</b><br>Returns the row at the specified index of the given table.</td>
+</tr>
+</table>
+
+<a id="indexForColumn"></a>
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>indexForColumn</th>
+  </tr>
+</thead>
+<tr>
+  <td><pre>int indexForColumn(String headerRow,<br>                  String colName)</pre>Takes a String storing a header row of a data file and a String column name, and outputs the column index of the given column name.<br><br><b>Parameters:</b><br><code>headerRow</code> - String header row<br><code>colName</code> - String column name<br><br><b>Returns:</b><br>Returns the column index of <code>colName</code></td>
 </tr>
 </table>
 
@@ -195,6 +375,18 @@ title: "Documentation for 8ALib.java"
 </tr>
 </table>
 
+<a id="intAtColumn"></a>
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>intAtColumn</th>
+  </tr>
+</thead>
+<tr>
+  <td><pre>int intAtColumn(String dataRow,<br>                int col)</pre>Takes a comma separated String of data and a column index and outputs the data in the appropriate column as an integer.<br><br><b>Parameters:</b><br><code>dataRow</code> - a String row of data<br><code>col</code> - integer column index<br><br><b>Returns:</b><br>Returns the data as an integer from a row at the given column index.</td>
+</tr>
+</table>
+
 <a id="intToDouble"></a>
 <table class="table table-striped">
 <thead>
@@ -215,7 +407,7 @@ title: "Documentation for 8ALib.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>String intToString(int n)</pre>Takes an integer and returns a String containing the decimal digits of the integer.<br><br><b>Parameters:</b><br><code>n</code> - integer to be represented as a String<br><br><b>Returns:</b><br>returns a String object representing the specified integer</td>
+  <td><pre>String intToString(int n)</pre>Takes an integer and returns a String containing the decimal digits of the integer.<br><br><b>Parameters:</b><br><code>n</code> - integer to be represented as a String<br><br><b>Returns:</b><br>Returns a String object representing the specified integer</td>
 </tr>
 </table>
 
@@ -227,7 +419,151 @@ title: "Documentation for 8ALib.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>int length​(String s)</pre>Takes a String and produces its length.<br><br><b>Parameters:</b><br><code>s</code> - a String<br><br><b>Returns:</b><br>Returns the length of <code>s</code>.</td>
+  <td><pre>int length(String s)</pre>Takes a String and produces its length.<br><br><b>Parameters:</b><br><code>s</code> - a String<br><br><b>Returns:</b><br>Returns the length of <code>s</code>.</td>
+</tr>
+</table>
+
+<a id="maxDouble"></a>
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>maxDouble</th>
+  </tr>
+</thead>
+<tr>
+  <td><pre>double maxDouble(String csv,                 int col)</pre>Consumes a table as a String and a column index. Returns the maximum value of the data in that column, assuming all of the data can be parsed as doubles.<br><br><b>Parameters:</b><br><code>csv</code> - table of data<br><code>col</code> - column index to find maximum double in<br><br><b>Returns:</b><br>Returns the maximum of double data in a column.</td>
+</tr>
+</table>
+
+<a id="maxInt"></a>
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>maxInt</th>
+  </tr>
+</thead>
+<tr>
+  <td><pre>int maxInt(String csv,           int col)</pre>Consumes a table as a String and a column index. Returns the maximum value of the data in that column, assuming all of the data can be parsed as ints.<br><br><b>Parameters:</b><br><code>csv</code> - table of data<br><code>col</code> - column index to find maximum integer in<br><br><b>Returns:</b><br>Returns the maximum of integer data in a column.</td>
+</tr>
+</table>
+
+<a id="meanDouble"></a>
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>meanDouble</th>
+  </tr>
+</thead>
+<tr>
+  <td><pre>double meanDouble(String csv,                  int col)</pre>Consumes a table as a String and a column index. Returns the mean value of the data in that column, assuming all of the data can be parsed as a double.<br><br><b>Parameters:</b><br><code>csv</code> - table of data<br><code>col</code> - column index to find the mean of<br><br><b>Returns:</b><br>Returns the mean of double data in a column.</td>
+</tr>
+</table>
+
+<a id="meanInt"></a>
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>meanInt</th>
+  </tr>
+</thead>
+<tr>
+  <td><pre>int meanInt(String csv,            int col)</pre>Consumes a table as a String and a column index. Returns the mean value of the data in that column, assuming all of the data can be parsed as an integer.<br><br><b>Parameters:</b><br><code>csv</code> - table of data<br><code>col</code> - column index to find the mean of<br><br><b>Returns:</b><br>Returns the mean of integer data in a column.</td>
+</tr>
+</table>
+
+<a id="medianDouble"></a>
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>medianDouble</th>
+  </tr>
+</thead>
+<tr>
+  <td><pre>double medianDouble(String csv,                    int col)</pre>Consumes a table as a String and a column index. Returns the median value of the data in that column, assuming all of the data can be parsed as a double.<br><br><b>Parameters:</b><br><code>csv</code> - table of data<br><code>col</code> - column index to find the median of<br><br><b>Returns:</b><br>Returns the median of double data in a column.</td>
+</tr>
+</table>
+
+<a id="medianInt"></a>
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>medianInt</th>
+  </tr>
+</thead>
+<tr>
+  <td><pre>int medianInt(String csv,              int col)</pre>Consumes a table as a String and a column index. Returns the median value of the data in that column, assuming all of the data can be parsed as an integer.<br><br><b>Parameters:</b><br><code>csv</code> - table of data<br><code>col</code> - column index to find the median of<br><br><b>Returns:</b><br>Returns the median of integer data in a column.</td>
+</tr>
+</table>
+
+<a id="minDouble"></a>
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>minDouble</th>
+  </tr>
+</thead>
+<tr>
+  <td><pre>double minDouble(String csv,                 int col)</pre>Consumes a table as a String and a column index. Returns the minimum value of the data in that column, assuming all of the data can be parsed as a double.<br><br><b>Parameters:</b><br><code>csv</code> - table of data<br><code>col</code> - column index to find the minimum in<br><br><b>Returns:</b><br>Returns the minimum of double data in a column.</td>
+</tr>
+</table>
+
+<a id="minInt"></a>
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>minInt</th>
+  </tr>
+</thead>
+<tr>
+  <td><pre>int minInt(String csv,           int col)</pre>Consumes a table as a String and a column index. Returns the minimum value of the data in that column, assuming all of the data can be parsed as an integer.<br><br><b>Parameters:</b><br><code>csv</code> - table of data<br><code>col</code> - column index to find the minimum in<br><br><b>Returns:</b><br>Returns the minimum of integer data in a column.</td>
+</tr>
+</table>
+
+<a id="longToString"></a>
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>longToString</th>
+  </tr>
+</thead>
+<tr>
+  <td><pre>int longToString(long l)</pre>Returns the String representation of the long input.<br><br><b>Parameters:</b><br><code>l</code> - a long<br><br><b>Returns:</b><br>Returns a String object representing the specified long</td>
+</tr>
+</table>
+
+<a id="newLinefy"></a>
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>newLinefy</th>
+  </tr>
+</thead>
+<tr>
+  <td><pre>String newLinefy(String t)</pre>Add new line at start and end of row of data.<br><br><b>Parameters:</b><br><code>t</code> - String to be newLinefied<br><br><b>Returns:</b><br>Returns <code>t</code> with a new line added to the start and end of it.</td>
+</tr>
+</table>
+
+<a id="numColumns"></a>
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>numColumns</th>
+  </tr>
+</thead>
+<tr>
+  <td><pre>int numColumns(String header)</pre>Takes a String storing header row of a data file and outputs the number of columns in this file.<br><br><b>Parameters:</b><br><code>header</code> - a String header row<br><br><b>Returns:</b><br>Returns the number of columns in <code>header</code></td>
+</tr>
+</table>
+
+<a id="numRows"></a>
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>numRows</th>
+  </tr>
+</thead>
+<tr>
+  <td><pre>int numRows(String csv)</pre>Consumes a table as a String and produces the number of rows in it (including the header row)..<br><br><b>Parameters:</b><br><code>csv</code> - table to count the number of rows in<br><br><b>Returns:</b><br>Returns the number of rows in <code>csv</code></td>
 </tr>
 </table>
 
@@ -396,6 +732,30 @@ title: "Documentation for 8ALib.java"
 </thead>
 <tr>
   <td><pre>String substring(String base,<br>                 int beginIndex,<br>                 int endIndex)</pre>Takes a String, a start index, and end index. Produces a String containing the characters of the input String from start (inclusive) to end (exclusive). Causes an error if indices are out of range or in the wrong order.<br><br><b>Parameters:</b><br><code>base</code> - a String<br><code>beginIndex</code> - integer start index of substring<br><code>endIndex</code> - integer end index of substring, not inclusive<br><br><b>Returns:</b><br>Returns a String containing the characters from <code>beginIndex</code> (inclusive) to <code>endIndex</code> (exclusive).</td>
+</tr>
+</table>
+
+<a id="sumDouble"></a>
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>sumDouble</th>
+  </tr>
+</thead>
+<tr>
+  <td><pre>double sumDouble(String csv,                 int col)</pre>Consumes a table as a String and a column index. Returns the sum of the data in that column, assuming all of the data can be parsed as a double.<br><br><b>Parameters:</b><br><code>csv</code> - table of data<br><code>col</code> - column index to find the sum of<br><br><b>Returns:</b><br>Returns the sum of double data in a column.</td>
+</tr>
+</table>
+
+<a id="sumInt"></a>
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>sumInt</th>
+  </tr>
+</thead>
+<tr>
+  <td><pre>int sumInt(String csv,           int col)</pre>Consumes a table as a String and a column index. Returns the sum of the data in that column, assuming all of the data can be parsed as an integer.<br><br><b>Parameters:</b><br><code>csv</code> - table of data<br><code>col</code> - column index to find the sum of<br><br><b>Returns:</b><br>Returns the sum of integer data in a column.</td>
 </tr>
 </table>
 
