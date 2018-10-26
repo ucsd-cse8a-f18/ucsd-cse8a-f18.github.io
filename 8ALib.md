@@ -239,7 +239,7 @@ title: "Documentation for 8ALib.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>String dataAtColumn(String dataRow,<br>                    int col)</pre>Takes a comma separated String of data and a column index and ouputs the data in the appropriate column.<br><br><b>Parameters:</b><br><code>dataRow</code> - String of a data row<br><code>col</code> - integer column index<br><br><b>Returns:</b><br>Returns the data as a String from a row at the given column index.</td>
+  <td><pre>String dataAtColumn(String dataRow,<br>                    int col)</pre>Takes a comma separated String of data and a column index and outputs the data in the appropriate column.<br><br><b>Parameters:</b><br><code>dataRow</code> - String of a data row<br><code>col</code> - integer column index<br><br><b>Returns:</b><br>Returns the data as a String from a row at the given column index.</td>
 </tr>
 </table>
 
@@ -251,7 +251,7 @@ title: "Documentation for 8ALib.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>String dataAtProcColumn(String dataProcRow,<br>                        int col)</pre>Takes a comma separated String representing a row of data <b>which starts and ends with commas</b> and a column index and ouputs the data in the appropriate column in this row.<br><br><b>Parameters:</b><br><code>dataProcRow</code> - String of a data row<br><code>col</code> - integer column index<br><br><b>Returns:</b><br>Returns the data as a String from a row at the given column index.</td>
+  <td><pre>String dataAtProcColumn(String dataProcRow,<br>                        int col)</pre>Takes a comma separated String representing a row of data <b>which starts and ends with commas</b> and a column index and outputs the data in the appropriate column in this row.<br><br><b>Parameters:</b><br><code>dataProcRow</code> - String of a data row<br><code>col</code> - integer column index<br><br><b>Returns:</b><br>Returns the data as a String from a row at the given column index.</td>
 </tr>
 </table>
 
@@ -287,7 +287,7 @@ title: "Documentation for 8ALib.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>double doubleAtColumn(String dataRow,<br>                     int col)</pre>Takes a comma separated String of data and a column index and outputs the data in the appropriate column as a double.<br><br><b>Parameters:</b><br><code>dataRow</code> - a String row of data<br><code>col</code> - integer column index<br><br><b>Returns:</b><br>Returns the data as a double from a row at the given column index.</td>
+  <td><pre>double doubleAtColumn(String dataRow,<br>                      int col)</pre>Takes a comma separated String of data and a column index and outputs the data in the appropriate column as a double.<br><br><b>Parameters:</b><br><code>dataRow</code> - a String row of data<br><code>col</code> - integer column index<br><br><b>Returns:</b><br>Returns the data as a double from a row at the given column index.</td>
 </tr>
 </table>
 
@@ -299,7 +299,7 @@ title: "Documentation for 8ALib.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>int doubleToInt(double d)</pre>Takes a double and returns the rounded down integer value of the integer.<br><br><b>Parameters:</b><br><code>d</code> - double being represented as an integer<br><br><b>Returns:</b><br>Returns <code>d</code> as an integer</td>
+  <td><pre>int doubleToInt(double d)</pre>Takes a double and returns the rounded down integer value of the double.<br><br><b>Parameters:</b><br><code>d</code> - double to be represented as an integer<br><br><b>Returns:</b><br>Returns <code>d</code> as an integer</td>
 </tr>
 </table>
 
@@ -347,7 +347,7 @@ title: "Documentation for 8ALib.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>int indexForColumn(String headerRow,<br>                  String colName)</pre>Takes a String storing a header row of a data file and a String column name, and outputs the column index of the given column name.<br><br><b>Parameters:</b><br><code>headerRow</code> - String header row<br><code>colName</code> - String column name<br><br><b>Returns:</b><br>Returns the column index of <code>colName</code></td>
+  <td><pre>int indexForColumn(String headerRow,<br>                   String colName)</pre>Takes a String storing a header row of a data file and a String column name, and outputs the column index of the given column name.<br><br><b>Parameters:</b><br><code>headerRow</code> - String header row<br><code>colName</code> - String column name<br><br><b>Returns:</b><br>Returns the column index of <code>colName</code></td>
 </tr>
 </table>
 
@@ -423,6 +423,18 @@ title: "Documentation for 8ALib.java"
 </tr>
 </table>
 
+<a id="longToString"></a>
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>longToString</th>
+  </tr>
+</thead>
+<tr>
+  <td><pre>int longToString(long l)</pre>Returns the String representation of the long input.<br><br><b>Parameters:</b><br><code>l</code> - a long<br><br><b>Returns:</b><br>Returns a String object representing the specified long</td>
+</tr>
+</table>
+
 <a id="maxDouble"></a>
 <table class="table table-striped">
 <thead>
@@ -431,7 +443,7 @@ title: "Documentation for 8ALib.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>double maxDouble(String csv,                 int col)</pre>Consumes a table as a String and a column index. Returns the maximum value of the data in that column, assuming all of the data can be parsed as doubles.<br><br><b>Parameters:</b><br><code>csv</code> - table of data<br><code>col</code> - column index to find maximum double in<br><br><b>Returns:</b><br>Returns the maximum of double data in a column.</td>
+  <td><pre>double maxDouble(String csv,<br>                 int col)</pre>Consumes a table as a String and a column index. Returns the maximum value of the data in that column, assuming all of the data can be parsed as doubles.<br><br><b>Parameters:</b><br><code>csv</code> - table of data<br><code>col</code> - column index to find maximum double in<br><br><b>Returns:</b><br>Returns the maximum of double data in a column.</td>
 </tr>
 </table>
 
@@ -443,7 +455,7 @@ title: "Documentation for 8ALib.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>int maxInt(String csv,           int col)</pre>Consumes a table as a String and a column index. Returns the maximum value of the data in that column, assuming all of the data can be parsed as ints.<br><br><b>Parameters:</b><br><code>csv</code> - table of data<br><code>col</code> - column index to find maximum integer in<br><br><b>Returns:</b><br>Returns the maximum of integer data in a column.</td>
+  <td><pre>int maxInt(String csv,<br>           int col)</pre>Consumes a table as a String and a column index. Returns the maximum value of the data in that column, assuming all of the data can be parsed as ints.<br><br><b>Parameters:</b><br><code>csv</code> - table of data<br><code>col</code> - column index to find maximum integer in<br><br><b>Returns:</b><br>Returns the maximum of integer data in a column.</td>
 </tr>
 </table>
 
@@ -455,7 +467,7 @@ title: "Documentation for 8ALib.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>double meanDouble(String csv,                  int col)</pre>Consumes a table as a String and a column index. Returns the mean value of the data in that column, assuming all of the data can be parsed as a double.<br><br><b>Parameters:</b><br><code>csv</code> - table of data<br><code>col</code> - column index to find the mean of<br><br><b>Returns:</b><br>Returns the mean of double data in a column.</td>
+  <td><pre>double meanDouble(String csv,<br>                  int col)</pre>Consumes a table as a String and a column index. Returns the mean value of the data in that column, assuming all of the data can be parsed as a double.<br><br><b>Parameters:</b><br><code>csv</code> - table of data<br><code>col</code> - column index to find the mean of<br><br><b>Returns:</b><br>Returns the mean of double data in a column.</td>
 </tr>
 </table>
 
@@ -467,7 +479,7 @@ title: "Documentation for 8ALib.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>int meanInt(String csv,            int col)</pre>Consumes a table as a String and a column index. Returns the mean value of the data in that column, assuming all of the data can be parsed as an integer.<br><br><b>Parameters:</b><br><code>csv</code> - table of data<br><code>col</code> - column index to find the mean of<br><br><b>Returns:</b><br>Returns the mean of integer data in a column.</td>
+  <td><pre>int meanInt(String csv,<br>            int col)</pre>Consumes a table as a String and a column index. Returns the mean value of the data in that column, assuming all of the data can be parsed as an integer.<br><br><b>Parameters:</b><br><code>csv</code> - table of data<br><code>col</code> - column index to find the mean of<br><br><b>Returns:</b><br>Returns the mean of integer data in a column.</td>
 </tr>
 </table>
 
@@ -479,7 +491,7 @@ title: "Documentation for 8ALib.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>double medianDouble(String csv,                    int col)</pre>Consumes a table as a String and a column index. Returns the median value of the data in that column, assuming all of the data can be parsed as a double.<br><br><b>Parameters:</b><br><code>csv</code> - table of data<br><code>col</code> - column index to find the median of<br><br><b>Returns:</b><br>Returns the median of double data in a column.</td>
+  <td><pre>double medianDouble(String csv,<br>                    int col)</pre>Consumes a table as a String and a column index. Returns the median value of the data in that column, assuming all of the data can be parsed as a double.<br><br><b>Parameters:</b><br><code>csv</code> - table of data<br><code>col</code> - column index to find the median of<br><br><b>Returns:</b><br>Returns the median of double data in a column.</td>
 </tr>
 </table>
 
@@ -491,7 +503,7 @@ title: "Documentation for 8ALib.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>int medianInt(String csv,              int col)</pre>Consumes a table as a String and a column index. Returns the median value of the data in that column, assuming all of the data can be parsed as an integer.<br><br><b>Parameters:</b><br><code>csv</code> - table of data<br><code>col</code> - column index to find the median of<br><br><b>Returns:</b><br>Returns the median of integer data in a column.</td>
+  <td><pre>int medianInt(String csv,<br>              int col)</pre>Consumes a table as a String and a column index. Returns the median value of the data in that column, assuming all of the data can be parsed as an integer.<br><br><b>Parameters:</b><br><code>csv</code> - table of data<br><code>col</code> - column index to find the median of<br><br><b>Returns:</b><br>Returns the median of integer data in a column.</td>
 </tr>
 </table>
 
@@ -503,7 +515,7 @@ title: "Documentation for 8ALib.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>double minDouble(String csv,                 int col)</pre>Consumes a table as a String and a column index. Returns the minimum value of the data in that column, assuming all of the data can be parsed as a double.<br><br><b>Parameters:</b><br><code>csv</code> - table of data<br><code>col</code> - column index to find the minimum in<br><br><b>Returns:</b><br>Returns the minimum of double data in a column.</td>
+  <td><pre>double minDouble(String csv,<br>                 int col)</pre>Consumes a table as a String and a column index. Returns the minimum value of the data in that column, assuming all of the data can be parsed as a double.<br><br><b>Parameters:</b><br><code>csv</code> - table of data<br><code>col</code> - column index to find the minimum in<br><br><b>Returns:</b><br>Returns the minimum of double data in a column.</td>
 </tr>
 </table>
 
@@ -515,19 +527,7 @@ title: "Documentation for 8ALib.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>int minInt(String csv,           int col)</pre>Consumes a table as a String and a column index. Returns the minimum value of the data in that column, assuming all of the data can be parsed as an integer.<br><br><b>Parameters:</b><br><code>csv</code> - table of data<br><code>col</code> - column index to find the minimum in<br><br><b>Returns:</b><br>Returns the minimum of integer data in a column.</td>
-</tr>
-</table>
-
-<a id="longToString"></a>
-<table class="table table-striped">
-<thead>
-  <tr>
-    <th>longToString</th>
-  </tr>
-</thead>
-<tr>
-  <td><pre>int longToString(long l)</pre>Returns the String representation of the long input.<br><br><b>Parameters:</b><br><code>l</code> - a long<br><br><b>Returns:</b><br>Returns a String object representing the specified long</td>
+  <td><pre>int minInt(String csv,<br>           int col)</pre>Consumes a table as a String and a column index. Returns the minimum value of the data in that column, assuming all of the data can be parsed as an integer.<br><br><b>Parameters:</b><br><code>csv</code> - table of data<br><code>col</code> - column index to find the minimum in<br><br><b>Returns:</b><br>Returns the minimum of integer data in a column.</td>
 </tr>
 </table>
 
@@ -563,7 +563,7 @@ title: "Documentation for 8ALib.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>int numRows(String csv)</pre>Consumes a table as a String and produces the number of rows in it (including the header row)..<br><br><b>Parameters:</b><br><code>csv</code> - table to count the number of rows in<br><br><b>Returns:</b><br>Returns the number of rows in <code>csv</code></td>
+  <td><pre>int numRows(String csv)</pre>Consumes a table as a String and produces the number of rows in it (including the header row).<br><br><b>Parameters:</b><br><code>csv</code> - table to count the number of rows in<br><br><b>Returns:</b><br>Returns the number of rows in <code>csv</code></td>
 </tr>
 </table>
 
@@ -743,7 +743,7 @@ title: "Documentation for 8ALib.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>double sumDouble(String csv,                 int col)</pre>Consumes a table as a String and a column index. Returns the sum of the data in that column, assuming all of the data can be parsed as a double.<br><br><b>Parameters:</b><br><code>csv</code> - table of data<br><code>col</code> - column index to find the sum of<br><br><b>Returns:</b><br>Returns the sum of double data in a column.</td>
+  <td><pre>double sumDouble(String csv,<br>                 int col)</pre>Consumes a table as a String and a column index. Returns the sum of the data in that column, assuming all of the data can be parsed as a double.<br><br><b>Parameters:</b><br><code>csv</code> - table of data<br><code>col</code> - column index to find the sum of<br><br><b>Returns:</b><br>Returns the sum of double data in a column.</td>
 </tr>
 </table>
 
