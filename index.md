@@ -178,6 +178,10 @@ will be linked to from some assignments and is always a useful reference
 while programming.
 You can follow instructions <a href="https://docs.google.com/document/d/1tvk1IlsFrppZIiGB7BBv5--6psJlxb5WfBVWRWc0OcQ/edit?usp=sharing" target="_blank">here</a> for installing JDK 10 and Atom (a text editor) on macOS and Windows.
 
+We've also collected a <a
+href="https://docs.google.com/document/d/13NpHFcNO3XX5cIuSmshmr0k2dj1cT2Xw_Ttdl5zS2LE/edit?usp=sharing">Glossary</a>
+of terms we've defined and used in the course as a helpful and unambiguous reference.
+
 You'll be submitting your classwork and seeing grading feedback through a tool called
 <a href="http://gradescope.com/" target="_blank">Gradescope</a>.
 
