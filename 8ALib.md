@@ -48,6 +48,9 @@ title: "Documentation for 8ALib.java"
 <td class="monospace">String</td><td class="monospace"><a href="#doubleToString">doubleToString</a><br>(double d)</td><td>Returns the String representation of the double input.</td>
 </tr>
 <tr>
+<td class="monospace">boolean</td><td class="monospace"><a href="#explore">explore</a><br>(int[] sound)</td><td>Takes an int array representing a sound and opens a window that displays the sound waveform along with sampled values, returns true if the operation was performed successfully and false otherwise.</td>
+</tr>
+<tr>
 <td class="monospace">String</td><td class="monospace"><a href="#filter">filter</a><br>(String csv,<br>RowFilter rowChecker)</td><td>Consumes a table as a String and a method <code>rowChecker</code> that returns a boolean in the format <code>r->rowChecker(r, ...)</code> and produces a new table as a String that has the header row from the original table followed by all and only the data rows from the original table where <code>rowChecker</code> returns true.</td>
 </tr>
 <tr>
@@ -120,6 +123,9 @@ title: "Documentation for 8ALib.java"
 <td class="monospace">long</td><td class="monospace"><a href="#parseLong">parseLong</a><br>(String s)</td><td>Takes a String an parses it as a signed decimal long or causes an error if the characters do not form a long.</td>
 </tr>
 <tr>
+<td class="monospace">boolean</td><td class="monospace"><a href="#play">play</a><br>(int[] sound)</td><td>Takes an int array representing a sound and plays it (using the computer's speakers / headphones), returns true if the operation was performed successfully and false otherwise.</td>
+</tr>
+<tr>
 <td class="monospace">double</td><td class="monospace"><a href="#pow">pow</a><br>(double base,<br>double expt)</td><td>Takes a double as a base number and another double as the exponent and calculates the base to the power of the exponent in terms of a double.</td>
 </tr>
 <tr>
@@ -127,6 +133,9 @@ title: "Documentation for 8ALib.java"
 </tr>
 <tr>
 <td class="monospace">String</td><td class="monospace"><a href="#readLine">readLine</a><br>(String path,<br>int index)</td><td>Takes a String representing a path to a file and a 0-based line index and produces a String containing the characters from that line in that file.</td>
+</tr>
+<tr>
+<td class="monospace">int[]</td><td class="monospace"><a href="#readSound">readSound</a><br>(String path)</td><td>Takes a path to a file expected to be in .wav format and producces an int array representing the sound recorded in that file.</td>
 </tr>
 <tr>
 <td class="monospace">int</td><td class="monospace"><a href="#roundTo">roundTo</a><br>(int n,<br>int toRoundTo)</td><td>Takes two ints and produces the first number rounded to the nearest multiple of the second</td>
@@ -145,6 +154,9 @@ title: "Documentation for 8ALib.java"
 </tr>
 <tr>
 <td class="monospace">int</td><td class="monospace"><a href="#square">square</a><br>(int n)</td><td>Takes a number and returns the square of the number.</td>
+</tr>
+<tr>
+<td class="monospace">boolean</td><td class="monospace"><a href="#stopMusic">stopMusic</a><br>()</td><td>Stops sounds that were started in the current jshell session, returns true if the operation was performed successfully and false otherwise.</td>
 </tr>
 <tr>
 <td class="monospace">boolean</td><td class="monospace"><a href="stringEquals">stringEquals</a><br>(String s1,<br>String s2)</td><td>Takes two Strings and returns true if they contain the same characters in the same order, false otherwise.</td>
@@ -312,6 +324,18 @@ title: "Documentation for 8ALib.java"
 </thead>
 <tr>
   <td><pre>String doubleToString(double d)</pre>Returns the String representation of the double input.<br><br><b>Parameters:</b><br><code>d</code> - double being represented as a String<br><br><b>Returns:</b><br>Returns the String representation of the input double.</td>
+</tr>
+</table>
+
+<a id="explore"></a>
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>explore</th>
+  </tr>
+</thead>
+<tr>
+  <td><pre>boolean explore(int[] sound)</pre>Takes an int array representing a sound and opens a window that displays the sound waveform along with sampled values, returns true if the operation was performed successfully and false otherwise.<br><br><b>Parameters:</b><br><code>sound</code> - int array representing a sound<br><br><b>Returns:</b><br>Returns true if the sound waveform was successfully displayed and false otherwise.</td>
 </tr>
 </table>
 
@@ -603,6 +627,18 @@ title: "Documentation for 8ALib.java"
 </tr>
 </table>
 
+<a id="play"></a>
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>play</th>
+  </tr>
+</thead>
+<tr>
+  <td><pre>boolean play(int[] sound)</pre>Takes an int array representing a sound and plays it (using the computer's speakers / headphones) and returns true if the operation was performed successfully and false otherwise.<br><br><b>Parameters:</b><br><code>sound</code> - int array representing a sound<br><br><b>Returns:</b><br>Returns true if the sound was successfully played and false otherwise.</td>
+</tr>
+</table>
+
 <a id="pow"></a>
 <table class="table table-striped">
 <thead>
@@ -636,6 +672,18 @@ title: "Documentation for 8ALib.java"
 </thead>
 <tr>
   <td><pre>String readLine​(String path,<br>                int index)<br>                throws java.io.IOException</pre>Takes a String representing a path to a file and a 0-based line index and produces a String containing the characters from that line in that file.<br><br><b>Parameters:</b><br><code>path</code> - String path of the file to be read<br><code>index</code> - integer line index to be read from the file specified by path<br><br><b>Returns:</b><br>Returns a String containing the characters from the <code>index</code>th line in the file at <code>path</code>.<br><br><b>Throws:</b><br><code>java.io.IOException</code> - if file at path cannot be read or found</td>
+</tr>
+</table>
+
+<a id="readSound"></a>
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>readSound</th>
+  </tr>
+</thead>
+<tr>
+  <td><pre>int[] readSound(String path)</pre>Takes a path to a file expected to be in .wav format and produces an int array representing the sound recoreded in that file.<br><br><b>Parameters:</b><br><code>path</code> - String path of the .wav file to be read<br><br><b>Returns:</b><br>Returns an int array of the sound in the .wav file</td>
 </tr>
 </table>
 
@@ -708,6 +756,18 @@ title: "Documentation for 8ALib.java"
 </thead>
 <tr>
   <td><pre>int square(int n)</pre>Takes a number and returns the square of the number.<br><br><b>Parameters:</b><br><code>n</code> - an integer<br><br><b>Returns:</b><br>Returns the square of <code>n</code>.</td>
+</tr>
+</table>
+
+<a id="stopMusic"></a>
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>stopMusic</th>
+  </tr>
+</thead>
+<tr>
+  <td><pre>boolean stopMusic()</pre>Stops sounds that were started in the current jshell session, returns true if the operation was perfomed successfully and false otherwise.<br><br><b>Returns:</b><br>Returns true if the sound was stopped successfully and false otherwise.</td>
 </tr>
 </table>
 
