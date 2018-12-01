@@ -27,16 +27,16 @@ title: "Documentation for CSV.java"
 <td class="monospace">String</td><td class="monospace"><a href="#getData">getData</a><br>(int rowIndex,<br>int colIndex)</td><td>Consumes a table as a String and an integer number of lines. Returns the first specified number of rows (not including the header row) of the table as a String.</td>
 </tr>
 <tr>
-<td class="monospace">int</td><td class="monospace"><a href="#getNumCols">getNumCols</a>()</td><td></td>
+<td class="monospace">int</td><td class="monospace"><a href="#getNumCols">getNumCols</a>()</td><td>Returns the number of columns in the table</td>
 </tr>
 <tr>
-<td class="monospace">int</td><td class="monospace"><a href="#getNumRows">getNumRows</a>()</td><td></td>
+<td class="monospace">int</td><td class="monospace"><a href="#getNumRows">getNumRows</a>()</td><td>Returns the number of rows in the table</td>
 </tr>
 <tr>
-<td class="monospace">String</td><td class="monospace"><a href="#getRow">getRow</a><br>(int rowIndex)</td><td></td>
+<td class="monospace">String</td><td class="monospace"><a href="#getRow">getRow</a><br>(int rowIndex)</td><td>Returns the row at the given index as a String</td>
 </tr>
 <tr>
-<td class="monospace">String[]</td><td class="monospace"><a href="#getRows">getRows</a>()</td><td></td>
+<td class="monospace">String[]</td><td class="monospace"><a href="#getRows">getRows</a>()</td><td>Returns the rows of the table as an array of Strings</td>
 </tr>
 <tr>
 <td class="monospace">double</td><td class="monospace"><a href="#maxDouble">maxDouble</a><br>(int colIndex)</td><td>Assuming that values at column colIndex are formatted as doubles, returns the maximum value among the data at the given column index across all rows in this CSV object.</td>
@@ -51,7 +51,7 @@ title: "Documentation for CSV.java"
 <td class="monospace">int</td><td class="monospace"><a href="#minInt">minInt</a><br>(int colIndex)</td><td>Assuming that values at column colIndex are formatted as integers, returns the maximum value among the data at the given column index across all rows in this CSV object.</td>
 </tr>
 <tr>
-<td class="monospace">String</td><td class="monospace"><a href="#toString">toString</a>()</td><td></td>
+<td class="monospace">String</td><td class="monospace"><a href="#toString">toString</a>()</td><td>Returns the String representation of the CSV object</td>
 </tr>
 </table>
 
@@ -80,7 +80,7 @@ title: "Documentation for CSV.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>public int getNumRows()</pre><b>Returns:</b><br>the number of rows in the table</td>
+  <td><pre>public int getNumRows()</pre>Returns the number of columns in the table<br><br><b>Returns:</b><br>the number of rows in the table</td>
 </tr>
 </table>
 
@@ -92,7 +92,7 @@ title: "Documentation for CSV.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>public int getNumCols()</pre><b>Returns:</b><br>the number of columns in the table</td>
+  <td><pre>public int getNumCols()</pre>Returns the number of columns in the table<br><br><b>Returns:</b><br>the number of columns in the table</td>
 </tr>
 </table>
 
@@ -104,7 +104,7 @@ title: "Documentation for CSV.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>public String[] getRows()</pre><b>Returns:</b><br>the array of rows in the table</td>
+  <td><pre>public String[] getRows()</pre>Returns the rows of the table as an array of Strings<br><br><b>Returns:</b><br>the array of rows in the table</td>
 </tr>
 </table>
 
@@ -128,7 +128,7 @@ title: "Documentation for CSV.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>public String getRow(int rowIndex)</pre><b>Parameters:</b><br><code>rowIndex</code> - the index of the row to look up<br><br><b>Returns:</b><br>the data in the given row as a String</td>
+  <td><pre>public String getRow(int rowIndex)</pre>Returns the row at the given index as a String<br><br><b>Parameters:</b><br><code>rowIndex</code> - the index of the row to look up<br><br><b>Returns:</b><br>the data in the given row as a String</td>
 </tr>
 </table>
 
@@ -188,6 +188,6 @@ title: "Documentation for CSV.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>public String toString()</pre><b>Overrides:</b><br><code>toString</code> in class java.lang.Object<br><br><b>Returns:</b><br>a String representation of this CSV data</td>
+  <td><pre>public String toString()</pre>Returns the String representation of the CSV object<br><br><b>Overrides:</b><br><code>toString</code> in class java.lang.Object<br><br><b>Returns:</b><br>a String representation of this CSV data</td>
 </tr>
 </table>
