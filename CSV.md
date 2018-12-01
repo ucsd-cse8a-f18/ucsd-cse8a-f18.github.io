@@ -35,6 +35,7 @@ title: "Documentation for CSV.java"
 <tr>
 <td class="monospace">String</td><td class="monospace"><a href="#getRow">getNumRow</a><br>(int rowIndex)</td><td></td>
 </tr>
+<tr>
 <td class="monospace">String[]</td><td class="monospace"><a href="#getRows">getNumRows</a>()</td><td></td>
 </tr>
 <tr>
@@ -49,6 +50,7 @@ title: "Documentation for CSV.java"
 <tr>
 <td class="monospace">int</td><td class="monospace"><a href="#minInt">minInt</a><br>(int colIndex)</td><td>Assuming that values at column colIndex are formatted as integers, returns the maximum value among the data at the given column index across all rows in this CSV object.</td>
 </tr>
+<tr>
 <td class="monospace">String</td><td class="monospace"><a href="#toString">toString</a>()</td><td></td>
 </tr>
 </table>
