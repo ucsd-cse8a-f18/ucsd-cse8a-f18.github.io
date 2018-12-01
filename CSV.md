@@ -12,7 +12,7 @@ title: "Documentation for CSV.java"
   </tr>
 </thead>
 <tr>
-<td class="monospace"><a href="#constr">CSV</a>(String table)</td><td>Constructs a CSV object with rows created by splitting the given string on newlines, and a header from the first row.</td>
+<td class="monospace"><a href="#constr">CSV</a><br>(String table)</td><td>Constructs a CSV object with rows created by splitting the given string on newlines, and a header from the first row.</td>
 </tr>
 </table>
 
@@ -24,7 +24,7 @@ title: "Documentation for CSV.java"
   </tr>
 </thead>
 <tr>
-<td class="monospace">String</td><td class="monospace"><a href="#getData">getData</a>(int rowIndex,<br>int colIndex)</td><td>Consumes a table as a String and an integer number of lines. Returns the first specified number of rows (not including the header row) of the table as a String.</td>
+<td class="monospace">String</td><td class="monospace"><a href="#getData">getData</a><br>(int rowIndex,<br>int colIndex)</td><td>Consumes a table as a String and an integer number of lines. Returns the first specified number of rows (not including the header row) of the table as a String.</td>
 </tr>
 <tr>
 <td class="monospace">int</td><td class="monospace"><a href="#getNumCols">getNumCols</a>()</td><td></td>
@@ -34,21 +34,21 @@ title: "Documentation for CSV.java"
 <td class="monospace">int</td><td class="monospace"><a href="#getNumRows">getNumRows</a>()</td><td></td>
 </tr>
 <tr>
-<td class="monospace">String</td><td class="monospace"><a href="#getRow">getNumRow</a>(int rowIndex)</td><td></td>
+<td class="monospace">String</td><td class="monospace"><a href="#getRow">getNumRow</a><br>(int rowIndex)</td><td></td>
 </tr>
 <td class="monospace">String[]</td><td class="monospace"><a href="#getRows">getNumRows</a>()</td><td></td>
 </tr>
 <tr>
-<td class="monospace">double</td><td class="monospace"><a href="#maxDouble">maxDouble</a>(int colIndex)</td><td>Assuming that values at column colIndex are formatted as doubles, returns the maximum value among the data at the given column index across all rows in this CSV object.</td>
+<td class="monospace">double</td><td class="monospace"><a href="#maxDouble">maxDouble</a><br>(int colIndex)</td><td>Assuming that values at column colIndex are formatted as doubles, returns the maximum value among the data at the given column index across all rows in this CSV object.</td>
 </tr>
 <tr>
-<td class="monospace">int</td><td class="monospace"><a href="#maxInt">maxInt</a>(int colIndex)</td><td>Assuming that values at column colIndex are formatted as integers, returns the maximum value among the data at the given column index across all rows in this CSV object.</td>
+<td class="monospace">int</td><td class="monospace"><a href="#maxInt">maxInt</a><br>(int colIndex)</td><td>Assuming that values at column colIndex are formatted as integers, returns the maximum value among the data at the given column index across all rows in this CSV object.</td>
 </tr>
 <tr>
-<td class="monospace">double</td><td class="monospace"><a href="#minDouble">minDouble</a>(int colIndex)</td><td>Assuming that values at column colIndex are formatted as doubles, returns the minimum value among the data at the given column index across all rows in this CSV object.</td>
+<td class="monospace">double</td><td class="monospace"><a href="#minDouble">minDouble</a><br>(int colIndex)</td><td>Assuming that values at column colIndex are formatted as doubles, returns the minimum value among the data at the given column index across all rows in this CSV object.</td>
 </tr>
 <tr>
-<td class="monospace">int</td><td class="monospace"><a href="#minInt">minInt</a>(int colIndex)</td><td>Assuming that values at column colIndex are formatted as integers, returns the maximum value among the data at the given column index across all rows in this CSV object.</td>
+<td class="monospace">int</td><td class="monospace"><a href="#minInt">minInt</a><br>(int colIndex)</td><td>Assuming that values at column colIndex are formatted as integers, returns the maximum value among the data at the given column index across all rows in this CSV object.</td>
 </tr>
 </tr>
 <td class="monospace">String</td><td class="monospace"><a href="#toString">toString</a>()</td><td></td>
@@ -67,7 +67,7 @@ title: "Documentation for CSV.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>public CSV(String table)</pre><br><br>Constructs a CSV object with rows created by splitting the given string on newlines, and a header from the first row.</td>
+  <td><pre>public CSV(String table)</pre>Constructs a CSV object with rows created by splitting the given string on newlines, and a header from the first row.</td>
 </tr>
 </table>
 
@@ -81,7 +81,7 @@ title: "Documentation for CSV.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>public int getNumRows()</pre><br><br><b>Returns:</b><br>the number of rows in the table</td>
+  <td><pre>public int getNumRows()</pre><b>Returns:</b><br>the number of rows in the table</td>
 </tr>
 </table>
 
@@ -93,7 +93,7 @@ title: "Documentation for CSV.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>public int getNumCols()</pre><br><br><b>Returns:</b><br>the number of columns in the table</td>
+  <td><pre>public int getNumCols()</pre><b>Returns:</b><br>the number of columns in the table</td>
 </tr>
 </table>
 
@@ -105,7 +105,7 @@ title: "Documentation for CSV.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>public String[] getRows()</pre><br><br><b>Returns:</b><br>the array of rows in the table</td>
+  <td><pre>public String[] getRows()</pre><b>Returns:</b><br>the array of rows in the table</td>
 </tr>
 </table>
 
@@ -117,7 +117,7 @@ title: "Documentation for CSV.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>public String getData(int rowIndex<br>                      int colIndex)</pre><br><br><b>Parameters:</b><br><code>rowIndex</code> - the index of the row to look up<br><code>colIndex</code> - the index of the column to look up<br><br><b>Returns:</b><br>the data at the given row and column index in the table, as a String</td>
+  <td><pre>public String getData(int rowIndex<br>                      int colIndex)</pre><b>Parameters:</b><br><code>rowIndex</code> - the index of the row to look up<br><code>colIndex</code> - the index of the column to look up<br><br><b>Returns:</b><br>the data at the given row and column index in the table, as a String</td>
 </tr>
 </table>
 
@@ -129,7 +129,7 @@ title: "Documentation for CSV.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>public String getRow(int rowIndex)</pre><br><br><b>Parameters:</b><br><code>rowIndex</code> - the index of the row to look up<br><br><b>Returns:</b><br>the data in the given row as a String</td>
+  <td><pre>public String getRow(int rowIndex)</pre><b>Parameters:</b><br><code>rowIndex</code> - the index of the row to look up<br><br><b>Returns:</b><br>the data in the given row as a String</td>
 </tr>
 </table>
 
@@ -141,7 +141,7 @@ title: "Documentation for CSV.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>public int maxInt(int colIndex)</pre><br><br>Assuming that values at column colIndex are formatted as integers, returns the maximum value among the data at the given column index across all rows in this CSV object.<br><br><b>Parameters:</b><br><code>colIndex</code> - the index of the column to consider<br><br><b>Returns:</b><br>the maximum value</td>
+  <td><pre>public int maxInt(int colIndex)</pre>Assuming that values at column colIndex are formatted as integers, returns the maximum value among the data at the given column index across all rows in this CSV object.<br><br><b>Parameters:</b><br><code>colIndex</code> - the index of the column to consider<br><br><b>Returns:</b><br>the maximum value</td>
 </tr>
 </table>
 
@@ -153,7 +153,7 @@ title: "Documentation for CSV.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>public int minInt(int colIndex)</pre><br><br>Assuming that values at column colIndex are formatted as integers, returns the minimum value among the data at the given column index across all rows in this CSV object.<br><br><b>Parameters:</b><br><code>colIndex</code> - the index of the column to consider<br><br><b>Returns:</b><br>the minimum value</td>
+  <td><pre>public int minInt(int colIndex)</pre>Assuming that values at column colIndex are formatted as integers, returns the minimum value among the data at the given column index across all rows in this CSV object.<br><br><b>Parameters:</b><br><code>colIndex</code> - the index of the column to consider<br><br><b>Returns:</b><br>the minimum value</td>
 </tr>
 </table>
 
@@ -165,7 +165,7 @@ title: "Documentation for CSV.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>public double maxDouble(int colIndex)</pre><br><br>Assuming that values at column colIndex are formatted as doubles, returns the maximum value among the data at the given column index across all rows in this CSV object.<br><br><b>Parameters:</b><br><code>colIndex</code> - the index of the column to consider<br><br><b>Returns:</b><br>the maximum value</td>
+  <td><pre>public double maxDouble(int colIndex)</pre>Assuming that values at column colIndex are formatted as doubles, returns the maximum value among the data at the given column index across all rows in this CSV object.<br><br><b>Parameters:</b><br><code>colIndex</code> - the index of the column to consider<br><br><b>Returns:</b><br>the maximum value</td>
 </tr>
 </table>
 
@@ -177,7 +177,7 @@ title: "Documentation for CSV.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>public double minDouble(int colIndex)</pre><br><br>Assuming that values at column colIndex are formatted as doubles, returns the minimum value among the data at the given column index across all rows in this CSV object.<br><br><b>Parameters:</b><br><code>colIndex</code> - the index of the column to consider<br><br><b>Returns:</b><br>the minimum value</td>
+  <td><pre>public double minDouble(int colIndex)</pre>Assuming that values at column colIndex are formatted as doubles, returns the minimum value among the data at the given column index across all rows in this CSV object.<br><br><b>Parameters:</b><br><code>colIndex</code> - the index of the column to consider<br><br><b>Returns:</b><br>the minimum value</td>
 </tr>
 </table>
 
@@ -189,6 +189,6 @@ title: "Documentation for CSV.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>public String toString()</pre><br><br><b>Overrides:<br><code>toString</code> in class java.lang.Object<br><br><b>Returns:</b><br>a String representation of this CSV data</td>
+  <td><pre>public String toString()</pre><b>Overrides:</b><br><code>toString</code> in class java.lang.Object<br><br><b>Returns:</b><br>a String representation of this CSV data</td>
 </tr>
 </table>
