@@ -21,10 +21,10 @@ title: "Documentation for Media.java"
 <td class="monospace">static String</td><td class="monospace"><a href="#readFile">readFile</a><br>(String path)</td><td>Reads a file from the given path into a String.</td>
 </tr>
 <tr>
-<td class="monospace">static Image</td><td class="monospace"><a href="#readImage">readImage</a><br>(String path)</td><td></td>
+<td class="monospace">static Image</td><td class="monospace"><a href="#readImage">readImage</a><br>(String path)</td><td>Reads a file from the given path into an Image object, assuming the file is a png or bmp file.</td>
 </tr>
 <tr>
-<td class="monospace">static int[]</td><td class="monospace"><a href="#readSound">readSound</a><br>(String path)</td><td></td>
+<td class="monospace">static int[]</td><td class="monospace"><a href="#readSound">readSound</a><br>(String path)</td><td>Reads a file from the given path into an integer array, assuming the file is an audio file. Always tries to read the file at a rate of 22050 Hz</td>
 </tr>
 </table>
 
