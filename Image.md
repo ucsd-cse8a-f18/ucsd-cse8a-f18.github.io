@@ -80,7 +80,7 @@ title: "Documentation for Image.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>Color getColorAtPos(int col,<br>                    int row)</pre><b>Parameters:</b><br><code>col</code> - the column of the pixel to look up<br><code>row</code> - the row of the pixel to look up<b>Returns:</b><br>the Color at the given location in the image</td>
+  <td><pre>Color getColorAtPos(int col,<br>                    int row)</pre><b>Parameters:</b><br><code>col</code> - the column of the pixel to look up<br><code>row</code> - the row of the pixel to look up<br><br><b>Returns:</b><br>the Color at the given location in the image</td>
 </tr>
 </table>
 
