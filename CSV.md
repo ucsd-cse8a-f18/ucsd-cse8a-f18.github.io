@@ -116,7 +116,7 @@ title: "Documentation for CSV.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>public String getData(int rowIndex<br>                      int colIndex)</pre><b>Parameters:</b><br><code>rowIndex</code> - the index of the row to look up<br><code>colIndex</code> - the index of the column to look up<br><br><b>Returns:</b><br>the data at the given row and column index in the table, as a String</td>
+  <td><pre>public String getData(int rowIndex<br>                      int colIndex)</pre>Consumes a table as a String and an integer number of lines. Returns the first specified number of rows (not including the header row) of the table as a String.<br><br><b>Parameters:</b><br><code>rowIndex</code> - the index of the row to look up<br><code>colIndex</code> - the index of the column to look up<br><br><b>Returns:</b><br>the data at the given row and column index in the table, as a String</td>
 </tr>
 </table>
 
