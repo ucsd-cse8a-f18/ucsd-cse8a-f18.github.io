@@ -33,7 +33,7 @@ title: "Documentation for CSV.java"
 <td class="monospace">int</td><td class="monospace"><a href="#getNumRows">getNumRows</a>()</td><td></td>
 </tr>
 <tr>
-<td class="monospace">String</td><td class="monospace"><a href="#getRow">getNumRow</a><br>(int rowIndex)</td><td></td>
+<td class="monospace">String</td><td class="monospace"><a href="#getRow">getRow</a><br>(int rowIndex)</td><td></td>
 </tr>
 <tr>
 <td class="monospace">String[]</td><td class="monospace"><a href="#getRows">getNumRows</a>()</td><td></td>
