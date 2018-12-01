@@ -24,7 +24,7 @@ title: "Documentation for Image.java"
   </tr>
 </thead>
 <tr>
-<td class="monospace">Color</td><td class="monospace"><a href="#getData">getColorAtPos</a><br>(int col,<br>int row)</td><td></td>
+<td class="monospace">Color</td><td class="monospace"><a href="#getColorAtPos">getColorAtPos</a><br>(int col,<br>int row)</td><td></td>
 </tr>
 <tr>
 <td class="monospace">int</td><td class="monospace"><a href="#getHeight">getHeight</a>()</td><td></td>
