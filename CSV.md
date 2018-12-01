@@ -36,7 +36,7 @@ title: "Documentation for CSV.java"
 <td class="monospace">String</td><td class="monospace"><a href="#getRow">getRow</a><br>(int rowIndex)</td><td></td>
 </tr>
 <tr>
-<td class="monospace">String[]</td><td class="monospace"><a href="#getRows">getNumRows</a>()</td><td></td>
+<td class="monospace">String[]</td><td class="monospace"><a href="#getRows">getRows</a>()</td><td></td>
 </tr>
 <tr>
 <td class="monospace">double</td><td class="monospace"><a href="#maxDouble">maxDouble</a><br>(int colIndex)</td><td>Assuming that values at column colIndex are formatted as doubles, returns the maximum value among the data at the given column index across all rows in this CSV object.</td>
