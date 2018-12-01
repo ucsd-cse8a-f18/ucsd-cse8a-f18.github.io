@@ -24,22 +24,22 @@ title: "Documentation for Image.java"
   </tr>
 </thead>
 <tr>
-<td class="monospace">Color</td><td class="monospace"><a href="#getColorAtPos">getColorAtPos</a><br>(int col,<br>int row)</td><td></td>
+<td class="monospace">Color</td><td class="monospace"><a href="#getColorAtPos">getColorAtPos</a><br>(int col,<br>int row)</td><td>Returns the Color at the given row and column of the Image</td>
 </tr>
 <tr>
-<td class="monospace">int</td><td class="monospace"><a href="#getHeight">getHeight</a>()</td><td></td>
+<td class="monospace">int</td><td class="monospace"><a href="#getHeight">getHeight</a>()</td><td>Returns the height in pixels of this Image object</td>
 </tr>
 <tr>
-<td class="monospace">Color[]</td><td class="monospace"><a href="#getPixels">getPixels</a>()</td><td></td>
+<td class="monospace">Color[]</td><td class="monospace"><a href="#getPixels">getPixels</a>()</td><td>Returns the array of Colors representing pixels in this Image object</td>
 </tr>
 <tr>
-<td class="monospace">int</td><td class="monospace"><a href="#getWidth">getWidth</a>()</td><td></td>
+<td class="monospace">int</td><td class="monospace"><a href="#getWidth">getWidth</a>()</td><td>Returns the width in pixels of this Image object</td>
 </tr>
 <tr>
-<td class="monospace">int</td><td class="monospace"><a href="#size">size</a>()</td><td></td>
+<td class="monospace">int</td><td class="monospace"><a href="#size">size</a>()</td><td>Returns the number of pixels in this Image object</td>
 </tr>
 <tr>
-<td class="monospace">String</td><td class="monospace"><a href="#toString">toString</a>()</td><td></td>
+<td class="monospace">String</td><td class="monospace"><a href="#toString">toString</a>()</td><td>Returns the String representation of this Image object</td>
 </tr>
 </table>
 
@@ -68,7 +68,7 @@ title: "Documentation for Image.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>public String toString()</pre><b>Overrides:</b><br><code>toString</code> in class java.lang.Object<br><br><b>Returns:</b><br>a String representation of this Image.</td>
+  <td><pre>public String toString()</pre>Returns the String representation of this Image object<br><br><b>Overrides:</b><br><code>toString</code> in class java.lang.Object<br><br><b>Returns:</b><br>a String representation of this Image.</td>
 </tr>
 </table>
 
@@ -80,7 +80,7 @@ title: "Documentation for Image.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>Color getColorAtPos(int col,<br>                    int row)</pre><b>Parameters:</b><br><code>col</code> - the column of the pixel to look up<br><code>row</code> - the row of the pixel to look up<br><br><b>Returns:</b><br>the Color at the given location in the image</td>
+  <td><pre>Color getColorAtPos(int col,<br>                    int row)</pre>Returns the Color at the given row and column of the Image<br><br><b>Parameters:</b><br><code>col</code> - the column of the pixel to look up<br><code>row</code> - the row of the pixel to look up<br><br><b>Returns:</b><br>the Color at the given location in the image</td>
 </tr>
 </table>
 
@@ -92,7 +92,7 @@ title: "Documentation for Image.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>int getWidth()</pre><b>Returns:</b><br>the width in pixels of this Image object</td>
+  <td><pre>int getWidth()</pre>Returns the width in pixels of this Image object<br><br><b>Returns:</b><br>the width in pixels of this Image object</td>
 </tr>
 </table>
 
@@ -104,7 +104,7 @@ title: "Documentation for Image.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>int getHeight()</pre><b>Returns:</b><br>the height in pixels of this Image object</td>
+  <td><pre>int getHeight()</pre>Returns the height in pixels of this Image object<br><br><b>Returns:</b><br>the height in pixels of this Image object</td>
 </tr>
 </table>
 
@@ -116,7 +116,7 @@ title: "Documentation for Image.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>Color getPixels()</pre><b>Returns:</b><br>the array of Colors representing pixels in this Image object</td>
+  <td><pre>Color getPixels()</pre>Returns the array of Colors representing pixels in this Image object<br><br><b>Returns:</b><br>the array of Colors representing pixels in this Image object</td>
 </tr>
 </table>
 
@@ -128,6 +128,6 @@ title: "Documentation for Image.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>int size()</pre><b>Returns:</b><br>the number of pixels in this Image object</td>
+  <td><pre>int size()</pre>Returns the number of pixels in this Image object<br><br><b>Returns:</b><br>the number of pixels in this Image object</td>
 </tr>
 </table>
