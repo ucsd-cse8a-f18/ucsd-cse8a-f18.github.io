@@ -51,7 +51,7 @@ title: "Documentation for CSV.java"
 <td class="monospace">int</td><td class="monospace"><a href="#minInt">minInt</a><br>(int colIndex)</td><td>Assuming that values at column colIndex are formatted as integers, returns the maximum value among the data at the given column index across all rows in this CSV object.</td>
 </tr>
 <tr>
-<td class="monospace">String</td><td class="monospace"><a href="#toString">toString</a>()</td><td>Returns the String representation of the CSV object</td>
+<td class="monospace">String</td><td class="monospace"><a href="#toString">toString</a>()</td><td>Returns the String representation of this CSV object</td>
 </tr>
 </table>
 
@@ -188,6 +188,6 @@ title: "Documentation for CSV.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>public String toString()</pre>Returns the String representation of the CSV object<br><br><b>Overrides:</b><br><code>toString</code> in class java.lang.Object<br><br><b>Returns:</b><br>a String representation of this CSV data</td>
+  <td><pre>public String toString()</pre>Returns the String representation of this CSV object<br><br><b>Overrides:</b><br><code>toString</code> in class java.lang.Object<br><br><b>Returns:</b><br>a String representation of this CSV data</td>
 </tr>
 </table>
