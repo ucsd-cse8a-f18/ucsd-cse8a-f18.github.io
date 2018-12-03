@@ -24,7 +24,7 @@ title: "Documentation for CSV.java"
   </tr>
 </thead>
 <tr>
-<td class="monospace">String</td><td class="monospace"><a href="#getData">getData</a><br>(int rowIndex,<br>int colIndex)</td><td>Consumes a table as a String and an integer number of lines. Returns the first specified number of rows (not including the header row) of the table as a String.</td>
+<td class="monospace">String</td><td class="monospace"><a href="#getData">getData</a><br>(int rowIndex,<br>int colIndex)</td><td>Returns the data at the given row and column indexes</td>
 </tr>
 <tr>
 <td class="monospace">int</td><td class="monospace"><a href="#getNumCols">getNumCols</a>()</td><td>Returns the number of columns in the table</td>
@@ -116,7 +116,7 @@ title: "Documentation for CSV.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>public String getData(int rowIndex<br>                      int colIndex)</pre>Consumes a table as a String and an integer number of lines. Returns the first specified number of rows (not including the header row) of the table as a String.<br><br><b>Parameters:</b><br><code>rowIndex</code> - the index of the row to look up<br><code>colIndex</code> - the index of the column to look up<br><br><b>Returns:</b><br>the data at the given row and column index in the table, as a String</td>
+  <td><pre>public String getData(int rowIndex<br>                      int colIndex)</pre>Returns the data at the given row and column indexes<br><br><b>Parameters:</b><br><code>rowIndex</code> - the index of the row to look up<br><code>colIndex</code> - the index of the column to look up<br><br><b>Returns:</b><br>the data at the given row and column index in the table, as a String</td>
 </tr>
 </table>
 
