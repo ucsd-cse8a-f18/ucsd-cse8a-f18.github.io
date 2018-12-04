@@ -80,7 +80,7 @@ title: "Documentation for CSV.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>public int getNumRows()</pre>Returns the number of columns in the table<br><br><b>Returns:</b><br>the number of rows in the table</td>
+  <td><pre>public int getNumRows()</pre>Returns the number of rows in the table<br><br><b>Returns:</b><br>the number of rows in the table</td>
 </tr>
 </table>
 
