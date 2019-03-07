@@ -465,37 +465,12 @@ jshell> /methods
 We would use `jshell` again, especially now that we understand the sharp edges
 and how to coach around them. It gives us freedom to order content and build
 understanding of language features ground-up without telling students to ignore
-boilerplate for half the quarter. It ships with stock Java, so students can
-start to expect it to be installed and usable anywhere they use Java, and it
-doesn't require extra setup to use.
+boilerplate. It ships with stock Java, so students can start to expect it to be
+installed and usable anywhere they use Java, and it doesn't require extra setup
+to use. It's invaluable for live-coding in class and for quick experiments.
 
 That said, the sharp edges exist, and `jshell` is in no way designed in a way
 that gives beginners (or, we'd argue, professionals) friendly error messages.
-We hope this post helps folks understand what we believe the underlying
-semantic reasons are for the bad error reporting in order to explain and
-predict it for themselves.
+These problems are felt most strongly as programs increase in size and the
+permissiveness around errors allows confusion to propagate around the program.
 
-<!--
-
-We decided to use `jshell` for this offering of 8A to lessen the number of
-features either introduced or swept under the rug up front. This let us
-introduce a number of concepts at a time chosen by the course flow, rather than
-by the language we were using. Examples include:
-
-- We could introduce the distinction between static and instance methods later,
-  because it made it easier for us to introduce new methods with low-overhead
-  and simple syntax.
-- We could defer the introduction of everyone's favorite, `public static void
-  main(String[] args)`
-- We could avoid having students write classes until they actually needed them
-  to structure data, rather than organizing code into classes simply by virtue
-  of being in a Java program.
-- We could introduce `new` along with classes, since we could easily define
-  helpers to construct data.
-
-Using `jshell` affords quite a bit of flexibility in introducing Java concepts
-that isn't present when using `java` and `javac`. This post outlines a few ways
-in which we used `jshell` in the course
-
-
--->
