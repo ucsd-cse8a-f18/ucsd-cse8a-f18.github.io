@@ -37,11 +37,9 @@ program, you face a decision:
   maybe <a href="https://www2.ccs.neu.edu/javalib/Tester/">Northeastern's
   libraries</a> for testing and printing values, or a pedagogic environment
   like <a href="http://www.drjava.org/">DrJava</a>. Designed-for-pedagogy tools
-  can be terrific, and you may be able to use them if they fit your setting.
-  However, they _do_ take you outside the space of standard tools in the
-  default Java installation, which demands more IDE setup logistics, reliance
-  on maintainers of other projects, and so on.
-
+  can be terrific if they fit your setting.  They _do_ face inevitable issues
+  of authenticity and transfer to other contexts, so it's useful to consider
+  off-the-shelf tools if possible.
 
 As of Java version 9, <a
 href="https://docs.oracle.com/javase/9/jshell/introduction-jshell.htm#JSHEL-GUID-630F27C8-1195-4989-9F6B-2C51D46F52C8">`jshell`</a>
