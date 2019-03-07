@@ -12,7 +12,7 @@ some pitfalls we ran into, especially with (a lack of) error reporting.  </p>
 
 ## Every Java Instructor's Decision
 
-So you want to teach a lower-division course for first-time programmers in
+Say you want to teach a lower-division course for first-time programmers in
 Java. Set aside your praise or complaints about Java itself for the moment;
 assume you're going to do it and you're going to use Java. For students' first
 program, you face a decision:
