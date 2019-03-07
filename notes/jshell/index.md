@@ -10,7 +10,7 @@ part of an introductory Java course. We describe how we get more control over
 when to introduce language features, some nice affordances of `jshell`, and
 some pitfalls we ran into, especially with (a lack of) error reporting.  </p>
 
-## Every Java Instructor's Decision
+## The First (Java) Program to Show
 
 Say you want to teach a lower-division course for first-time programmers in
 Java. Set aside your praise or complaints about Java itself for the moment;
