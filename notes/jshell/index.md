@@ -7,8 +7,8 @@ authors: "Joe Gibbs Politz and Mia Minnes"
 
 <p class="summary"> Summary: We used <code>jshell</code> to teach the first
 part of an introductory Java course. We describe how we get more control over
-when to introduce language features, and describe some pitfalls we ran into,
-especially with (a lack of) error reporting.  </p>
+when to introduce language features, some nice affordances of `jshell`, and
+some pitfalls we ran into, especially with (a lack of) error reporting.  </p>
 
 ## Every Java Instructor's Decision
 
