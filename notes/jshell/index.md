@@ -40,8 +40,7 @@ program, you face a decision:
   like <a href="http://www.drjava.org/">DrJava</a>. Designed-for-pedagogy tools
   can be terrific, and we can and do use them sometimes! They _do_ face some
   tradeoffs with authenticity and transfer, so it's useful to have a closer
-  look at tools that ship with Java to see if they can meet our pedagogic
-  needs.
+  look at tools that ship with Java to see how they fit our pedagogic needs.
 
 As of Java version 9, <a
 href="https://docs.oracle.com/javase/9/jshell/introduction-jshell.htm#JSHEL-GUID-630F27C8-1195-4989-9F6B-2C51D46F52C8">`jshell`</a>
