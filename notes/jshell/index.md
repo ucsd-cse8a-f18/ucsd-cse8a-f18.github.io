@@ -241,7 +241,7 @@ invaluable.
 There are plenty of other commands that you can see by using `/help`; these are
 the ones we most commonly used.
 
-## The Quirks of `jshell`
+## Quirks and Unhappy Surprises
 
 There were some features of `jshell` that surprised us, and that we would
 design differently. These revolve around a few fundamental design decisions in
