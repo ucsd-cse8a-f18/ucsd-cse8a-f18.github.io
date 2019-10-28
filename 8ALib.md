@@ -635,7 +635,7 @@ title: "Documentation for 8ALib.java"
   </tr>
 </thead>
 <tr>
-  <td><pre>boolean play(int[] sound)</pre>Takes an int array representing a sound and plays it (using the computer's speakers / headphones) and returns true if the operation was performed successfully and false otherwise.<br><br><b>Parameters:</b><br><code>sound</code> - int array representing a sound<br><br><b>Returns:</b><br>Returns true if the sound was successfully played and false otherwise. Expects that the array contain values between -32768 and 32767; if values outside this range are provided, they will be treated as numbers on the boundary (so if 60000 is in the array, it will be treated as 32767).</td>
+  <td><pre>boolean play(int[] sound)</pre>Takes an int array representing a sound and plays it (using the computer's speakers / headphones) and returns true if the operation was performed successfully and false otherwise.<br><br><b>Parameters:</b><br><code>sound</code> - int array representing a sound.  Expects that the array contain values between -32768 and 32767; if values outside this range are provided, they will be treated as numbers on the boundary (so if 60000 is in the array, it will be treated as 32767).<br><br><b>Returns:</b><br>Returns true if the sound was successfully played and false otherwise.</td>
 </tr>
 </table>
 
