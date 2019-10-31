@@ -26,6 +26,14 @@ title: "Documentation for Media.java"
 <tr>
 <td class="monospace">static int[]</td><td class="monospace"><a href="#readSound">readSound</a><br>(String path)</td><td>Reads a file from the given path into an integer array, assuming the file is an audio file. Always tries to read the file at a rate of 22050 Hz</td>
 </tr>
+  
+<tr>
+<td class="monospace">static void</td><td class="monospace"><a href="#saveSound">saveSound</a><br>(int[] sound, String path)</td><td>Saves the given sound as a 22050 Hz wav file at the given path.</td>
+</tr>
+<tr>
+<td class="monospace">static void</td><td class="monospace"><a href="#saveImage">saveImage</a><br>(Image image, String path)</td><td>Saves the given image as a file at the given path.</td>
+</tr>
+
 </table>
 
 ### Method Detail
